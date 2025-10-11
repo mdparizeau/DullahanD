@@ -4698,3 +4698,90 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.11-06.41.51:530][564]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.10.11-06.41.51:530][564]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.10.11-06.41.51:530][564]AssetCheck: /Game/Levels/Level1 Validating asset
+[2025.10.11-06.44.03:760][105]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 33071.050781
+[2025.10.11-06.44.03:910][114]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.11-06.44.03:910][114]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 33071.175781, Update Interval: 325.131989
+[2025.10.11-06.45.58:946][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.10.11-06.45.58:963][918]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Level1/D/GK/F7JT6S5S8NDOS5UYIT03MR_Auto9
+[2025.10.11-06.45.58:963][918]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/DullahanD/Saved/F7JT6S5S8NDOS5UYIT03MR_Auto98C4D357C4938AC84E6EC41B540E0F16A.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/DullahanD/Saved/Autosaves/Game/__ExternalActors__/Levels/Level1/D/GK/F7JT6S5S8NDOS5UYIT03MR_Auto9.uasset'
+[2025.10.11-06.45.58:972][918]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Level1/D/O7/D3QTQFQZFG6J30DKTJHCYD_Auto9
+[2025.10.11-06.45.58:972][918]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/DullahanD/Saved/D3QTQFQZFG6J30DKTJHCYD_Auto987F277B249528E758D39BE8EC0F3E402.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/DullahanD/Saved/Autosaves/Game/__ExternalActors__/Levels/Level1/D/O7/D3QTQFQZFG6J30DKTJHCYD_Auto9.uasset'
+[2025.10.11-06.45.58:982][918]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Level1/4/PS/RO5F6KBCE2285YWUMI080R_Auto9
+[2025.10.11-06.45.58:982][918]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/DullahanD/Saved/RO5F6KBCE2285YWUMI080R_Auto9476C67714DDA49D35F785A9C9E7934EA.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/DullahanD/Saved/Autosaves/Game/__ExternalActors__/Levels/Level1/4/PS/RO5F6KBCE2285YWUMI080R_Auto9.uasset'
+[2025.10.11-06.45.58:991][918]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Level1/1/K7/OEQ0HKK80UM3SWGC7FGRJG_Auto9
+[2025.10.11-06.45.58:991][918]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/DullahanD/Saved/OEQ0HKK80UM3SWGC7FGRJG_Auto92C8E2FE04FEC88DB7143478A50088BD7.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/DullahanD/Saved/Autosaves/Game/__ExternalActors__/Levels/Level1/1/K7/OEQ0HKK80UM3SWGC7FGRJG_Auto9.uasset'
+[2025.10.11-06.45.59:000][918]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Level1/8/U7/W6RNCNU68BRRH3PAL1KFZM_Auto9
+[2025.10.11-06.45.59:000][918]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/DullahanD/Saved/W6RNCNU68BRRH3PAL1KFZM_Auto977D2079541B9A88A8990398E7F135EB5.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/DullahanD/Saved/Autosaves/Game/__ExternalActors__/Levels/Level1/8/U7/W6RNCNU68BRRH3PAL1KFZM_Auto9.uasset'
+[2025.10.11-06.45.59:001][918]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.087
+[2025.10.11-06.45.59:001][918]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.087
+[2025.10.11-06.48.31:370][  1]LogPSOHitching: Encountered 900 PSO creation hitches so far (541 graphics, 359 compute). 0 of them were precached.
+[2025.10.11-06.49.47:314][437]Cmd: TRANSACTION UNDO
+[2025.10.11-06.49.47:314][437]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.10.11-06.49.59:392][104]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 33409.917969
+[2025.10.11-06.49.59:540][112]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.11-06.49.59:540][112]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 33410.042969, Update Interval: 359.089935
+[2025.10.11-06.50.01:714][240]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_1_2_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.11-06.50.03:994][374]Cmd: TRANSACTION UNDO
+[2025.10.11-06.50.03:994][374]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2025.10.11-06.50.04:005][374]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_1_2_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.11-06.50.37:767][211]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_0_1_0.Heightmap_6 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.11-06.50.38:240][229]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_1_1_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.11-06.50.54:223][143]Cmd: TRANSACTION UNDO
+[2025.10.11-06.50.54:223][143]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2025.10.11-06.50.54:234][143]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_1_2_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.11-06.50.54:235][143]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_1_2_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.11-06.51.11:180][ 64]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_0_2_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.11-06.52.37:285][609]Cmd: TRANSACTION UNDO
+[2025.10.11-06.52.37:285][609]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2025.10.11-06.52.37:295][609]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_0_2_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.11-06.52.37:295][609]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_0_2_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.11-06.52.50:753][362]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.11-06.52.50:826][362]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_0_1_0.Heightmap_6 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.11-06.52.50:828][362]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_0_1_0.Heightmap_7 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.11-06.52.50:851][362]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Level1/4/KR/FAA1WGCV02BZINFKAAI19R
+[2025.10.11-06.52.50:851][362]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/DullahanD/Saved/FAA1WGCV02BZINFKAAI19RCD6ECDAD44F0B4D60F0F2FB3639D3114.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/DullahanD/Content/__ExternalActors__/Levels/Level1/4/KR/FAA1WGCV02BZINFKAAI19R.uasset'
+[2025.10.11-06.52.50:858][362]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_1_1_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.11-06.52.50:860][362]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_1_1_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.11-06.52.50:883][362]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Level1/1/MY/2XHF2XFEBHATJU0IPZYT65
+[2025.10.11-06.52.50:884][362]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/DullahanD/Saved/2XHF2XFEBHATJU0IPZYT65EDC0932448ABF3BFE4F2949CB8A3445A.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/DullahanD/Content/__ExternalActors__/Levels/Level1/1/MY/2XHF2XFEBHATJU0IPZYT65.uasset'
+[2025.10.11-06.52.50:888][362]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_0_2_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.11-06.52.50:890][362]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_0_2_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.11-06.52.50:915][362]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Level1/8/72/X4W7DBVTXBY78DYFFXTKPO
+[2025.10.11-06.52.50:916][362]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/DullahanD/Saved/X4W7DBVTXBY78DYFFXTKPOC44C80B24FA42B6F77CD8AB053F419AB.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/DullahanD/Content/__ExternalActors__/Levels/Level1/8/72/X4W7DBVTXBY78DYFFXTKPO.uasset'
+[2025.10.11-06.52.50:920][362]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_1_2_0.Heightmap_0 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.11-06.52.50:923][362]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_1_2_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.11-06.52.50:946][362]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Level1/9/MW/K531DCIFHYOMA8J8WDHZX5
+[2025.10.11-06.52.50:947][362]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/DullahanD/Saved/K531DCIFHYOMA8J8WDHZX5E2A0B7CE4F77FE3109892689C8B70FFE.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/DullahanD/Content/__ExternalActors__/Levels/Level1/9/MW/K531DCIFHYOMA8J8WDHZX5.uasset'
+[2025.10.11-06.52.50:957][362]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Level1/D/GK/F7JT6S5S8NDOS5UYIT03MR
+[2025.10.11-06.52.50:958][362]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/DullahanD/Saved/F7JT6S5S8NDOS5UYIT03MRA30856174461664A1AB191896C1A6C1C.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/DullahanD/Content/__ExternalActors__/Levels/Level1/D/GK/F7JT6S5S8NDOS5UYIT03MR.uasset'
+[2025.10.11-06.52.50:970][362]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Level1/D/O7/D3QTQFQZFG6J30DKTJHCYD
+[2025.10.11-06.52.50:970][362]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/DullahanD/Saved/D3QTQFQZFG6J30DKTJHCYDBF571F4E4A89D751EB2F809884BA19ED.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/DullahanD/Content/__ExternalActors__/Levels/Level1/D/O7/D3QTQFQZFG6J30DKTJHCYD.uasset'
+[2025.10.11-06.52.50:980][362]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Level1/4/PS/RO5F6KBCE2285YWUMI080R
+[2025.10.11-06.52.50:981][362]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/DullahanD/Saved/RO5F6KBCE2285YWUMI080RE123E5864B103EAE3D70A284EB1FDFBB.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/DullahanD/Content/__ExternalActors__/Levels/Level1/4/PS/RO5F6KBCE2285YWUMI080R.uasset'
+[2025.10.11-06.52.50:992][362]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Level1/1/K7/OEQ0HKK80UM3SWGC7FGRJG
+[2025.10.11-06.52.50:993][362]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/DullahanD/Saved/OEQ0HKK80UM3SWGC7FGRJGE259E36D4C6C704402449E9F9BD58951.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/DullahanD/Content/__ExternalActors__/Levels/Level1/1/K7/OEQ0HKK80UM3SWGC7FGRJG.uasset'
+[2025.10.11-06.52.51:004][362]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Level1/8/U7/W6RNCNU68BRRH3PAL1KFZM
+[2025.10.11-06.52.51:004][362]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/DullahanD/Saved/W6RNCNU68BRRH3PAL1KFZME67270AF41C0E1EA2FD7819CD243C05D.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/DullahanD/Content/__ExternalActors__/Levels/Level1/8/U7/W6RNCNU68BRRH3PAL1KFZM.uasset'
+[2025.10.11-06.52.51:022][362]LogFileHelpers: InternalPromptForCheckoutAndSave took 268.655 ms (total: 4.02 sec)
+[2025.10.11-06.52.51:091][362]LogContentValidation: Display: Starting to validate 9 assets
+[2025.10.11-06.52.51:091][362]LogContentValidation: Enabled validators:
+[2025.10.11-06.52.51:091][362]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.11-06.52.51:091][362]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.11-06.52.51:091][362]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.11-06.52.51:091][362]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.11-06.52.51:091][362]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.11-06.52.51:091][362]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.11-06.52.51:091][362]AssetCheck: /Game/Levels/Level1 Validating asset
+[2025.10.11-06.53.11:924][566]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.11-06.53.12:004][566]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Level1/4/PS/RO5F6KBCE2285YWUMI080R
+[2025.10.11-06.53.12:004][566]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/DullahanD/Saved/RO5F6KBCE2285YWUMI080REE3E4EF34A229833AB6FA5BFCD8794A5.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/DullahanD/Content/__ExternalActors__/Levels/Level1/4/PS/RO5F6KBCE2285YWUMI080R.uasset'
+[2025.10.11-06.53.12:021][566]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.944 ms (total: 4.11 sec)
+[2025.10.11-06.53.12:089][566]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.11-06.53.12:089][566]LogContentValidation: Enabled validators:
+[2025.10.11-06.53.12:089][566]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.11-06.53.12:089][566]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.11-06.53.12:089][566]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.11-06.53.12:089][566]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.11-06.53.12:089][566]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.11-06.53.12:089][566]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.11-06.53.12:089][566]AssetCheck: /Game/Levels/Level1 Validating asset
