@@ -1672,3 +1672,290 @@ LogConfig: Set CVar [[r.VRS.EnableSoftware:1]]
 [2025.10.22-04.46.29:816][189]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.10.22-04.46.29:816][189]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.10.22-04.46.29:816][189]AssetCheck: /Game/Levels/Level1 Validating asset
+[2025.10.22-04.49.20:355][188]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1362.778076
+[2025.10.22-04.49.20:500][196]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.22-04.49.20:500][196]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1362.912476, Update Interval: 340.114136
+[2025.10.22-04.51.30:305][273]Cmd: TRANSACTION UNDO
+[2025.10.22-04.51.30:305][273]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2025.10.22-04.51.30:327][273]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_1_1_0.Heightmap_7 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.22-04.51.30:327][273]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_1_1_0.Heightmap_6 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.22-04.53.49:082][338]Cmd: TRANSACTION UNDO
+[2025.10.22-04.53.49:082][338]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2025.10.22-04.53.49:094][338]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_1_1_0.Heightmap_7 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.22-04.53.49:094][338]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_1_1_0.Heightmap_6 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.22-04.54.36:308][662]Cmd: TRANSACTION UNDO
+[2025.10.22-04.54.36:309][662]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2025.10.22-04.54.36:321][662]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_1_1_0.Heightmap_7 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.22-04.54.36:321][662]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_1_1_0.Heightmap_6 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.22-04.55.19:103][970]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1721.523071
+[2025.10.22-04.55.19:256][979]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.22-04.55.19:256][979]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1721.660767, Update Interval: 340.147095
+[2025.10.22-04.57.11:970][916]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.22-04.57.12:049][916]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_1_1_0.Heightmap_6 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.22-04.57.12:051][916]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_1_1_0.Heightmap_7 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.22-04.57.12:079][916]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Level1/1/MY/2XHF2XFEBHATJU0IPZYT65
+[2025.10.22-04.57.12:080][916]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/DullahanD/Saved/2XHF2XFEBHATJU0IPZYT65D573CF7F44F93BA072B0BB8818DF984B.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/DullahanD/Content/__ExternalActors__/Levels/Level1/1/MY/2XHF2XFEBHATJU0IPZYT65.uasset'
+[2025.10.22-04.57.12:108][916]LogFileHelpers: InternalPromptForCheckoutAndSave took 137.051 ms (total: 909.028 ms)
+[2025.10.22-04.57.12:186][916]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.22-04.57.12:186][916]LogContentValidation: Enabled validators:
+[2025.10.22-04.57.12:186][916]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.22-04.57.12:186][916]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.22-04.57.12:186][916]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.22-04.57.12:186][916]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.22-04.57.12:186][916]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.22-04.57.12:186][916]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.22-04.57.12:186][916]AssetCheck: /Game/Levels/Level1 Validating asset
+[2025.10.22-05.01.31:263][844]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2093.679443
+[2025.10.22-05.01.32:262][847]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.22-05.01.32:262][847]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2094.346191, Update Interval: 329.678650
+[2025.10.22-05.07.46:984][971]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2469.397705
+[2025.10.22-05.07.47:985][974]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.22-05.07.47:985][974]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2470.064453, Update Interval: 344.074829
+[2025.10.22-05.14.24:391][160]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2866.798828
+[2025.10.22-05.14.25:391][163]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.22-05.14.25:391][163]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2867.465332, Update Interval: 301.107819
+[2025.10.22-05.20.21:447][231]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3223.854980
+[2025.10.22-05.20.22:448][234]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.22-05.20.22:448][234]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3224.520996, Update Interval: 310.863983
+[2025.10.22-05.26.17:502][299]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3579.908203
+[2025.10.22-05.26.18:503][302]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.22-05.26.18:503][302]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3580.574463, Update Interval: 330.409241
+[2025.10.22-05.28.33:608][708]LogDerivedDataCache: C:/Users/Then2/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.22-05.32.42:554][454]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3964.958252
+[2025.10.22-05.32.43:554][457]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.22-05.32.43:555][457]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3965.624268, Update Interval: 345.001373
+[2025.10.22-05.39.07:957][611]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4350.363770
+[2025.10.22-05.39.08:957][613]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.22-05.39.08:957][614]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4351.030762, Update Interval: 341.981873
+[2025.10.22-05.45.47:022][807]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4749.421387
+[2025.10.22-05.45.48:022][810]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.22-05.45.48:022][811]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4750.088379, Update Interval: 342.490906
+[2025.10.22-05.52.21:088][989]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5143.494141
+[2025.10.22-05.52.22:090][992]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.22-05.52.22:090][992]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5144.162598, Update Interval: 327.364105
+[2025.10.22-05.58.23:803][ 77]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5506.210938
+[2025.10.22-05.58.24:802][ 80]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.22-05.58.24:802][ 80]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5506.875977, Update Interval: 354.501160
+[2025.10.22-06.05.06:194][284]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5908.600098
+[2025.10.22-06.05.07:194][287]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.22-06.05.07:194][288]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5909.267090, Update Interval: 332.994781
+[2025.10.22-06.11.13:580][387]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6275.985352
+[2025.10.22-06.11.14:581][389]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.22-06.11.14:581][390]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6276.652832, Update Interval: 312.213501
+[2025.10.22-06.17.03:975][437]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6626.370605
+[2025.10.22-06.17.04:976][440]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.22-06.17.04:976][440]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6627.038574, Update Interval: 338.861664
+[2025.10.22-06.23.32:701][604]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7015.102051
+[2025.10.22-06.23.33:702][606]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.22-06.23.33:702][607]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7015.768555, Update Interval: 329.762878
+[2025.10.22-06.28.33:618][506]LogDerivedDataCache: C:/Users/Then2/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.22-06.29.48:100][729]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7390.501953
+[2025.10.22-06.29.49:099][732]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.22-06.29.49:099][732]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7391.167969, Update Interval: 359.950562
+[2025.10.22-06.36.45:509][982]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7807.911133
+[2025.10.22-06.36.46:510][984]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.22-06.36.46:510][985]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7808.578613, Update Interval: 312.125610
+[2025.10.22-06.42.46:243][ 63]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8168.641602
+[2025.10.22-06.42.47:242][ 66]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.22-06.42.47:242][ 66]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8169.307129, Update Interval: 352.314819
+[2025.10.22-06.49.12:963][224]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8555.356445
+[2025.10.22-06.49.13:965][226]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.22-06.49.13:965][227]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8556.023438, Update Interval: 324.870148
+[2025.10.22-06.55.15:689][312]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8918.086914
+[2025.10.22-06.55.16:689][314]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.22-06.55.16:689][315]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8918.753906, Update Interval: 315.683472
+[2025.10.22-07.01.11:093][378]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9273.482422
+[2025.10.22-07.01.12:092][380]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.22-07.01.12:092][381]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9274.150391, Update Interval: 332.580963
+[2025.10.22-07.07.27:486][506]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9649.875000
+[2025.10.22-07.07.28:489][509]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.22-07.07.28:489][509]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9650.542969, Update Interval: 354.471863
+[2025.10.22-07.14.00:220][685]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10042.605469
+[2025.10.22-07.14.01:220][687]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.22-07.14.01:221][688]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10043.272461, Update Interval: 342.906586
+[2025.10.22-07.20.33:284][863]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10435.663086
+[2025.10.22-07.20.34:285][866]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.22-07.20.34:285][867]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10436.331055, Update Interval: 309.042023
+[2025.10.22-07.26.32:047][939]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10794.404297
+[2025.10.22-07.26.33:047][942]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.22-07.26.33:047][942]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10795.071289, Update Interval: 343.043915
+[2025.10.22-07.28.33:621][304]LogDerivedDataCache: C:/Users/Then2/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.22-07.32.54:779][ 87]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11177.123047
+[2025.10.22-07.32.55:779][ 90]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.22-07.32.55:779][ 90]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11177.790039, Update Interval: 339.149139
+[2025.10.22-07.39.12:520][220]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11554.833984
+[2025.10.22-07.39.13:521][223]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.22-07.39.13:521][223]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11555.500977, Update Interval: 345.565369
+[2025.10.22-07.45.52:912][421]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11955.233398
+[2025.10.22-07.45.53:912][424]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.22-07.45.53:912][424]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11955.900391, Update Interval: 331.372406
+[2025.10.22-07.52.20:982][585]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12343.310547
+[2025.10.22-07.52.21:982][588]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.22-07.52.21:982][588]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12343.977539, Update Interval: 350.463562
+[2025.10.22-07.58.49:044][749]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12731.359375
+[2025.10.22-07.58.50:044][752]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.22-07.58.50:044][752]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12732.026367, Update Interval: 352.470459
+[2025.10.22-08.05.18:202][753]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13120.518555
+[2025.10.22-08.05.18:368][763]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.22-08.05.18:370][763]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13120.669922, Update Interval: 300.263672
+[2025.10.22-08.08.50:488][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.10.22-08.08.50:494][447]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_1_1_0.Heightmap_6 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.22-08.08.50:511][447]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_1_1_0.Heightmap_7 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.22-08.08.50:532][447]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Level1/1/MY/2XHF2XFEBHATJU0IPZYT65_Auto2
+[2025.10.22-08.08.50:533][447]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/DullahanD/Saved/2XHF2XFEBHATJU0IPZYT65_Auto25156B198408EB1760178FCAA8BB57DE2.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/DullahanD/Saved/Autosaves/Game/__ExternalActors__/Levels/Level1/1/MY/2XHF2XFEBHATJU0IPZYT65_Auto2.uasset'
+[2025.10.22-08.08.50:534][447]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.068
+[2025.10.22-08.08.50:534][447]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.068
+[2025.10.22-08.11.12:875][770]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13475.105469
+[2025.10.22-08.11.13:024][779]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.22-08.11.13:024][780]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13475.238281, Update Interval: 320.497437
+[2025.10.22-08.17.13:611][898]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13835.916992
+[2025.10.22-08.17.13:776][908]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.22-08.17.13:776][908]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13836.066406, Update Interval: 315.123138
+[2025.10.22-08.23.14:731][610]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14197.123047
+[2025.10.22-08.23.14:905][617]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.22-08.23.14:906][617]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14197.275391, Update Interval: 335.585815
+[2025.10.22-08.23.54:764][623]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.10.22-08.23.54:771][623]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_1_1_0.Heightmap_6 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.22-08.23.54:773][623]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_1_1_0.Heightmap_7 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.22-08.23.54:797][623]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Level1/1/MY/2XHF2XFEBHATJU0IPZYT65_Auto3
+[2025.10.22-08.23.54:798][623]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/DullahanD/Saved/2XHF2XFEBHATJU0IPZYT65_Auto38FF05AC345841EBCAAD79A8B3E3036D1.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/DullahanD/Saved/Autosaves/Game/__ExternalActors__/Levels/Level1/1/MY/2XHF2XFEBHATJU0IPZYT65_Auto3.uasset'
+[2025.10.22-08.23.54:802][623]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_2_1_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.22-08.23.54:805][623]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_2_1_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.22-08.23.54:824][623]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Level1/6/E4/45ZA8C7QDG70ZZVK6L5G36_Auto3
+[2025.10.22-08.23.54:825][623]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/DullahanD/Saved/45ZA8C7QDG70ZZVK6L5G36_Auto38E3CC9AF4A478F712EB691BB823AA17A.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/DullahanD/Saved/Autosaves/Game/__ExternalActors__/Levels/Level1/6/E4/45ZA8C7QDG70ZZVK6L5G36_Auto3.uasset'
+[2025.10.22-08.23.54:827][623]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.089
+[2025.10.22-08.23.54:827][623]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.089
+[2025.10.22-08.25.52:575][638]Cmd: TRANSACTION UNDO
+[2025.10.22-08.25.52:575][638]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2025.10.22-08.25.52:586][638]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_1_1_0.Heightmap_7 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.22-08.25.52:587][638]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_1_1_0.Heightmap_6 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.22-08.28.33:623][186]LogDerivedDataCache: C:/Users/Then2/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.22-08.29.22:707][729]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14565.180664
+[2025.10.22-08.29.22:856][738]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.22-08.29.22:856][738]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14565.314453, Update Interval: 324.743805
+[2025.10.22-08.32.54:818][897]Cmd: TRANSACTION UNDO
+[2025.10.22-08.32.54:818][897]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2025.10.22-08.32.54:830][897]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_1_1_0.Heightmap_7 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.22-08.32.54:830][897]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_1_1_0.Heightmap_6 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.22-08.33.03:136][346]Cmd: TRANSACTION UNDO
+[2025.10.22-08.33.03:136][346]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2025.10.22-08.33.03:146][346]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_1_1_0.Heightmap_7 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.22-08.33.03:147][346]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_1_1_0.Heightmap_6 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.22-08.33.54:028][939]Cmd: TRANSACTION UNDO
+[2025.10.22-08.33.54:028][939]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2025.10.22-08.33.54:049][939]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_2_1_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.22-08.33.54:049][939]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_1_1_0.Heightmap_7 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.22-08.33.54:049][939]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_2_1_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.22-08.33.54:050][939]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_1_1_0.Heightmap_6 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.22-08.34.00:900][298]Cmd: TRANSACTION UNDO
+[2025.10.22-08.34.00:900][298]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2025.10.22-08.34.00:915][298]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_2_1_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.22-08.34.00:916][298]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_1_1_0.Heightmap_7 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.22-08.34.00:916][298]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_2_1_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.22-08.34.00:917][298]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_1_1_0.Heightmap_6 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.22-08.34.34:983][983]Cmd: TRANSACTION UNDO
+[2025.10.22-08.34.34:983][983]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2025.10.22-08.34.34:998][983]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_2_1_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.22-08.34.34:999][983]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_1_1_0.Heightmap_7 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.22-08.34.34:999][983]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_2_1_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.22-08.34.35:000][983]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_1_1_0.Heightmap_6 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.22-08.34.42:675][385]Cmd: TRANSACTION UNDO
+[2025.10.22-08.34.42:676][385]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2025.10.22-08.34.42:691][385]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_1_1_0.Heightmap_7 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.22-08.34.42:691][385]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_2_1_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.22-08.34.42:691][385]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_1_1_0.Heightmap_6 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.22-08.34.46:918][604]Cmd: TRANSACTION UNDO
+[2025.10.22-08.34.46:918][604]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2025.10.22-08.34.46:933][604]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_1_1_0.Heightmap_7 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.22-08.34.46:934][604]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_2_1_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.22-08.34.46:934][604]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_1_1_0.Heightmap_6 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.22-08.34.47:420][618]Cmd: TRANSACTION UNDO
+[2025.10.22-08.34.47:420][618]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2025.10.22-08.34.47:841][638]Cmd: TRANSACTION UNDO
+[2025.10.22-08.34.47:841][638]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2025.10.22-08.34.47:857][638]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_1_1_0.Heightmap_7 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.22-08.34.47:858][638]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_1_1_0.Heightmap_6 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.22-08.35.37:174][303]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14939.717773
+[2025.10.22-08.35.37:371][311]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.22-08.35.37:371][311]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14939.887695, Update Interval: 322.213196
+[2025.10.22-08.36.20:118][661]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.22-08.36.20:189][661]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_2_1_0.Heightmap_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.22-08.36.20:189][661]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_2_1_0.Heightmap_3 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.22-08.36.20:296][661]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_1_1_0.Heightmap_6 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.22-08.36.20:297][661]LogTexture: Display: Building textures: /Game/Levels/Level1.Level1:PersistentLevel.LandscapeStreamingProxy_1CR9JMND9B805KUMIXDB8P1HL_252_1_1_0.Heightmap_7 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.583324 MB), EncodeSpeed: Fast
+[2025.10.22-08.36.20:323][661]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Level1/1/MY/2XHF2XFEBHATJU0IPZYT65
+[2025.10.22-08.36.20:324][661]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/DullahanD/Saved/2XHF2XFEBHATJU0IPZYT65215E8B7B4F43E1339309FA8981CA74BB.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/DullahanD/Content/__ExternalActors__/Levels/Level1/1/MY/2XHF2XFEBHATJU0IPZYT65.uasset'
+[2025.10.22-08.36.20:348][661]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Level1/6/E4/45ZA8C7QDG70ZZVK6L5G36
+[2025.10.22-08.36.20:349][661]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/DullahanD/Saved/45ZA8C7QDG70ZZVK6L5G36EECB382345273A8329DEE2AD6C7B4DC7.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/DullahanD/Content/__ExternalActors__/Levels/Level1/6/E4/45ZA8C7QDG70ZZVK6L5G36.uasset'
+[2025.10.22-08.36.20:361][661]LogFileHelpers: InternalPromptForCheckoutAndSave took 243.766 ms (total: 1.15 sec)
+[2025.10.22-08.36.20:432][661]LogContentValidation: Display: Starting to validate 2 assets
+[2025.10.22-08.36.20:432][661]LogContentValidation: Enabled validators:
+[2025.10.22-08.36.20:432][661]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.22-08.36.20:432][661]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.22-08.36.20:432][661]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.22-08.36.20:432][661]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.22-08.36.20:432][661]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.22-08.36.20:432][661]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.22-08.36.20:433][661]AssetCheck: /Game/Levels/Level1 Validating asset
+[2025.10.22-08.36.24:366][885]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.22-08.36.24:373][885]LogContentBundle: [Level1(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.10.22-08.36.24:374][885]LogWorldPartition: Display: GenerateStreaming for 'Level1' started...
+[2025.10.22-08.36.24:375][885]LogWorldPartition: Display: GenerateStreaming for 'Level1' took 1.837 ms (total: 11.464 ms)
+[2025.10.22-08.36.24:376][885]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.22-08.36.24:376][885]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2025.10.22-08.36.24:396][885]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.10.22-08.36.24:402][885]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 5.650 ms (total: 32.480 ms)
+[2025.10.22-08.36.24:403][885]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026900s)
+[2025.10.22-08.36.24:403][885]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.026944s)
+[2025.10.22-08.36.24:423][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.10.22-08.36.24:427][885]LogChaosDD: Creating Chaos Debug Draw Scene for world Level1
+[2025.10.22-08.36.24:429][885]LogWorldPartition: ULevel::OnLevelLoaded(Level1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.22-08.36.24:429][885]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.22-08.36.24:429][885]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_Level1.Level1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.22-08.36.24:429][885]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.22-08.36.24:437][885]LogWorldPartition: Display: WorldPartition initialize took 7.561 ms (total: 756.900 ms)
+[2025.10.22-08.36.24:437][885]LogPlayLevel: PIE: World Init took: (0.009808s)
+[2025.10.22-08.36.24:438][885]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.10.22-08.36.24:438][885]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.22-08.36.24:438][885]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.22-08.36.24:438][885]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.22-08.36.24:438][885]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.22-08.36.24:438][885]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.22-08.36.24:438][885]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.22-08.36.24:438][885]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.22-08.36.24:438][885]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.22-08.36.24:438][885]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.22-08.36.24:438][885]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.22-08.36.24:438][885]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.22-08.36.24:441][885]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.22-08.36.24:465][885]LogAudioMixer: Display: Using Audio Hardware Device Speakers (G432 Gaming Headset)
+[2025.10.22-08.36.24:465][885]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.22-08.36.24:465][885]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.22-08.36.24:465][885]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.22-08.36.24:465][885]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.10.22-08.36.24:465][885]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.10.22-08.36.24:468][885]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.10.22-08.36.24:468][885]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.10.22-08.36.24:468][885]LogInit: FAudioDevice initialized with ID 6.
+[2025.10.22-08.36.24:468][885]LogAudio: Display: Audio Device (ID: 6) registered with world 'Level1'.
+[2025.10.22-08.36.24:468][885]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.10.22-08.36.24:475][885]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.10.22-08.36.24:478][885]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2025.10.22-01.36.24
+[2025.10.22-08.36.24:478][885]LogWorld: Bringing up level for play took: 0.002056
+[2025.10.22-08.36.24:481][885]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2025.10.22-08.36.24:488][885]LogStreaming: Display: FlushAsyncLoading(628,627,626,625,624,615,616,617,618,619,620,621,622,623,614,613,612,611,610,609,608,604,605,606,607,602,603,599,600,601,597,598,592,593,594,595,596): 37 QueuedPackages, 0 AsyncPackages
+[2025.10.22-08.36.24:893][885]PIE: Server logged in
+[2025.10.22-08.36.24:896][885]PIE: Play in editor total start time 0.523 seconds.
+[2025.10.22-08.38.13:052][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.22-08.38.13:052][370]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2025.10.22-08.38.13:056][370]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.10.22-08.38.13:056][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.22-08.38.13:056][370]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_Level1.Level1
+[2025.10.22-08.38.13:058][370]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.22-08.38.13:061][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.22-08.38.13:085][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.22-08.38.13:086][370]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.10.22-08.38.13:086][370]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2025.10.22-08.38.13:088][370]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2025.10.22-08.38.13:099][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.10.22-08.38.13:183][371]LogPlayLevel: Display: Destroying online subsystem :Context_5
