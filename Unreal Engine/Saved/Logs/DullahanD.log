@@ -1625,3 +1625,60 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.01.10-02.20.10:745][358]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7710.867188
 [2026.01.10-02.20.11:744][361]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.01.10-02.20.11:744][361]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7711.533691, Update Interval: 357.088531
+[2026.01.10-02.25.56:851][578]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2026.01.10-02.25.56:874][579]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2026.01.10-02.25.56:900][580]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2026.01.10-02.25.56:921][581]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2026.01.10-02.25.56:942][582]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2026.01.10-02.25.56:964][583]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2026.01.10-02.25.56:984][584]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2026.01.10-02.26.01:344][805]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/bluePrints/skull.skull
+[2026.01.10-02.26.01:344][805]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2026.01.10-02.26.36:616][779]LogEditorTransaction: Undo Modify Component(s)
+[2026.01.10-02.26.36:978][783]LogEditorTransaction: Undo Add Component
+[2026.01.10-02.26.37:502][800]LogEditorTransaction: Undo Modify Component(s)
+[2026.01.10-02.26.38:100][829]LogEditorTransaction: Undo Rename Component Variable
+[2026.01.10-02.26.38:565][850]LogEditorTransaction: Undo Add Component
+[2026.01.10-02.26.41:993][ 52]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8102.140625
+[2026.01.10-02.26.42:159][ 62]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.10-02.26.42:160][ 62]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8102.291504, Update Interval: 310.618622
+[2026.01.10-02.26.47:461][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.01.10-02.26.47:992][401]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.10-02.26.48:072][401]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/bluePrints/skull] ([2] browsable assets)...
+[2026.01.10-02.26.48:077][401]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/bluePrints/skull.skull]
+[2026.01.10-02.26.48:077][401]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/skull]
+[2026.01.10-02.26.48:077][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluePrints/skull" FILE="C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/skull.uasset" SILENT=true
+[2026.01.10-02.26.48:092][401]LogSavePackage: Moving output files for package: /Game/bluePrints/skull
+[2026.01.10-02.26.48:092][401]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/skull22E45F944D65C6430E5E6CBAEE641CBD.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/skull.uasset'
+[2026.01.10-02.26.48:105][401]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.286 ms
+[2026.01.10-02.26.48:199][401]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.10-02.26.48:199][401]LogContentValidation: Enabled validators:
+[2026.01.10-02.26.48:199][401]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.10-02.26.48:199][401]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.10-02.26.48:199][401]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.10-02.26.48:199][401]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.10-02.26.48:199][401]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.10-02.26.48:199][401]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.10-02.26.48:199][401]AssetCheck: /Game/bluePrints/skull Validating asset
+[2026.01.10-02.26.48:226][401]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.10-02.27.31:517][641]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2026.01.10-02.27.31:532][641]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Level1/3/Z7/KGQGXPNBK65N3SW8HX0G1I_Auto3
+[2026.01.10-02.27.31:532][641]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/KGQGXPNBK65N3SW8HX0G1I_Auto36ECBB6C8490B37FB9CAB38A9D4D96876.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/Autosaves/Game/__ExternalActors__/Levels/Level1/3/Z7/KGQGXPNBK65N3SW8HX0G1I_Auto3.uasset'
+[2026.01.10-02.27.31:556][641]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Level1/B/AQ/12SOHVK1YGSE2XWCCS48CH_Auto3
+[2026.01.10-02.27.31:557][641]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/12SOHVK1YGSE2XWCCS48CH_Auto30F8C5EB2441C2FC51D04A6997E1E9BE6.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/Autosaves/Game/__ExternalActors__/Levels/Level1/B/AQ/12SOHVK1YGSE2XWCCS48CH_Auto3.uasset'
+[2026.01.10-02.27.31:558][641]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.071
+[2026.01.10-02.27.31:558][641]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.071
+[2026.01.10-02.27.31:558][641]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/foliage_meshes/treeTry] ([1] browsable assets)...
+[2026.01.10-02.27.31:558][641]OBJ SavePackage: Finished generating thumbnails for package [/Game/foliage_meshes/treeTry]
+[2026.01.10-02.27.31:568][641]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/foliage_meshes/treeTry_Auto3
+[2026.01.10-02.27.31:568][641]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/treeTry_Auto35FA3D55F423AB52A449C8CB7633964EA.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/Autosaves/Game/foliage_meshes/treeTry_Auto3.uasset'
+[2026.01.10-02.27.31:569][641]LogFileHelpers: Auto-saving content packages took 0.011
+[2026.01.10-02.32.24:126][519]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8444.240234
+[2026.01.10-02.32.25:125][522]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.10-02.32.25:125][522]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8444.907227, Update Interval: 345.330963
+[2026.01.10-02.38.56:175][695]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8836.210938
+[2026.01.10-02.38.57:174][698]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.10-02.38.57:174][698]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8836.876953, Update Interval: 336.451904
+[2026.01.10-02.45.30:242][877]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9230.228516
+[2026.01.10-02.45.31:242][880]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.10-02.45.31:242][881]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9230.894531, Update Interval: 326.939301
