@@ -23915,3 +23915,63 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.01.14-06.08.42:296][292]LogUdpMessaging: Display: Added local interface '10.242.0.158' to multicast group '230.0.0.1:6666'
 [2026.01.14-06.08.42:303][292]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
 [2026.01.14-06.08.42:467][293]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-06.08.44:313][298]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:63725'.
+[2026.01.14-06.08.44:317][298]LogUdpMessaging: Display: Added local interface '172.22.208.1' to multicast group '230.0.0.1:6666'
+[2026.01.14-06.08.44:317][298]LogUdpMessaging: Display: Added local interface '10.242.0.158' to multicast group '230.0.0.1:6666'
+[2026.01.14-06.08.44:325][298]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-06.08.44:469][299]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-06.08.46:335][304]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:65086'.
+[2026.01.14-06.08.46:339][304]LogUdpMessaging: Display: Added local interface '172.22.208.1' to multicast group '230.0.0.1:6666'
+[2026.01.14-06.08.46:340][304]LogUdpMessaging: Display: Added local interface '10.242.0.158' to multicast group '230.0.0.1:6666'
+[2026.01.14-06.08.46:345][304]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-06.08.46:469][305]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-06.08.48:255][310]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:65087'.
+[2026.01.14-06.08.48:259][310]LogUdpMessaging: Display: Added local interface '172.22.208.1' to multicast group '230.0.0.1:6666'
+[2026.01.14-06.08.48:259][310]LogUdpMessaging: Display: Added local interface '10.242.0.158' to multicast group '230.0.0.1:6666'
+[2026.01.14-06.08.48:264][310]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-06.08.48:470][311]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-06.08.50:277][316]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:65088'.
+[2026.01.14-06.08.50:281][316]LogUdpMessaging: Display: Added local interface '172.22.208.1' to multicast group '230.0.0.1:6666'
+[2026.01.14-06.08.50:281][316]LogUdpMessaging: Display: Added local interface '10.242.0.158' to multicast group '230.0.0.1:6666'
+[2026.01.14-06.08.50:287][316]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-06.08.50:471][317]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-06.08.52:301][322]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:65089'.
+[2026.01.14-06.08.52:306][322]LogUdpMessaging: Display: Added local interface '172.22.208.1' to multicast group '230.0.0.1:6666'
+[2026.01.14-06.08.52:306][322]LogUdpMessaging: Display: Added local interface '10.242.0.158' to multicast group '230.0.0.1:6666'
+[2026.01.14-06.08.52:316][322]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-06.08.52:472][323]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-06.08.54:326][328]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:64363'.
+[2026.01.14-06.08.54:329][328]LogUdpMessaging: Display: Added local interface '172.22.208.1' to multicast group '230.0.0.1:6666'
+[2026.01.14-06.08.54:329][328]LogUdpMessaging: Display: Added local interface '10.242.0.158' to multicast group '230.0.0.1:6666'
+[2026.01.14-06.08.54:337][328]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-06.08.54:472][329]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-06.08.56:347][334]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:64364'.
+[2026.01.14-06.08.56:351][334]LogUdpMessaging: Display: Added local interface '172.22.208.1' to multicast group '230.0.0.1:6666'
+[2026.01.14-06.08.56:351][334]LogUdpMessaging: Display: Added local interface '10.242.0.158' to multicast group '230.0.0.1:6666'
+[2026.01.14-06.08.56:358][334]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-06.08.56:472][335]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-06.08.58:269][340]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:61403'.
+[2026.01.14-06.08.58:273][340]LogUdpMessaging: Display: Added local interface '172.22.208.1' to multicast group '230.0.0.1:6666'
+[2026.01.14-06.08.58:273][340]LogUdpMessaging: Display: Added local interface '10.242.0.158' to multicast group '230.0.0.1:6666'
+[2026.01.14-06.08.58:279][340]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-06.08.58:472][341]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-06.09.00:291][346]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:58555'.
+[2026.01.14-06.09.00:297][346]LogUdpMessaging: Display: Added local interface '172.22.208.1' to multicast group '230.0.0.1:6666'
+[2026.01.14-06.09.00:297][346]LogUdpMessaging: Display: Added local interface '10.242.0.158' to multicast group '230.0.0.1:6666'
+[2026.01.14-06.09.00:305][346]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-06.09.00:472][347]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-06.09.02:317][352]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:58556'.
+[2026.01.14-06.09.02:320][352]LogUdpMessaging: Display: Added local interface '172.22.208.1' to multicast group '230.0.0.1:6666'
+[2026.01.14-06.09.02:320][352]LogUdpMessaging: Display: Added local interface '10.242.0.158' to multicast group '230.0.0.1:6666'
+[2026.01.14-06.09.02:327][352]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-06.09.02:472][353]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-06.09.04:336][358]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:58557'.
+[2026.01.14-06.09.04:340][358]LogUdpMessaging: Display: Added local interface '172.22.208.1' to multicast group '230.0.0.1:6666'
+[2026.01.14-06.09.04:340][358]LogUdpMessaging: Display: Added local interface '10.242.0.158' to multicast group '230.0.0.1:6666'
+[2026.01.14-06.09.04:346][358]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-06.09.04:472][359]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.01.14-06.09.06:257][364]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:58558'.
+[2026.01.14-06.09.06:261][364]LogUdpMessaging: Display: Added local interface '172.22.208.1' to multicast group '230.0.0.1:6666'
+[2026.01.14-06.09.06:261][364]LogUdpMessaging: Display: Added local interface '10.242.0.158' to multicast group '230.0.0.1:6666'
+[2026.01.14-06.09.06:268][364]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.01.14-06.09.06:472][365]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
