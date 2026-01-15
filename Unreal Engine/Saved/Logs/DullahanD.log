@@ -8529,3 +8529,118 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.01.15-06.44.23:378][233]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12269.527344
 [2026.01.15-06.44.24:372][236]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.01.15-06.44.24:372][236]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12270.189453, Update Interval: 327.752319
+[2026.01.15-06.50.34:497][400]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12640.637695
+[2026.01.15-06.50.35:497][403]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.15-06.50.35:497][403]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12641.304688, Update Interval: 330.136414
+[2026.01.15-06.57.04:627][443]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13030.752930
+[2026.01.15-06.57.05:626][446]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.15-06.57.05:626][446]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13031.418945, Update Interval: 326.267273
+[2026.01.15-06.58.08:645][697]LogStreaming: Display: FlushAsyncLoading(5852): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.15-06.59.33:634][442]LogBlueprint: Warning: [AssetLog] C:\Users\Then2\Documents\gitHub\DullahanD\Unreal Engine\Content\bluePrints\gauntlet\BP_sandbag.uasset: [Compiler] Could not find a variable named "collided" in '/Game/bluePrints/gauntlet/BP_sandbag.BP_sandbag_C'.
+Make sure '/Game/bluePrints/gauntlet/BP_sandbag.BP_sandbag_C' has been compiled for  Set collided
+[2026.01.15-06.59.33:635][442]LogBlueprint: Warning: [AssetLog] C:\Users\Then2\Documents\gitHub\DullahanD\Unreal Engine\Content\bluePrints\gauntlet\BP_sandbag.uasset: [Compiler] On Component Hit (Cube)  does not have a valid matching component!
+[2026.01.15-06.59.33:637][442]LogBlueprint: Error: [AssetLog] C:\Users\Then2\Documents\gitHub\DullahanD\Unreal Engine\Content\bluePrints\gauntlet\BP_sandbag.uasset: [Compiler] The property associated with  Collided  could not be found in '/Game/bluePrints/gauntlet/BP_sandbag.BP_sandbag_C'
+[2026.01.15-06.59.33:647][442]LogStreaming: Display: FlushAsyncLoading(5856): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.15-06.59.33:719][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2026.01.15-07.00.26:556][596]LogSlate: Window 'Change Variable Type' being destroyed
+[2026.01.15-07.00.34:766][827]LogSlate: Window 'Find in Blueprints' being destroyed
+[2026.01.15-07.00.34:782][827]LogSlate: Window 'Find in Blueprints' being destroyed
+[2026.01.15-07.00.41:264][992]LogSlate: Window 'Delete Variable' being destroyed
+[2026.01.15-07.01.54:393][254]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2026.01.15-07.01.54:403][254]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.059
+[2026.01.15-07.01.54:405][254]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/bluePrints/gauntlet/BP_sandbag] ([2] browsable assets)...
+[2026.01.15-07.01.54:418][254]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/bluePrints/gauntlet/BP_sandbag.BP_sandbag]
+[2026.01.15-07.01.54:418][254]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/gauntlet/BP_sandbag]
+[2026.01.15-07.01.54:440][254]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/bluePrints/gauntlet/BP_sandbag_Auto5
+[2026.01.15-07.01.54:440][254]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/BP_sandbag_Auto5A508A014435DD68FE246D4BB92FAA4AD.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/Autosaves/Game/bluePrints/gauntlet/BP_sandbag_Auto5.uasset'
+[2026.01.15-07.01.54:441][254]LogFileHelpers: Auto-saving content packages took 0.038
+[2026.01.15-07.02.23:357][317]LogBlueprint: Warning: [AssetLog] C:\Users\Then2\Documents\gitHub\DullahanD\Unreal Engine\Content\bluePrints\gauntlet\BP_sandbag.uasset: [Compiler] On Component Hit (Cube)  does not have a valid matching component!
+[2026.01.15-07.02.23:433][317]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2026.01.15-07.03.14:730][505]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13400.848633
+[2026.01.15-07.03.14:879][512]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.15-07.03.14:879][512]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13400.976562, Update Interval: 333.815125
+[2026.01.15-07.04.34:095][919]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.01.15-07.04.34:911][948]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.15-07.04.34:987][948]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/bluePrints/gauntlet/BP_sandbag] ([2] browsable assets)...
+[2026.01.15-07.04.34:992][948]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/bluePrints/gauntlet/BP_sandbag.BP_sandbag]
+[2026.01.15-07.04.34:992][948]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/gauntlet/BP_sandbag]
+[2026.01.15-07.04.34:992][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluePrints/gauntlet/BP_sandbag" FILE="C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/gauntlet/BP_sandbag.uasset" SILENT=true
+[2026.01.15-07.04.35:014][948]LogSavePackage: Moving output files for package: /Game/bluePrints/gauntlet/BP_sandbag
+[2026.01.15-07.04.35:015][948]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/BP_sandbag5020454A4C05A9919C943AB6A8B4447B.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/gauntlet/BP_sandbag.uasset'
+[2026.01.15-07.04.35:026][948]LogFileHelpers: InternalPromptForCheckoutAndSave took 114.746 ms (total: 7.02 sec)
+[2026.01.15-07.04.35:105][948]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.15-07.04.35:106][948]LogContentValidation: Enabled validators:
+[2026.01.15-07.04.35:106][948]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.15-07.04.35:106][948]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.15-07.04.35:106][948]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.15-07.04.35:106][948]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.15-07.04.35:106][948]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.15-07.04.35:106][948]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.15-07.04.35:106][948]AssetCheck: /Game/bluePrints/gauntlet/BP_sandbag Validating asset
+[2026.01.15-07.07.17:560][283]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.15-07.07.17:568][283]LogContentBundle: [Level1(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.01.15-07.07.17:568][283]LogWorldPartition: Display: GenerateStreaming for 'Level1' started...
+[2026.01.15-07.07.17:573][283]LogWorldPartition: Display: GenerateStreaming for 'Level1' took 4.398 ms (total: 151.198 ms)
+[2026.01.15-07.07.17:573][283]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.15-07.07.17:574][283]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2026.01.15-07.07.17:605][283]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.01.15-07.07.17:611][283]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 6.487 ms (total: 250.599 ms)
+[2026.01.15-07.07.17:612][283]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037789s)
+[2026.01.15-07.07.17:612][283]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.037851s)
+[2026.01.15-07.07.17:659][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2026.01.15-07.07.17:666][283]LogChaosDD: Creating Chaos Debug Draw Scene for world Level1
+[2026.01.15-07.07.17:668][283]LogWorldPartition: ULevel::OnLevelLoaded(Level1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.01.15-07.07.17:668][283]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.01.15-07.07.17:668][283]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_Level1.Level1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.01.15-07.07.17:668][283]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.01.15-07.07.17:678][283]LogWorldPartition: Display: WorldPartition initialize took 9.673 ms (total: 2.87 sec)
+[2026.01.15-07.07.17:678][283]LogPlayLevel: PIE: World Init took: (0.012160s)
+[2026.01.15-07.07.17:679][283]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2026.01.15-07.07.17:679][283]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.15-07.07.17:679][283]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.15-07.07.17:679][283]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.15-07.07.17:679][283]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.15-07.07.17:679][283]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.15-07.07.17:679][283]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.15-07.07.17:679][283]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.15-07.07.17:679][283]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.15-07.07.17:679][283]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.15-07.07.17:679][283]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.15-07.07.17:679][283]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.15-07.07.17:682][283]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.15-07.07.17:703][283]LogAudioMixer: Display: Using Audio Hardware Device Speakers (G432 Gaming Headset)
+[2026.01.15-07.07.17:704][283]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.15-07.07.17:704][283]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.15-07.07.17:704][283]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.15-07.07.17:705][283]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=43
+[2026.01.15-07.07.17:705][283]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=43
+[2026.01.15-07.07.17:709][283]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=43
+[2026.01.15-07.07.17:709][283]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=43
+[2026.01.15-07.07.17:709][283]LogInit: FAudioDevice initialized with ID 43.
+[2026.01.15-07.07.17:709][283]LogAudio: Display: Audio Device (ID: 43) registered with world 'Level1'.
+[2026.01.15-07.07.17:709][283]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 43
+[2026.01.15-07.07.17:714][283]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.01.15-07.07.17:717][283]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2026.01.14-23.07.17
+[2026.01.15-07.07.17:717][283]LogWorld: Bringing up level for play took: 0.002127
+[2026.01.15-07.07.17:719][283]LogOnline: OSS: Created online subsystem instance for: :Context_92
+[2026.01.15-07.07.17:729][283]LogStreaming: Display: FlushAsyncLoading(5995,5994,5993,5992,5991,5990,5989,5988,5981,5982,5983,5984,5985,5986,5987,5980,5966,5967,5968,5969,5970,5971,5972,5973,5974,5975,5976,5977,5978,5979,5965,5960,5961,5962,5963,5964,5937,5938,5939,5940,5941,5942,5943,5944,5945,5946,5947,5948,5949,5950,5951,5952,5953,5954,5955,5956,5957,5958,5959,5923,5924,5925,5926,5927,5928,5929,5930,5931,5932,5933,5934,5935,5936,5920,5921,5922,5903,5904,5905,5906,5907,5908,5909,5910,5911,5912,5913,5914,5915,5916,5917,5918,5919,5889,5890,5891,5892,5893,5894,5895,5896,5897,5898,5899,5900,5901,5902,5874,5875,5876,5877,5878,5879,5880,5881,5882,5883,5884,5885,5886,5887,5888,5857,5858,5859,5860,5861,5862,5863,5864,5865,5866,5867,5868,5869,5870,5871,5872,5873): 139 QueuedPackages, 0 AsyncPackages
+[2026.01.15-07.07.19:218][283]PIE: Server logged in
+[2026.01.15-07.07.19:222][283]PIE: Play in editor total start time 1.654 seconds.
+[2026.01.15-07.07.20:946][382]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] interact attempted
+[2026.01.15-07.07.20:946][382]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] Castle
+[2026.01.15-07.07.25:905][676]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.15-07.07.25:905][676]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2026.01.15-07.07.25:911][676]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2026.01.15-07.07.25:912][676]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.15-07.07.25:912][676]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_Level1.Level1
+[2026.01.15-07.07.25:915][676]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.15-07.07.25:924][676]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.15-07.07.25:968][676]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.15-07.07.25:968][676]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 43
+[2026.01.15-07.07.25:969][676]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43, StreamState=4
+[2026.01.15-07.07.25:971][676]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43, StreamState=2
+[2026.01.15-07.07.25:988][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2026.01.15-07.07.26:073][677]LogPlayLevel: Display: Destroying online subsystem :Context_92
+[2026.01.15-07.09.47:290][839]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13793.435547
+[2026.01.15-07.09.47:494][843]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.15-07.09.47:494][843]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13793.618164, Update Interval: 356.921906
