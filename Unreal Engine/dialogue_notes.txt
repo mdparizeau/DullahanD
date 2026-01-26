@@ -1,0 +1,23 @@
+Interactions: Alpha, Beta, and Charlie
+
+for IA Alpha,
+[array] 5 player dialogues-> 3 choices each [array]
+x NPC...
+
+player_branch- each set of choices will be an array of strings
+^NPC_branch
+^^skull_branch
+sequence- which will be held in an struct of arrays of strings (will also add NPC and skull arrays)
+dialogues- which will be held in a map (key=ENUM) of structs
+
+when player is interacting w/ NPC, player input should be disabled, and player should enter NPC state
+
+for gauntlet:
+1.) player interacts w/ door
+	a.) triggers drawbridge/gate
+	b.) changes interactionState to "Gauntlet"
+2.) when player completes gauntlet
+	a.) change interactionState to "NPC"
+
+create custom events for each switch of interactionState
+	NPC-> BPI_
