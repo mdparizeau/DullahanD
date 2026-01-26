@@ -2437,3 +2437,1459 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.01.25-20.56.41:205][112]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.01.25-20.56.41:205][112]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.01.25-20.56.41:205][112]AssetCheck: /Game/Levels/Level1 Validating asset
+[2026.01.25-21.02.51:583][416]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5161.262695
+[2026.01.25-21.02.51:737][425]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.25-21.02.51:737][425]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5161.399902, Update Interval: 349.267853
+[2026.01.25-21.03.53:646][537]LogContentBrowser: Deferred new asset file creation: NewInterface
+[2026.01.25-21.03.53:672][537]LogContentBrowser: Creating deferred item: NewInterface
+[2026.01.25-21.03.53:703][538]LogContentBrowser: Renaming the item being created (Deferred Item: NewInterface).
+[2026.01.25-21.03.58:064][740]LogContentBrowser: Attempting asset rename: NewInterface -> NewInterface
+[2026.01.25-21.03.58:072][740]LogContentBrowser: End creating deferred item NewInterface
+[2026.01.25-21.04.27:489][112]LogContentBrowser: Attempting asset rename: NewInterface -> BPI_NPC_
+[2026.01.25-21.04.27:559][112]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.25-21.04.27:559][112]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluePrints/BPIs/BPI_NPC_] ([2] browsable assets)...
+[2026.01.25-21.04.27:559][112]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/BPIs/BPI_NPC_]
+[2026.01.25-21.04.27:559][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluePrints/BPIs/BPI_NPC_" FILE="C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BPIs/BPI_NPC_.uasset" SILENT=true
+[2026.01.25-21.04.27:569][112]LogSavePackage: Moving output files for package: /Game/bluePrints/BPIs/BPI_NPC_
+[2026.01.25-21.04.27:569][112]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/BPI_NPC_D329F69E4AC57ECBCD8800B9E5138BB2.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BPIs/BPI_NPC_.uasset'
+[2026.01.25-21.04.27:576][112]LogFileHelpers: InternalPromptForCheckoutAndSave took 17.149 ms (total: 2.53 sec)
+[2026.01.25-21.04.27:621][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.01.25-21.04.27:652][112]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.01.25-21.04.27:682][112]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2026.01.25-21.04.27:722][112]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.01.25-21.04.27:724][112]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.028
+[2026.01.25-21.04.27:787][112]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.25-21.04.27:856][113]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.25-21.04.27:856][113]LogContentValidation: Enabled validators:
+[2026.01.25-21.04.27:856][113]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.25-21.04.27:856][113]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.25-21.04.27:856][113]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.25-21.04.27:856][113]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.25-21.04.27:856][113]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.25-21.04.27:856][113]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.25-21.04.27:856][113]AssetCheck: /Game/bluePrints/BPIs/BPI_NPC_ Validating asset
+[2026.01.25-21.04.55:350][423]LogContentBrowser: Attempting asset rename: BPI_NPC_ -> BPI_NPC_
+[2026.01.25-21.05.00:230][636]LogContentBrowser: Attempting asset rename: BPI_NPC_ -> BPI_NPC_interaction
+[2026.01.25-21.05.00:338][636]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.25-21.05.00:338][636]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluePrints/BPIs/BPI_NPC_interaction] ([2] browsable assets)...
+[2026.01.25-21.05.00:338][636]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/BPIs/BPI_NPC_interaction]
+[2026.01.25-21.05.00:338][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluePrints/BPIs/BPI_NPC_interaction" FILE="C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BPIs/BPI_NPC_interaction.uasset" SILENT=true
+[2026.01.25-21.05.00:351][636]LogSavePackage: Moving output files for package: /Game/bluePrints/BPIs/BPI_NPC_interaction
+[2026.01.25-21.05.00:351][636]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/BPI_NPC_interaction85992263409014D613F2F697D6DC2F8C.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BPIs/BPI_NPC_interaction.uasset'
+[2026.01.25-21.05.00:357][636]LogFileHelpers: InternalPromptForCheckoutAndSave took 18.633 ms (total: 2.54 sec)
+[2026.01.25-21.05.00:397][636]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.01.25-21.05.00:425][636]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.01.25-21.05.00:453][636]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.01.25-21.05.00:540][636]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.25-21.05.00:540][636]LogContentValidation: Enabled validators:
+[2026.01.25-21.05.00:540][636]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.25-21.05.00:540][636]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.25-21.05.00:540][636]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.25-21.05.00:540][636]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.25-21.05.00:540][636]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.25-21.05.00:540][636]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.25-21.05.00:540][636]AssetCheck: /Game/bluePrints/BPIs/BPI_NPC_interaction Validating asset
+[2026.01.25-21.05.00:585][636]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.25-21.05.06:150][896]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/bluePrints/BPIs/BPI_NPC_interaction.BPI_NPC_interaction
+[2026.01.25-21.05.06:150][896]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2026.01.25-21.05.33:156][482]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.01.25-21.05.33:886][524]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.25-21.05.33:945][524]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluePrints/BPIs/BPI_NPC_interaction] ([2] browsable assets)...
+[2026.01.25-21.05.33:945][524]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/BPIs/BPI_NPC_interaction]
+[2026.01.25-21.05.33:945][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluePrints/BPIs/BPI_NPC_interaction" FILE="C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BPIs/BPI_NPC_interaction.uasset" SILENT=true
+[2026.01.25-21.05.33:960][524]LogSavePackage: Moving output files for package: /Game/bluePrints/BPIs/BPI_NPC_interaction
+[2026.01.25-21.05.33:961][524]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/BPI_NPC_interaction3655418A40D9F9551132F6B01BBD17CE.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BPIs/BPI_NPC_interaction.uasset'
+[2026.01.25-21.05.33:971][524]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.278 ms (total: 2.63 sec)
+[2026.01.25-21.05.34:048][524]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.25-21.05.34:048][524]LogContentValidation: Enabled validators:
+[2026.01.25-21.05.34:048][524]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.25-21.05.34:048][524]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.25-21.05.34:048][524]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.25-21.05.34:048][524]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.25-21.05.34:048][524]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.25-21.05.34:048][524]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.25-21.05.34:048][524]AssetCheck: /Game/bluePrints/BPIs/BPI_NPC_interaction Validating asset
+[2026.01.25-21.09.32:719][840]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5562.369141
+[2026.01.25-21.09.32:893][848]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.25-21.09.32:893][848]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5562.523926, Update Interval: 341.985535
+[2026.01.25-21.11.27:867][231]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/bluePrints/externalVariables/ENUM_dialogueInteractions.ENUM_dialogueInteractions
+[2026.01.25-21.11.48:786][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2026.01.25-21.11.49:090][443]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2026.01.25-21.11.49:104][443]LogSlate: Took 0.012509 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2026.01.25-21.11.53:658][443]LogSlate: Window 'Delete Assets' being destroyed
+[2026.01.25-21.14.49:954][713]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.01.25-21.15.37:841][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.01.25-21.15.37:845][ 61]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.033
+[2026.01.25-21.15.37:846][ 61]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/bluePrints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.01.25-21.15.37:863][ 61]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/bluePrints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2026.01.25-21.15.37:863][ 61]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/BP_FirstPersonCharacter]
+[2026.01.25-21.15.37:929][ 61]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/bluePrints/BP_FirstPersonCharacter_Auto6
+[2026.01.25-21.15.37:929][ 61]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/BP_FirstPersonCharacter_Auto68F36FB134B24AF5A66C8E88B850D7EF5.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/Autosaves/Game/bluePrints/BP_FirstPersonCharacter_Auto6.uasset'
+[2026.01.25-21.15.37:931][ 61]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/bluePrints/baseNPC] ([3] browsable assets)...
+[2026.01.25-21.15.37:939][ 61]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/bluePrints/baseNPC.baseNPC]
+[2026.01.25-21.15.37:939][ 61]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/baseNPC]
+[2026.01.25-21.15.37:939][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluePrints/baseNPC" FILE="C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/Autosaves/Game/bluePrints/baseNPC_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2026.01.25-21.15.37:953][ 61]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/bluePrints/baseNPC_Auto6
+[2026.01.25-21.15.37:953][ 61]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/baseNPC_Auto66F660C804AF0461527234E9D70F1BA30.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/Autosaves/Game/bluePrints/baseNPC_Auto6.uasset'
+[2026.01.25-21.15.37:955][ 61]LogFileHelpers: Auto-saving content packages took 0.109
+[2026.01.25-21.15.48:415][ 93]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5938.085938
+[2026.01.25-21.15.49:416][ 96]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.25-21.15.49:416][ 96]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5938.752441, Update Interval: 305.471344
+[2026.01.25-21.21.43:768][311]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6293.435059
+[2026.01.25-21.21.44:768][314]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.25-21.21.44:768][314]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6294.101562, Update Interval: 336.678986
+[2026.01.25-21.25.56:156][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2026.01.25-21.25.56:960][101]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.25-21.25.57:027][101]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/bluePrints/baseNPC] ([3] browsable assets)...
+[2026.01.25-21.25.57:038][101]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/bluePrints/baseNPC.baseNPC]
+[2026.01.25-21.25.57:038][101]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/baseNPC]
+[2026.01.25-21.25.57:038][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluePrints/baseNPC" FILE="C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/baseNPC.uasset" SILENT=true
+[2026.01.25-21.25.57:055][101]LogSavePackage: Moving output files for package: /Game/bluePrints/baseNPC
+[2026.01.25-21.25.57:055][101]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/baseNPC15E93E124E25F8F3633A07B198ADCF00.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/baseNPC.uasset'
+[2026.01.25-21.25.57:066][101]LogFileHelpers: InternalPromptForCheckoutAndSave took 107.372 ms (total: 2.74 sec)
+[2026.01.25-21.25.57:144][101]LogContentValidation: Display: Starting to validate 2 assets
+[2026.01.25-21.25.57:144][101]LogContentValidation: Enabled validators:
+[2026.01.25-21.25.57:144][101]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.25-21.25.57:144][101]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.25-21.25.57:144][101]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.25-21.25.57:144][101]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.25-21.25.57:144][101]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.25-21.25.57:144][101]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.25-21.25.57:144][101]AssetCheck: /Game/bluePrints/baseNPC Validating asset
+[2026.01.25-21.25.57:144][101]AssetCheck: /Game/bluePrints/baseNPC Validating asset
+[2026.01.25-21.26.10:646][900]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.01.25-21.26.12:309][900]LogSlate: Window 'Save Content' being destroyed
+[2026.01.25-21.26.12:333][900]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.25-21.26.12:401][900]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluePrints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.01.25-21.26.12:401][900]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/BP_FirstPersonCharacter]
+[2026.01.25-21.26.12:401][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluePrints/BP_FirstPersonCharacter" FILE="C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_FirstPersonCharacter.uasset" SILENT=true
+[2026.01.25-21.26.12:472][900]LogSavePackage: Moving output files for package: /Game/bluePrints/BP_FirstPersonCharacter
+[2026.01.25-21.26.12:473][900]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/BP_FirstPersonCharacter843E35874316BED8C9F1E982219680EB.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_FirstPersonCharacter.uasset'
+[2026.01.25-21.26.12:485][900]LogFileHelpers: InternalPromptForCheckoutAndSave took 152.150 ms (total: 2.89 sec)
+[2026.01.25-21.26.12:558][900]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.25-21.26.12:558][900]LogContentValidation: Enabled validators:
+[2026.01.25-21.26.12:558][900]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.25-21.26.12:558][900]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.25-21.26.12:558][900]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.25-21.26.12:558][900]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.25-21.26.12:558][900]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.25-21.26.12:558][900]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.25-21.26.12:558][900]AssetCheck: /Game/bluePrints/BP_FirstPersonCharacter Validating asset
+[2026.01.25-21.26.32:045][ 54]LogContentBrowser: Attempting asset rename: baseNPC -> BP_baseNPC
+[2026.01.25-21.26.32:177][ 54]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.25-21.26.32:184][ 54]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluePrints/placeHolders/baseNPC] ([3] browsable assets)...
+[2026.01.25-21.26.32:184][ 54]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/placeHolders/baseNPC]
+[2026.01.25-21.26.32:184][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluePrints/placeHolders/baseNPC" FILE="C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/placeHolders/baseNPC.uasset" SILENT=true
+[2026.01.25-21.26.32:194][ 54]LogSavePackage: Moving output files for package: /Game/bluePrints/placeHolders/baseNPC
+[2026.01.25-21.26.32:194][ 54]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/baseNPCDF4F7F6E4BE6946D50BC9385898CB849.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/placeHolders/baseNPC.uasset'
+[2026.01.25-21.26.32:196][ 54]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/bluePrints/BP_baseNPC] ([2] browsable assets)...
+[2026.01.25-21.26.32:196][ 54]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/BP_baseNPC]
+[2026.01.25-21.26.32:196][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluePrints/BP_baseNPC" FILE="C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_baseNPC.uasset" SILENT=true
+[2026.01.25-21.26.32:208][ 54]LogSavePackage: Moving output files for package: /Game/bluePrints/BP_baseNPC
+[2026.01.25-21.26.32:208][ 54]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/BP_baseNPC50360EE242FB7F78EEBC5AA992DED4EF.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_baseNPC.uasset'
+[2026.01.25-21.26.32:215][ 54]LogFileHelpers: InternalPromptForCheckoutAndSave took 37.203 ms (total: 2.93 sec)
+[2026.01.25-21.26.32:255][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.01.25-21.26.32:343][ 54]LogContentValidation: Display: Starting to validate 4 assets
+[2026.01.25-21.26.32:343][ 54]LogContentValidation: Enabled validators:
+[2026.01.25-21.26.32:343][ 54]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.25-21.26.32:343][ 54]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.25-21.26.32:343][ 54]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.25-21.26.32:343][ 54]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.25-21.26.32:343][ 54]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.25-21.26.32:343][ 54]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.25-21.26.32:343][ 54]AssetCheck: /Game/bluePrints/placeHolders/baseNPC Validating asset
+[2026.01.25-21.26.32:344][ 54]AssetCheck: /Game/bluePrints/placeHolders/baseNPC Validating asset
+[2026.01.25-21.26.32:344][ 54]AssetCheck: /Game/bluePrints/placeHolders/baseNPC Validating asset
+[2026.01.25-21.26.32:344][ 54]AssetCheck: /Game/bluePrints/BP_baseNPC Validating asset
+[2026.01.25-21.26.32:353][ 54]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2026.01.25-21.26.32:426][ 54]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.25-21.26.34:291][155]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2026.01.25-21.26.35:191][155]LogSlate: Window 'Save Content' being destroyed
+[2026.01.25-21.26.35:205][155]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.25-21.26.35:282][155]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluePrints/baseNPC] ([1] browsable assets)...
+[2026.01.25-21.26.35:282][155]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/baseNPC]
+[2026.01.25-21.26.35:282][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluePrints/baseNPC" FILE="C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/baseNPC.uasset" SILENT=true
+[2026.01.25-21.26.35:293][155]LogSavePackage: Moving output files for package: /Game/bluePrints/baseNPC
+[2026.01.25-21.26.35:294][155]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/baseNPCF02938424618CAB7BDD2D6BA238EC405.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/baseNPC.uasset'
+[2026.01.25-21.26.35:305][155]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.636 ms (total: 3.03 sec)
+[2026.01.25-21.26.35:384][155]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.25-21.26.35:384][155]LogContentValidation: Enabled validators:
+[2026.01.25-21.26.35:384][155]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.25-21.26.35:384][155]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.25-21.26.35:384][155]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.25-21.26.35:384][155]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.25-21.26.35:384][155]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.25-21.26.35:384][155]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.25-21.26.35:384][155]AssetCheck: /Game/bluePrints/baseNPC Validating asset
+[2026.01.25-21.27.29:333][875]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.01.25-21.27.29:944][909]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.25-21.27.30:007][909]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluePrints/BPIs/BPI_NPC_interaction] ([2] browsable assets)...
+[2026.01.25-21.27.30:007][909]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/BPIs/BPI_NPC_interaction]
+[2026.01.25-21.27.30:007][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluePrints/BPIs/BPI_NPC_interaction" FILE="C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BPIs/BPI_NPC_interaction.uasset" SILENT=true
+[2026.01.25-21.27.30:035][909]LogSavePackage: Moving output files for package: /Game/bluePrints/BPIs/BPI_NPC_interaction
+[2026.01.25-21.27.30:036][909]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/BPI_NPC_interactionB21B6260403F09488724C1B8B81757B6.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BPIs/BPI_NPC_interaction.uasset'
+[2026.01.25-21.27.30:049][909]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.681 ms (total: 3.13 sec)
+[2026.01.25-21.27.30:123][909]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.25-21.27.30:123][909]LogContentValidation: Enabled validators:
+[2026.01.25-21.27.30:123][909]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.25-21.27.30:123][909]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.25-21.27.30:123][909]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.25-21.27.30:123][909]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.25-21.27.30:123][909]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.25-21.27.30:123][909]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.25-21.27.30:123][909]AssetCheck: /Game/bluePrints/BPIs/BPI_NPC_interaction Validating asset
+[2026.01.25-21.27.38:559][314]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/bluePrints/BPIs/BPI_checkSection.BPI_checkSection
+[2026.01.25-21.27.38:559][314]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2026.01.25-21.27.46:405][730]LogBlueprint: Error: [AssetLog] C:\Users\Then2\Documents\gitHub\DullahanD\Unreal Engine\Content\bluePrints\BP_FirstPersonCharacter.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To BP_baseNPC  to imply a specific type.
+[2026.01.25-21.27.46:407][730]LogBlueprint: Error: [AssetLog] C:\Users\Then2\Documents\gitHub\DullahanD\Unreal Engine\Content\bluePrints\BP_FirstPersonCharacter.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2026.01.25-21.27.46:503][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.01.25-21.27.59:169][325]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6668.845703
+[2026.01.25-21.27.59:345][333]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.25-21.27.59:345][333]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6668.999023, Update Interval: 304.079712
+[2026.01.25-21.28.17:817][110]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.01.25-21.29.14:335][718]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.01.25-21.29.14:340][718]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.038
+[2026.01.25-21.29.14:340][718]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/bluePrints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.01.25-21.29.14:348][718]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/bluePrints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2026.01.25-21.29.14:348][718]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/BP_FirstPersonCharacter]
+[2026.01.25-21.29.14:414][718]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/bluePrints/BP_FirstPersonCharacter_Auto7
+[2026.01.25-21.29.14:415][718]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/BP_FirstPersonCharacter_Auto79A5AF03C445666F6E6ED3D858426B99C.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/Autosaves/Game/bluePrints/BP_FirstPersonCharacter_Auto7.uasset'
+[2026.01.25-21.29.14:416][718]LogFileHelpers: Auto-saving content packages took 0.077
+[2026.01.25-21.29.17:370][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.01.25-21.29.18:438][883]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.25-21.29.18:506][883]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/bluePrints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.01.25-21.29.18:512][883]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/bluePrints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2026.01.25-21.29.18:512][883]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/BP_FirstPersonCharacter]
+[2026.01.25-21.29.18:512][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluePrints/BP_FirstPersonCharacter" FILE="C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_FirstPersonCharacter.uasset" SILENT=true
+[2026.01.25-21.29.18:576][883]LogSavePackage: Moving output files for package: /Game/bluePrints/BP_FirstPersonCharacter
+[2026.01.25-21.29.18:577][883]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/BP_FirstPersonCharacter0D0BF9CB4D2A4C36CFC5E59C14AEDF0E.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_FirstPersonCharacter.uasset'
+[2026.01.25-21.29.18:589][883]LogFileHelpers: InternalPromptForCheckoutAndSave took 151.501 ms (total: 3.28 sec)
+[2026.01.25-21.29.18:667][883]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.25-21.29.18:667][883]LogContentValidation: Enabled validators:
+[2026.01.25-21.29.18:667][883]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.25-21.29.18:667][883]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.25-21.29.18:667][883]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.25-21.29.18:667][883]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.25-21.29.18:667][883]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.25-21.29.18:667][883]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.25-21.29.18:667][883]AssetCheck: /Game/bluePrints/BP_FirstPersonCharacter Validating asset
+[2026.01.25-21.29.29:664][485]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.01.25-21.29.33:020][623]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.01.25-21.29.33:671][641]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.25-21.29.33:741][641]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/bluePrints/BP_baseNPC] ([2] browsable assets)...
+[2026.01.25-21.29.33:745][641]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/bluePrints/BP_baseNPC.BP_baseNPC]
+[2026.01.25-21.29.33:745][641]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/BP_baseNPC]
+[2026.01.25-21.29.33:745][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluePrints/BP_baseNPC" FILE="C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_baseNPC.uasset" SILENT=true
+[2026.01.25-21.29.33:760][641]LogSavePackage: Moving output files for package: /Game/bluePrints/BP_baseNPC
+[2026.01.25-21.29.33:761][641]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/BP_baseNPC0F0206744A9110C5E07838B6BB548E38.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_baseNPC.uasset'
+[2026.01.25-21.29.33:776][641]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.219 ms (total: 3.39 sec)
+[2026.01.25-21.29.33:844][641]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.25-21.29.33:844][641]LogContentValidation: Enabled validators:
+[2026.01.25-21.29.33:844][641]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.25-21.29.33:844][641]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.25-21.29.33:844][641]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.25-21.29.33:844][641]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.25-21.29.33:844][641]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.25-21.29.33:844][641]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.25-21.29.33:845][641]AssetCheck: /Game/bluePrints/BP_baseNPC Validating asset
+[2026.01.25-21.33.51:783][918]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7021.446289
+[2026.01.25-21.33.51:932][925]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.25-21.33.51:932][925]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7021.576660, Update Interval: 321.901917
+[2026.01.25-21.38.18:780][ 80]LogDerivedDataCache: C:/Users/Then2/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.01.25-21.39.47:913][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2026.01.25-21.39.47:933][759]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Level1/3/WV/7HAAQNF2OA0MV4CKXJBJK6_Auto8
+[2026.01.25-21.39.47:934][759]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/7HAAQNF2OA0MV4CKXJBJK6_Auto86EFBDF1740C46846B563008ED7386135.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/Autosaves/Game/__ExternalActors__/Levels/Level1/3/WV/7HAAQNF2OA0MV4CKXJBJK6_Auto8.uasset'
+[2026.01.25-21.39.47:936][759]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.062
+[2026.01.25-21.39.47:936][759]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.062
+[2026.01.25-21.39.47:936][759]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluePrints/BP_levelManager] ([2] browsable assets)...
+[2026.01.25-21.39.47:937][759]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/BP_levelManager]
+[2026.01.25-21.39.47:959][759]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/bluePrints/BP_levelManager_Auto8
+[2026.01.25-21.39.47:959][759]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/BP_levelManager_Auto857690BE8414D3FA83E3DDAB567AC219B.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/Autosaves/Game/bluePrints/BP_levelManager_Auto8.uasset'
+[2026.01.25-21.39.47:961][759]LogFileHelpers: Auto-saving content packages took 0.025
+[2026.01.25-21.39.49:145][813]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7378.799805
+[2026.01.25-21.39.49:307][821]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.25-21.39.49:307][821]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7378.941895, Update Interval: 334.955902
+[2026.01.25-21.43.52:028][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.01.25-21.43.52:764][641]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.25-21.43.52:833][641]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluePrints/BP_levelManager] ([2] browsable assets)...
+[2026.01.25-21.43.52:833][641]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/BP_levelManager]
+[2026.01.25-21.43.52:833][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluePrints/BP_levelManager" FILE="C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_levelManager.uasset" SILENT=true
+[2026.01.25-21.43.52:858][641]LogSavePackage: Moving output files for package: /Game/bluePrints/BP_levelManager
+[2026.01.25-21.43.52:859][641]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/BP_levelManager15D9DDEB41420A7AFC2E8F82F5770E5D.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_levelManager.uasset'
+[2026.01.25-21.43.52:872][641]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.200 ms (total: 3.50 sec)
+[2026.01.25-21.43.52:954][641]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.25-21.43.52:954][641]LogContentValidation: Enabled validators:
+[2026.01.25-21.43.52:954][641]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.25-21.43.52:954][641]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.25-21.43.52:954][641]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.25-21.43.52:954][641]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.25-21.43.52:954][641]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.25-21.43.52:954][641]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.25-21.43.52:955][641]AssetCheck: /Game/bluePrints/BP_levelManager Validating asset
+[2026.01.25-21.44.21:151][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.01.25-21.44.22:157][882]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.25-21.44.22:224][882]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/bluePrints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.01.25-21.44.22:228][882]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/bluePrints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2026.01.25-21.44.22:228][882]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/BP_FirstPersonCharacter]
+[2026.01.25-21.44.22:228][882]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluePrints/BP_FirstPersonCharacter" FILE="C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_FirstPersonCharacter.uasset" SILENT=true
+[2026.01.25-21.44.22:295][882]LogSavePackage: Moving output files for package: /Game/bluePrints/BP_FirstPersonCharacter
+[2026.01.25-21.44.22:296][882]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/BP_FirstPersonCharacterF1AA4C6846DECBD5E0C90C8374786D5E.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_FirstPersonCharacter.uasset'
+[2026.01.25-21.44.22:309][882]LogFileHelpers: InternalPromptForCheckoutAndSave took 152.367 ms (total: 3.65 sec)
+[2026.01.25-21.44.22:376][882]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.25-21.44.22:376][882]LogContentValidation: Enabled validators:
+[2026.01.25-21.44.22:376][882]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.25-21.44.22:376][882]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.25-21.44.22:376][882]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.25-21.44.22:376][882]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.25-21.44.22:376][882]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.25-21.44.22:376][882]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.25-21.44.22:376][882]AssetCheck: /Game/bluePrints/BP_FirstPersonCharacter Validating asset
+[2026.01.25-21.44.28:811][153]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-21.44.28:811][153]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-21.44.28:872][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.01.25-21.44.29:874][193]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-21.44.29:874][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-21.44.29:936][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2026.01.25-21.46.15:473][486]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.25-21.46.15:538][486]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluePrints/externalVariables/ENUM_interactionStates] ([1] browsable assets)...
+[2026.01.25-21.46.15:538][486]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/externalVariables/ENUM_interactionStates]
+[2026.01.25-21.46.15:550][486]LogSavePackage: Moving output files for package: /Game/bluePrints/externalVariables/ENUM_interactionStates
+[2026.01.25-21.46.15:550][486]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/ENUM_interactionStates231C812C4B37C0A3D3858282D4E77F9C.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/externalVariables/ENUM_interactionStates.uasset'
+[2026.01.25-21.46.15:561][486]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.394 ms (total: 3.74 sec)
+[2026.01.25-21.46.15:637][486]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.25-21.46.15:637][486]LogContentValidation: Enabled validators:
+[2026.01.25-21.46.15:637][486]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.25-21.46.15:637][486]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.25-21.46.15:637][486]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.25-21.46.15:637][486]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.25-21.46.15:637][486]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.25-21.46.15:637][486]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.25-21.46.15:637][486]AssetCheck: /Game/bluePrints/externalVariables/ENUM_interactionStates Validating asset
+[2026.01.25-21.46.21:208][818]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7770.826172
+[2026.01.25-21.46.21:376][828]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.25-21.46.21:376][828]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7770.976562, Update Interval: 312.629181
+[2026.01.25-21.47.47:586][320]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.25-21.47.47:653][320]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluePrints/externalVariables/ENUM_interactionStates] ([1] browsable assets)...
+[2026.01.25-21.47.47:653][320]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/externalVariables/ENUM_interactionStates]
+[2026.01.25-21.47.47:655][320]LogSavePackage: Moving output files for package: /Game/bluePrints/externalVariables/ENUM_interactionStates
+[2026.01.25-21.47.47:656][320]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/ENUM_interactionStatesF6337DFC4C5314FC8B224F88724D2C2F.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/externalVariables/ENUM_interactionStates.uasset'
+[2026.01.25-21.47.47:668][320]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.485 ms (total: 3.82 sec)
+[2026.01.25-21.47.47:784][320]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.25-21.47.47:784][320]LogContentValidation: Enabled validators:
+[2026.01.25-21.47.47:784][320]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.25-21.47.47:784][320]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.25-21.47.47:784][320]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.25-21.47.47:784][320]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.25-21.47.47:784][320]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.25-21.47.47:784][320]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.25-21.47.47:784][320]AssetCheck: /Game/bluePrints/externalVariables/ENUM_interactionStates Validating asset
+[2026.01.25-21.47.53:051][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.01.25-21.48.43:530][847]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.01.25-21.48.44:551][874]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.25-21.48.44:621][874]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/bluePrints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.01.25-21.48.44:626][874]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/bluePrints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2026.01.25-21.48.44:626][874]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/BP_FirstPersonCharacter]
+[2026.01.25-21.48.44:626][874]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluePrints/BP_FirstPersonCharacter" FILE="C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_FirstPersonCharacter.uasset" SILENT=true
+[2026.01.25-21.48.44:691][874]LogSavePackage: Moving output files for package: /Game/bluePrints/BP_FirstPersonCharacter
+[2026.01.25-21.48.44:691][874]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/BP_FirstPersonCharacter46F59EB6400F390E9E139290BD38A31D.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_FirstPersonCharacter.uasset'
+[2026.01.25-21.48.44:705][874]LogFileHelpers: InternalPromptForCheckoutAndSave took 154.305 ms (total: 3.97 sec)
+[2026.01.25-21.48.44:781][874]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.25-21.48.44:781][874]LogContentValidation: Enabled validators:
+[2026.01.25-21.48.44:781][874]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.25-21.48.44:781][874]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.25-21.48.44:781][874]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.25-21.48.44:781][874]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.25-21.48.44:781][874]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.25-21.48.44:781][874]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.25-21.48.44:781][874]AssetCheck: /Game/bluePrints/BP_FirstPersonCharacter Validating asset
+[2026.01.25-21.51.28:145][446]LogContentBrowser: Deferred new asset file creation: NewInterface
+[2026.01.25-21.51.28:164][446]LogContentBrowser: Creating deferred item: NewInterface
+[2026.01.25-21.51.28:192][447]LogContentBrowser: Renaming the item being created (Deferred Item: NewInterface).
+[2026.01.25-21.51.39:838][ 56]LogContentBrowser: Attempting asset rename: NewInterface -> BPI_dialogueChoice
+[2026.01.25-21.51.39:847][ 56]LogContentBrowser: End creating deferred item NewInterface
+[2026.01.25-21.51.41:659][144]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/bluePrints/BPIs/BPI_dialogueChoice.BPI_dialogueChoice
+[2026.01.25-21.51.41:659][144]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2026.01.25-21.52.17:719][266]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8127.327637
+[2026.01.25-21.52.17:871][275]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.25-21.52.17:871][275]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8127.463867, Update Interval: 348.967560
+[2026.01.25-21.52.29:287][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.01.25-21.52.30:490][ 10]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.25-21.52.30:557][ 10]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluePrints/BPIs/BPI_dialogueChoice] ([2] browsable assets)...
+[2026.01.25-21.52.30:557][ 10]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/BPIs/BPI_dialogueChoice]
+[2026.01.25-21.52.30:557][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluePrints/BPIs/BPI_dialogueChoice" FILE="C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BPIs/BPI_dialogueChoice.uasset" SILENT=true
+[2026.01.25-21.52.30:569][ 10]LogSavePackage: Moving output files for package: /Game/bluePrints/BPIs/BPI_dialogueChoice
+[2026.01.25-21.52.30:569][ 10]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/BPI_dialogueChoice3B6C5A6843A46DF3803ADB806465649C.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BPIs/BPI_dialogueChoice.uasset'
+[2026.01.25-21.52.30:582][ 10]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.748 ms (total: 4.06 sec)
+[2026.01.25-21.52.30:660][ 10]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.25-21.52.30:660][ 10]LogContentValidation: Enabled validators:
+[2026.01.25-21.52.30:660][ 10]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.25-21.52.30:660][ 10]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.25-21.52.30:660][ 10]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.25-21.52.30:660][ 10]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.25-21.52.30:660][ 10]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.25-21.52.30:660][ 10]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.25-21.52.30:660][ 10]AssetCheck: /Game/bluePrints/BPIs/BPI_dialogueChoice Validating asset
+[2026.01.25-21.52.30:689][ 10]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.25-21.54.06:939][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.01.25-21.54.07:917][793]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.25-21.54.07:984][793]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/bluePrints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.01.25-21.54.07:995][793]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/bluePrints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2026.01.25-21.54.07:995][793]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/BP_FirstPersonCharacter]
+[2026.01.25-21.54.07:995][793]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluePrints/BP_FirstPersonCharacter" FILE="C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_FirstPersonCharacter.uasset" SILENT=true
+[2026.01.25-21.54.08:067][793]LogSavePackage: Moving output files for package: /Game/bluePrints/BP_FirstPersonCharacter
+[2026.01.25-21.54.08:068][793]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/BP_FirstPersonCharacterE5D1244B45A2918EEE7E9BA49DC6357D.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_FirstPersonCharacter.uasset'
+[2026.01.25-21.54.08:080][793]LogFileHelpers: InternalPromptForCheckoutAndSave took 161.878 ms (total: 4.23 sec)
+[2026.01.25-21.54.08:149][793]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.25-21.54.08:149][793]LogContentValidation: Enabled validators:
+[2026.01.25-21.54.08:149][793]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.25-21.54.08:149][793]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.25-21.54.08:149][793]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.25-21.54.08:149][793]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.25-21.54.08:149][793]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.25-21.54.08:149][793]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.25-21.54.08:149][793]AssetCheck: /Game/bluePrints/BP_FirstPersonCharacter Validating asset
+[2026.01.25-21.55.51:322][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.01.25-21.55.51:339][442]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Level1/3/WV/7HAAQNF2OA0MV4CKXJBJK6_Auto9
+[2026.01.25-21.55.51:339][442]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/7HAAQNF2OA0MV4CKXJBJK6_Auto94C8DC6B0475C8BC395AA63B7C6781DE6.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/Autosaves/Game/__ExternalActors__/Levels/Level1/3/WV/7HAAQNF2OA0MV4CKXJBJK6_Auto9.uasset'
+[2026.01.25-21.55.51:340][442]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.048
+[2026.01.25-21.55.51:340][442]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.048
+[2026.01.25-21.55.51:341][442]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/bluePrints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.01.25-21.55.51:347][442]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/bluePrints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2026.01.25-21.55.51:347][442]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/BP_FirstPersonCharacter]
+[2026.01.25-21.55.51:415][442]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/bluePrints/BP_FirstPersonCharacter_Auto9
+[2026.01.25-21.55.51:416][442]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/BP_FirstPersonCharacter_Auto9494C152441293B0524B7F8B4E6B38A4B.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/Autosaves/Game/bluePrints/BP_FirstPersonCharacter_Auto9.uasset'
+[2026.01.25-21.55.51:417][442]LogFileHelpers: Auto-saving content packages took 0.078
+[2026.01.25-21.59.01:692][252]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8531.207031
+[2026.01.25-21.59.01:882][261]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.25-21.59.01:882][261]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8531.373047, Update Interval: 311.382172
+[2026.01.25-22.02.42:685][480]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2026.01.25-22.02.43:632][501]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.25-22.02.43:698][501]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/bluePrints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.01.25-22.02.43:704][501]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/bluePrints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2026.01.25-22.02.43:704][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/BP_FirstPersonCharacter]
+[2026.01.25-22.02.43:704][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluePrints/BP_FirstPersonCharacter" FILE="C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_FirstPersonCharacter.uasset" SILENT=true
+[2026.01.25-22.02.43:774][501]LogSavePackage: Moving output files for package: /Game/bluePrints/BP_FirstPersonCharacter
+[2026.01.25-22.02.43:774][501]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/BP_FirstPersonCharacterD584242A4F2994C76FDFA195B0B9BBEC.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_FirstPersonCharacter.uasset'
+[2026.01.25-22.02.43:787][501]LogFileHelpers: InternalPromptForCheckoutAndSave took 154.708 ms (total: 4.38 sec)
+[2026.01.25-22.02.43:863][501]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.25-22.02.43:863][501]LogContentValidation: Enabled validators:
+[2026.01.25-22.02.43:863][501]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.25-22.02.43:863][501]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.25-22.02.43:863][501]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.25-22.02.43:863][501]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.25-22.02.43:863][501]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.25-22.02.43:863][501]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.25-22.02.43:863][501]AssetCheck: /Game/bluePrints/BP_FirstPersonCharacter Validating asset
+[2026.01.25-22.02.45:238][561]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.01.25-22.02.46:234][561]LogSlate: Window 'Save Content' being destroyed
+[2026.01.25-22.02.46:244][561]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.25-22.02.46:333][561]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Level1/3/WV/7HAAQNF2OA0MV4CKXJBJK6
+[2026.01.25-22.02.46:334][561]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/7HAAQNF2OA0MV4CKXJBJK6092B413C4455A0EA037142903B4042F8.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/__ExternalActors__/Levels/Level1/3/WV/7HAAQNF2OA0MV4CKXJBJK6.uasset'
+[2026.01.25-22.02.46:348][561]LogFileHelpers: InternalPromptForCheckoutAndSave took 104.286 ms (total: 4.49 sec)
+[2026.01.25-22.02.46:430][561]LogContentValidation: Display: Starting to validate 2 assets
+[2026.01.25-22.02.46:430][561]LogContentValidation: Enabled validators:
+[2026.01.25-22.02.46:430][561]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.25-22.02.46:430][561]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.25-22.02.46:430][561]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.25-22.02.46:430][561]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.25-22.02.46:431][561]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.25-22.02.46:431][561]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.25-22.02.46:431][561]AssetCheck: /Game/Levels/Level1 Validating asset
+[2026.01.25-22.04.56:163][  3]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8885.627930
+[2026.01.25-22.04.57:165][  6]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.25-22.04.57:165][  6]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8886.296875, Update Interval: 350.820648
+[2026.01.25-22.09.54:546][898]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (G432 Gaming Headset), InstanceID=1
+[2026.01.25-22.09.54:546][898]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{7e5ac1ff-9ee6-4898-b6ac-fe44564fd9f4}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.01.25-22.09.54:639][898]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{7e5ac1ff-9ee6-4898-b6ac-fe44564fd9f4}]
+[2026.01.25-22.09.54:639][898]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.01.25-22.09.54:639][898]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2026.01.25-22.09.54:974][899]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{7e5ac1ff-9ee6-4898-b6ac-fe44564fd9f4}, Name=Speakers (G432 Gaming Headset)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=30.43
+[2026.01.25-22.09.54:974][899]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.01.25-22.09.54:974][899]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.01.25-22.09.54:975][899]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.01.25-22.11.45:325][230]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9294.787109
+[2026.01.25-22.11.46:325][233]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.25-22.11.46:325][234]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9295.454102, Update Interval: 318.607758
+[2026.01.25-22.17.50:046][324]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9659.512695
+[2026.01.25-22.17.51:046][327]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.25-22.17.51:046][327]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9660.178711, Update Interval: 327.457489
+[2026.01.25-22.24.01:106][438]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10030.546875
+[2026.01.25-22.24.02:106][440]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.25-22.24.02:106][440]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10031.212891, Update Interval: 303.319794
+[2026.01.25-22.29.37:498][446]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10366.913086
+[2026.01.25-22.29.38:498][449]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.25-22.29.38:498][449]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10367.580078, Update Interval: 358.923309
+[2026.01.25-22.36.36:891][704]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10786.311523
+[2026.01.25-22.36.37:891][707]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.25-22.36.37:891][707]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10786.977539, Update Interval: 315.914185
+[2026.01.25-22.38.18:815][ 10]LogDerivedDataCache: C:/Users/Then2/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.01.25-22.42.50:288][824]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11159.703125
+[2026.01.25-22.42.51:289][827]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.25-22.42.51:289][828]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11160.370117, Update Interval: 328.570831
+[2026.01.25-22.48.52:680][911]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11522.102539
+[2026.01.25-22.48.53:680][914]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.25-22.48.53:680][915]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11522.769531, Update Interval: 354.979095
+[2026.01.25-22.55.41:729][138]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11931.127930
+[2026.01.25-22.55.42:730][141]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.25-22.55.42:730][141]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11931.793945, Update Interval: 359.474487
+[2026.01.25-23.02.38:133][387]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12347.539062
+[2026.01.25-23.02.39:133][390]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.25-23.02.39:133][390]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12348.206055, Update Interval: 350.024109
+[2026.01.25-23.09.27:538][615]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12756.949219
+[2026.01.25-23.09.28:540][618]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.25-23.09.28:540][619]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12757.618164, Update Interval: 313.921936
+[2026.01.25-23.15.12:601][650]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13102.008789
+[2026.01.25-23.15.13:601][653]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.25-23.15.13:601][653]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13102.675781, Update Interval: 351.974243
+[2026.01.25-23.21.38:982][809]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13488.381836
+[2026.01.25-23.21.39:983][812]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.25-23.21.39:983][812]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13489.048828, Update Interval: 322.890717
+[2026.01.25-23.27.47:033][913]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13856.435547
+[2026.01.25-23.27.48:032][916]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.25-23.27.48:032][916]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13857.102539, Update Interval: 333.318878
+[2026.01.25-23.33.56:760][ 22]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14226.161133
+[2026.01.25-23.33.57:759][ 25]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.25-23.33.57:759][ 25]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14226.829102, Update Interval: 322.328552
+[2026.01.25-23.38.18:827][809]LogDerivedDataCache: C:/Users/Then2/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.01.25-23.40.06:463][131]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14595.864258
+[2026.01.25-23.40.07:463][134]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.25-23.40.07:463][134]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14596.531250, Update Interval: 349.771423
+[2026.01.25-23.45.51:175][879]LogSlate: Window 'dialogue' being destroyed
+[2026.01.25-23.46.02:755][485]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.25-23.46.02:788][485]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluePrints/externalVariables/ENUM_interactionStates] ([1] browsable assets)...
+[2026.01.25-23.46.02:789][485]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/externalVariables/ENUM_interactionStates]
+[2026.01.25-23.46.02:791][485]LogSavePackage: Moving output files for package: /Game/bluePrints/externalVariables/ENUM_interactionStates
+[2026.01.25-23.46.02:792][485]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/ENUM_interactionStates137394C34A81D33E6F790992446FCA98.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/externalVariables/ENUM_interactionStates.uasset'
+[2026.01.25-23.46.02:802][485]LogFileHelpers: InternalPromptForCheckoutAndSave took 47.142 ms (total: 4.53 sec)
+[2026.01.25-23.46.02:829][485]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.25-23.46.02:830][485]LogContentValidation: Enabled validators:
+[2026.01.25-23.46.02:830][485]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.25-23.46.02:830][485]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.25-23.46.02:830][485]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.25-23.46.02:830][485]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.25-23.46.02:830][485]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.25-23.46.02:830][485]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.25-23.46.02:830][485]AssetCheck: /Game/bluePrints/externalVariables/ENUM_interactionStates Validating asset
+[2026.01.25-23.46.41:780][220]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14991.168945
+[2026.01.25-23.46.41:968][228]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.25-23.46.41:968][228]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14991.333984, Update Interval: 323.170868
+[2026.01.25-23.49.29:018][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2026.01.25-23.49.29:025][ 91]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.086
+[2026.01.25-23.49.29:026][ 91]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluePrints/BP_levelManager] ([2] browsable assets)...
+[2026.01.25-23.49.29:026][ 91]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/BP_levelManager]
+[2026.01.25-23.49.29:050][ 91]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/bluePrints/BP_levelManager_Auto0
+[2026.01.25-23.49.29:050][ 91]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/BP_levelManager_Auto023FDA2BD450970B24D00A28D6DA99709.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/Autosaves/Game/bluePrints/BP_levelManager_Auto0.uasset'
+[2026.01.25-23.49.29:051][ 91]LogFileHelpers: Auto-saving content packages took 0.025
+[2026.01.25-23.53.02:516][890]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15371.889648
+[2026.01.25-23.53.02:663][896]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.25-23.53.02:665][896]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15372.017578, Update Interval: 345.334625
+[2026.01.25-23.59.29:252][108]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2026.01.25-23.59.29:262][108]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.047
+[2026.01.25-23.59.29:262][108]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluePrints/BP_levelManager] ([2] browsable assets)...
+[2026.01.25-23.59.29:262][108]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/BP_levelManager]
+[2026.01.25-23.59.29:290][108]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/bluePrints/BP_levelManager_Auto1
+[2026.01.25-23.59.29:290][108]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/BP_levelManager_Auto1B60D22124615DA80A8016A8D7CCF081E.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/Autosaves/Game/bluePrints/BP_levelManager_Auto1.uasset'
+[2026.01.25-23.59.29:292][108]LogFileHelpers: Auto-saving content packages took 0.030
+[2026.01.25-23.59.34:190][123]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15763.560547
+[2026.01.25-23.59.35:192][126]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.25-23.59.35:192][126]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15764.228516, Update Interval: 351.924805
+[2026.01.26-00.06.09:785][183]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16159.171875
+[2026.01.26-00.06.09:975][191]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.26-00.06.09:975][192]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16159.336914, Update Interval: 352.653595
+[2026.01.26-00.07.22:277][103]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2026.01.26-00.07.25:854][216]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.26-00.07.25:897][216]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluePrints/BP_levelManager] ([2] browsable assets)...
+[2026.01.26-00.07.25:897][216]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/BP_levelManager]
+[2026.01.26-00.07.25:897][216]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluePrints/BP_levelManager" FILE="C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_levelManager.uasset" SILENT=true
+[2026.01.26-00.07.25:926][216]LogSavePackage: Moving output files for package: /Game/bluePrints/BP_levelManager
+[2026.01.26-00.07.25:927][216]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/BP_levelManagerE161B05E42211F2B019F01B7F8917486.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_levelManager.uasset'
+[2026.01.26-00.07.25:937][216]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.219 ms (total: 4.61 sec)
+[2026.01.26-00.07.25:986][216]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.26-00.07.25:987][216]LogContentValidation: Enabled validators:
+[2026.01.26-00.07.25:987][216]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.26-00.07.25:987][216]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.26-00.07.25:987][216]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.26-00.07.25:987][216]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.26-00.07.25:987][216]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.26-00.07.25:987][216]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.26-00.07.25:987][216]AssetCheck: /Game/bluePrints/BP_levelManager Validating asset
+[2026.01.26-00.10.02:064][121]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2026.01.26-00.10.02:076][121]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.047
+[2026.01.26-00.10.02:076][121]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluePrints/BP_levelManager] ([2] browsable assets)...
+[2026.01.26-00.10.02:076][121]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/BP_levelManager]
+[2026.01.26-00.10.02:104][121]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/bluePrints/BP_levelManager_Auto2
+[2026.01.26-00.10.02:104][121]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/BP_levelManager_Auto21D4CDE884BE9CC17F6C6DCB61AA10DD1.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/Autosaves/Game/bluePrints/BP_levelManager_Auto2.uasset'
+[2026.01.26-00.10.02:106][121]LogFileHelpers: Auto-saving content packages took 0.031
+[2026.01.26-00.13.00:547][ 92]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16569.835938
+[2026.01.26-00.13.00:721][ 99]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.26-00.13.00:721][ 99]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16569.986328, Update Interval: 348.735016
+[2026.01.26-00.16.57:105][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2026.01.26-00.17.02:657][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2026.01.26-00.17.03:329][ 15]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.26-00.17.03:372][ 15]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluePrints/BP_levelManager] ([2] browsable assets)...
+[2026.01.26-00.17.03:372][ 15]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/BP_levelManager]
+[2026.01.26-00.17.03:372][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluePrints/BP_levelManager" FILE="C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_levelManager.uasset" SILENT=true
+[2026.01.26-00.17.03:404][ 15]LogSavePackage: Moving output files for package: /Game/bluePrints/BP_levelManager
+[2026.01.26-00.17.03:405][ 15]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/BP_levelManager530DD8904AE02D53F11872BF244B1BC1.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_levelManager.uasset'
+[2026.01.26-00.17.03:424][ 15]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.840 ms (total: 4.71 sec)
+[2026.01.26-00.17.03:472][ 15]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.26-00.17.03:472][ 15]LogContentValidation: Enabled validators:
+[2026.01.26-00.17.03:472][ 15]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.26-00.17.03:472][ 15]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.26-00.17.03:472][ 15]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.26-00.17.03:472][ 15]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.26-00.17.03:472][ 15]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.26-00.17.03:472][ 15]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.26-00.17.03:472][ 15]AssetCheck: /Game/bluePrints/BP_levelManager Validating asset
+[2026.01.26-00.19.31:690][535]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16961.000000
+[2026.01.26-00.19.31:873][543]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.26-00.19.31:873][543]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16961.160156, Update Interval: 310.481262
+[2026.01.26-00.19.42:823][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2026.01.26-00.20.11:394][123]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2026.01.26-00.20.11:401][123]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.038
+[2026.01.26-00.20.11:402][123]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluePrints/BP_levelManager] ([2] browsable assets)...
+[2026.01.26-00.20.11:402][123]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/BP_levelManager]
+[2026.01.26-00.20.11:428][123]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/bluePrints/BP_levelManager_Auto3
+[2026.01.26-00.20.11:430][123]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/BP_levelManager_Auto3B6E281524180FD2614A096AD9E386F14.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/Autosaves/Game/bluePrints/BP_levelManager_Auto3.uasset'
+[2026.01.26-00.20.11:431][123]LogFileHelpers: Auto-saving content packages took 0.030
+[2026.01.26-00.22.25:761][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.01.26-00.22.26:886][640]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.26-00.22.26:927][640]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluePrints/BP_levelManager] ([2] browsable assets)...
+[2026.01.26-00.22.26:927][640]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/BP_levelManager]
+[2026.01.26-00.22.26:927][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluePrints/BP_levelManager" FILE="C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_levelManager.uasset" SILENT=true
+[2026.01.26-00.22.26:956][640]LogSavePackage: Moving output files for package: /Game/bluePrints/BP_levelManager
+[2026.01.26-00.22.26:957][640]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/BP_levelManager899B9AB14204AC56A564C19D85BC0016.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_levelManager.uasset'
+[2026.01.26-00.22.26:969][640]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.852 ms (total: 4.79 sec)
+[2026.01.26-00.22.26:993][640]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.26-00.22.26:993][640]LogContentValidation: Enabled validators:
+[2026.01.26-00.22.26:993][640]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.26-00.22.26:993][640]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.26-00.22.26:993][640]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.26-00.22.26:993][640]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.26-00.22.26:993][640]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.26-00.22.26:993][640]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.26-00.22.26:994][640]AssetCheck: /Game/bluePrints/BP_levelManager Validating asset
+[2026.01.26-00.22.59:564][777]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.26-00.22.59:608][777]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/bluePrints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.01.26-00.22.59:620][777]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/bluePrints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2026.01.26-00.22.59:620][777]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/BP_FirstPersonCharacter]
+[2026.01.26-00.22.59:620][777]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluePrints/BP_FirstPersonCharacter" FILE="C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_FirstPersonCharacter.uasset" SILENT=true
+[2026.01.26-00.22.59:703][777]LogSavePackage: Moving output files for package: /Game/bluePrints/BP_FirstPersonCharacter
+[2026.01.26-00.22.59:704][777]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/BP_FirstPersonCharacter9B2149D448C0680956509B8DF185FB79.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_FirstPersonCharacter.uasset'
+[2026.01.26-00.22.59:716][777]LogFileHelpers: InternalPromptForCheckoutAndSave took 151.447 ms (total: 4.94 sec)
+[2026.01.26-00.22.59:753][777]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.26-00.22.59:753][777]LogContentValidation: Enabled validators:
+[2026.01.26-00.22.59:753][777]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.26-00.22.59:753][777]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.26-00.22.59:753][777]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.26-00.22.59:753][777]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.26-00.22.59:753][777]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.26-00.22.59:753][777]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.26-00.22.59:753][777]AssetCheck: /Game/bluePrints/BP_FirstPersonCharacter Validating asset
+[2026.01.26-00.25.36:344][455]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17325.683594
+[2026.01.26-00.25.36:594][464]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.26-00.25.36:594][464]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17325.908203, Update Interval: 339.764404
+[2026.01.26-00.27.45:107][ 37]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/bluePrints/externalVariables/branches.branches
+[2026.01.26-00.27.52:480][402]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_dialogue_0' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_dialogue_0' is empty
+[2026.01.26-00.27.52:499][402]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_dialogue_1' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_dialogue_1' is empty
+[2026.01.26-00.27.52:505][402]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_dialogue_2' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_dialogue_2' is empty
+[2026.01.26-00.27.52:511][402]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_dialogue_3' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_dialogue_3' is empty
+[2026.01.26-00.27.54:691][510]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_dialogue_4' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_dialogue_4' is empty
+[2026.01.26-00.27.54:710][510]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_dialogue_5' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_dialogue_5' is empty
+[2026.01.26-00.27.54:717][510]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_dialogue_6' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_dialogue_6' is empty
+[2026.01.26-00.27.54:724][510]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_dialogue_7' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_dialogue_7' is empty
+[2026.01.26-00.28.05:398][ 70]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_dialogue_8' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_dialogue_8' is empty
+[2026.01.26-00.28.05:416][ 70]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_dialogue_9' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_dialogue_9' is empty
+[2026.01.26-00.28.05:425][ 70]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_dialogue_10' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_dialogue_10' is empty
+[2026.01.26-00.28.05:432][ 70]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_dialogue_11' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_dialogue_11' is empty
+[2026.01.26-00.28.13:003][456]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_dialogue_12' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_dialogue_12' is empty
+[2026.01.26-00.28.13:021][456]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_dialogue_13' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_dialogue_13' is empty
+[2026.01.26-00.28.13:028][456]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_dialogue_14' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_dialogue_14' is empty
+[2026.01.26-00.28.13:037][456]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_dialogue_15' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_dialogue_15' is empty
+[2026.01.26-00.28.14:449][519]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_dialogue_16' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_dialogue_16' is empty
+[2026.01.26-00.28.14:468][519]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_dialogue_17' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_dialogue_17' is empty
+[2026.01.26-00.28.14:475][519]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_dialogue_18' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_dialogue_18' is empty
+[2026.01.26-00.28.14:481][519]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_dialogue_19' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_dialogue_19' is empty
+[2026.01.26-00.28.18:713][739]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.26-00.28.18:756][739]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluePrints/externalVariables/branches] ([1] browsable assets)...
+[2026.01.26-00.28.18:756][739]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/externalVariables/branches]
+[2026.01.26-00.28.18:756][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluePrints/externalVariables/branches" FILE="C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/externalVariables/branches.uasset" SILENT=true
+[2026.01.26-00.28.18:768][739]LogSavePackage: Moving output files for package: /Game/bluePrints/externalVariables/branches
+[2026.01.26-00.28.18:769][739]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/branches798CE73F44F53F91EB79CD8D68ABEBFB.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/externalVariables/branches.uasset'
+[2026.01.26-00.28.18:779][739]LogFileHelpers: InternalPromptForCheckoutAndSave took 66.250 ms (total: 5.01 sec)
+[2026.01.26-00.28.18:816][739]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.26-00.28.18:816][739]LogContentValidation: Enabled validators:
+[2026.01.26-00.28.18:816][739]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.26-00.28.18:816][739]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.26-00.28.18:816][739]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.26-00.28.18:816][739]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.26-00.28.18:816][739]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.26-00.28.18:816][739]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.26-00.28.18:816][739]AssetCheck: /Game/bluePrints/externalVariables/branches Validating asset
+[2026.01.26-00.28.24:000][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.01.26-00.30.23:831][349]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.01.26-00.30.23:850][349]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Level1/3/WV/7HAAQNF2OA0MV4CKXJBJK6_Auto4
+[2026.01.26-00.30.23:851][349]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/7HAAQNF2OA0MV4CKXJBJK6_Auto42723036141A5D9E6F66532AE78FC8DFE.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/Autosaves/Game/__ExternalActors__/Levels/Level1/3/WV/7HAAQNF2OA0MV4CKXJBJK6_Auto4.uasset'
+[2026.01.26-00.30.23:853][349]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.059
+[2026.01.26-00.30.23:853][349]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.059
+[2026.01.26-00.30.23:854][349]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluePrints/BP_levelManager] ([2] browsable assets)...
+[2026.01.26-00.30.23:854][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/BP_levelManager]
+[2026.01.26-00.30.23:883][349]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/bluePrints/BP_levelManager_Auto4
+[2026.01.26-00.30.23:884][349]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/BP_levelManager_Auto40FC83D8440EA57F067888CBCD686E7D3.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/Autosaves/Game/bluePrints/BP_levelManager_Auto4.uasset'
+[2026.01.26-00.30.23:886][349]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluePrints/externalVariables/dialogue] ([1] browsable assets)...
+[2026.01.26-00.30.23:886][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/externalVariables/dialogue]
+[2026.01.26-00.30.23:896][349]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/bluePrints/externalVariables/dialogue_Auto4
+[2026.01.26-00.30.23:896][349]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/dialogue_Auto472BE6B92451DBBFF752B28B20D77C7D1.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/Autosaves/Game/bluePrints/externalVariables/dialogue_Auto4.uasset'
+[2026.01.26-00.30.23:897][349]LogFileHelpers: Auto-saving content packages took 0.044
+[2026.01.26-00.32.07:460][294]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17716.835938
+[2026.01.26-00.32.07:661][301]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.26-00.32.07:661][301]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17717.011719, Update Interval: 310.217590
+[2026.01.26-00.32.12:525][485]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.01.26-00.35.51:611][164]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.01.26-00.35.52:615][197]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.26-00.35.52:658][197]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluePrints/BP_levelManager] ([2] browsable assets)...
+[2026.01.26-00.35.52:658][197]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/BP_levelManager]
+[2026.01.26-00.35.52:658][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluePrints/BP_levelManager" FILE="C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_levelManager.uasset" SILENT=true
+[2026.01.26-00.35.52:689][197]LogSavePackage: Moving output files for package: /Game/bluePrints/BP_levelManager
+[2026.01.26-00.35.52:690][197]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/BP_levelManagerB991F32A4D7EBFCD5DC707AE7C8F70EC.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_levelManager.uasset'
+[2026.01.26-00.35.52:701][197]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.580 ms (total: 5.09 sec)
+[2026.01.26-00.35.52:740][197]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.26-00.35.52:740][197]LogContentValidation: Enabled validators:
+[2026.01.26-00.35.52:740][197]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.26-00.35.52:740][197]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.26-00.35.52:740][197]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.26-00.35.52:740][197]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.26-00.35.52:740][197]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.26-00.35.52:740][197]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.26-00.35.52:740][197]AssetCheck: /Game/bluePrints/BP_levelManager Validating asset
+[2026.01.26-00.37.52:088][785]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18061.652344
+[2026.01.26-00.37.52:258][792]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.26-00.37.52:258][792]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18061.798828, Update Interval: 330.801117
+[2026.01.26-00.38.18:831][873]LogDerivedDataCache: C:/Users/Then2/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.01.26-00.39.10:254][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2026.01.26-00.39.11:182][977]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.26-00.39.11:226][977]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluePrints/BP_levelManager] ([2] browsable assets)...
+[2026.01.26-00.39.11:226][977]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/BP_levelManager]
+[2026.01.26-00.39.11:226][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluePrints/BP_levelManager" FILE="C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_levelManager.uasset" SILENT=true
+[2026.01.26-00.39.11:258][977]LogSavePackage: Moving output files for package: /Game/bluePrints/BP_levelManager
+[2026.01.26-00.39.11:259][977]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/BP_levelManager2E23A675424CB72E39A37AAA82B9DE27.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_levelManager.uasset'
+[2026.01.26-00.39.11:272][977]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.972 ms (total: 5.18 sec)
+[2026.01.26-00.39.11:307][977]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.26-00.39.11:307][977]LogContentValidation: Enabled validators:
+[2026.01.26-00.39.11:307][977]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.26-00.39.11:307][977]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.26-00.39.11:307][977]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.26-00.39.11:307][977]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.26-00.39.11:307][977]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.26-00.39.11:307][977]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.26-00.39.11:307][977]AssetCheck: /Game/bluePrints/BP_levelManager Validating asset
+[2026.01.26-00.40.26:186][836]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.26-00.40.26:230][836]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluePrints/BP_levelManager] ([2] browsable assets)...
+[2026.01.26-00.40.26:230][836]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/BP_levelManager]
+[2026.01.26-00.40.26:230][836]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluePrints/BP_levelManager" FILE="C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_levelManager.uasset" SILENT=true
+[2026.01.26-00.40.26:263][836]LogSavePackage: Moving output files for package: /Game/bluePrints/BP_levelManager
+[2026.01.26-00.40.26:264][836]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/BP_levelManager62D5215F42F35A2369BA70847049BD1A.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_levelManager.uasset'
+[2026.01.26-00.40.26:277][836]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.267 ms (total: 5.27 sec)
+[2026.01.26-00.40.26:304][836]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.26-00.40.26:304][836]LogContentValidation: Enabled validators:
+[2026.01.26-00.40.26:304][836]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.26-00.40.26:304][836]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.26-00.40.26:304][836]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.26-00.40.26:304][836]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.26-00.40.26:304][836]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.26-00.40.26:304][836]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.26-00.40.26:304][836]AssetCheck: /Game/bluePrints/BP_levelManager Validating asset
+[2026.01.26-00.41.53:417][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2026.01.26-00.44.11:133][945]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18440.654297
+[2026.01.26-00.44.11:313][951]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.26-00.44.11:313][951]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18440.802734, Update Interval: 313.290192
+[2026.01.26-00.46.19:229][216]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.01.26-00.46.19:248][216]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Level1/3/WV/7HAAQNF2OA0MV4CKXJBJK6_Auto5
+[2026.01.26-00.46.19:248][216]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/7HAAQNF2OA0MV4CKXJBJK6_Auto5E6343BC0444F75C1A64EBC96BD7615E7.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/Autosaves/Game/__ExternalActors__/Levels/Level1/3/WV/7HAAQNF2OA0MV4CKXJBJK6_Auto5.uasset'
+[2026.01.26-00.46.19:251][216]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.058
+[2026.01.26-00.46.19:251][216]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.058
+[2026.01.26-00.46.19:251][216]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluePrints/BP_levelManager] ([2] browsable assets)...
+[2026.01.26-00.46.19:251][216]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/BP_levelManager]
+[2026.01.26-00.46.19:280][216]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/bluePrints/BP_levelManager_Auto5
+[2026.01.26-00.46.19:280][216]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/BP_levelManager_Auto5DDC7B07B49B787DEBAE06EB02AA9EFD5.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/Autosaves/Game/bluePrints/BP_levelManager_Auto5.uasset'
+[2026.01.26-00.46.19:282][216]LogFileHelpers: Auto-saving content packages took 0.030
+[2026.01.26-00.49.20:525][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2026.01.26-00.49.21:398][994]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.26-00.49.21:439][994]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluePrints/BP_levelManager] ([2] browsable assets)...
+[2026.01.26-00.49.21:439][994]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/BP_levelManager]
+[2026.01.26-00.49.21:439][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluePrints/BP_levelManager" FILE="C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_levelManager.uasset" SILENT=true
+[2026.01.26-00.49.21:472][994]LogSavePackage: Moving output files for package: /Game/bluePrints/BP_levelManager
+[2026.01.26-00.49.21:472][994]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/BP_levelManager4718C820410D05A277DD12BA9203F330.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_levelManager.uasset'
+[2026.01.26-00.49.21:485][994]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.912 ms (total: 5.36 sec)
+[2026.01.26-00.49.21:518][994]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.26-00.49.21:518][994]LogContentValidation: Enabled validators:
+[2026.01.26-00.49.21:518][994]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.26-00.49.21:518][994]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.26-00.49.21:518][994]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.26-00.49.21:518][994]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.26-00.49.21:518][994]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.26-00.49.21:518][994]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.26-00.49.21:518][994]AssetCheck: /Game/bluePrints/BP_levelManager Validating asset
+[2026.01.26-00.50.04:495][414]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18794.021484
+[2026.01.26-00.50.04:660][420]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.26-00.50.04:660][420]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18794.162109, Update Interval: 358.939789
+[2026.01.26-00.50.17:525][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.01.26-00.50.18:236][886]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.26-00.50.18:274][886]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluePrints/BP_levelManager] ([2] browsable assets)...
+[2026.01.26-00.50.18:274][886]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/BP_levelManager]
+[2026.01.26-00.50.18:275][886]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluePrints/BP_levelManager" FILE="C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_levelManager.uasset" SILENT=true
+[2026.01.26-00.50.18:306][886]LogSavePackage: Moving output files for package: /Game/bluePrints/BP_levelManager
+[2026.01.26-00.50.18:306][886]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/BP_levelManager259A7FBA4867E6AE2B1B0392F4778FE5.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_levelManager.uasset'
+[2026.01.26-00.50.18:317][886]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.049 ms (total: 5.44 sec)
+[2026.01.26-00.50.18:360][886]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.26-00.50.18:360][886]LogContentValidation: Enabled validators:
+[2026.01.26-00.50.18:360][886]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.26-00.50.18:360][886]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.26-00.50.18:360][886]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.26-00.50.18:360][886]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.26-00.50.18:360][886]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.26-00.50.18:360][886]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.26-00.50.18:360][886]AssetCheck: /Game/bluePrints/BP_levelManager Validating asset
+[2026.01.26-00.50.34:172][451]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.26-00.50.34:187][451]LogContentBundle: [Level1(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.01.26-00.50.34:187][451]LogWorldPartition: Display: GenerateStreaming for 'Level1' started...
+[2026.01.26-00.50.34:191][451]LogWorldPartition: Display: GenerateStreaming for 'Level1' took 3.354 ms (total: 25.707 ms)
+[2026.01.26-00.50.34:193][451]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2026.01.26-00.50.34:235][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.01.26-00.50.34:240][451]LogPlayLevel: PlayLevel: Blueprint regeneration took 49 ms (1 blueprints)
+[2026.01.26-00.50.34:241][451]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2026.01.26-00.50.34:259][451]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.01.26-00.50.34:261][451]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.820 ms (total: 25.583 ms)
+[2026.01.26-00.50.34:263][451]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022150s)
+[2026.01.26-00.50.34:263][451]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.022269s)
+[2026.01.26-00.50.34:295][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.01.26-00.50.34:298][451]LogChaosDD: Creating Chaos Debug Draw Scene for world Level1
+[2026.01.26-00.50.34:300][451]LogWorldPartition: ULevel::OnLevelLoaded(Level1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.01.26-00.50.34:300][451]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.01.26-00.50.34:300][451]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_Level1.Level1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.01.26-00.50.34:300][451]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.01.26-00.50.34:306][451]LogWorldPartition: Display: WorldPartition initialize took 6.152 ms (total: 2.09 sec)
+[2026.01.26-00.50.34:306][451]LogPlayLevel: PIE: World Init took: (0.008784s)
+[2026.01.26-00.50.34:307][451]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2026.01.26-00.50.34:307][451]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.26-00.50.34:307][451]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.26-00.50.34:307][451]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.26-00.50.34:307][451]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.26-00.50.34:307][451]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.26-00.50.34:308][451]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.26-00.50.34:308][451]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.26-00.50.34:308][451]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.26-00.50.34:308][451]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.26-00.50.34:308][451]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.26-00.50.34:308][451]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.26-00.50.34:311][451]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.26-00.50.34:339][451]LogAudioMixer: Display: Using Audio Hardware Device Speakers (G432 Gaming Headset)
+[2026.01.26-00.50.34:339][451]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.26-00.50.34:339][451]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.26-00.50.34:339][451]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.26-00.50.34:340][451]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2026.01.26-00.50.34:341][451]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2026.01.26-00.50.34:344][451]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2026.01.26-00.50.34:344][451]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2026.01.26-00.50.34:344][451]LogInit: FAudioDevice initialized with ID 11.
+[2026.01.26-00.50.34:344][451]LogAudio: Display: Audio Device (ID: 11) registered with world 'Level1'.
+[2026.01.26-00.50.34:344][451]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2026.01.26-00.50.34:354][451]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.01.26-00.50.34:356][451]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2026.01.25-16.50.34
+[2026.01.26-00.50.34:356][451]LogWorld: Bringing up level for play took: 0.001445
+[2026.01.26-00.50.34:360][451]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2026.01.26-00.50.34:375][451]LogStreaming: Display: FlushAsyncLoading(2185,2184,2183,2182,2181,2180,2179,2178,2171,2172,2173,2174,2175,2176,2177,2170,2156,2157,2158,2159,2160,2161,2162,2163,2164,2165,2166,2167,2168,2169,2155,2150,2151,2152,2153,2154,2127,2128,2129,2130,2131,2132,2133,2134,2135,2136,2137,2138,2139,2140,2141,2142,2143,2144,2145,2146,2147,2148,2149,2113,2114,2115,2116,2117,2118,2119,2120,2121,2122,2123,2124,2125,2126,2110,2111,2112,2093,2094,2095,2096,2097,2098,2099,2100,2101,2102,2103,2104,2105,2106,2107,2108,2109,2078,2079,2080,2081,2082,2083,2084,2085,2086,2087,2088,2089,2090,2091,2092,2055,2056,2057,2058,2059,2060,2061,2062,2063,2064,2065,2066,2067,2068,2069,2070,2071,2072,2073,2074,2075,2076,2077): 131 QueuedPackages, 0 AsyncPackages
+[2026.01.26-00.50.35:851][451]PIE: Server logged in
+[2026.01.26-00.50.35:853][451]PIE: Play in editor total start time 1.667 seconds.
+[2026.01.26-00.50.37:411][533]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] interact attempted
+[2026.01.26-00.50.43:853][888]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] interact attempted
+[2026.01.26-00.50.43:853][888]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] INTERACTED W/ NPC
+[2026.01.26-00.50.43:853][888]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] what do you want, little boy?!
+[2026.01.26-00.50.44:845][944]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] you just gonna take that? cuz I, I wouldn't personally.
+[2026.01.26-00.50.46:847][ 58]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] 0you what? F you, guy, I don't want to talk to you anymore... behhh!
+[2026.01.26-00.50.46:848][ 58]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] 1i was wondering where i could find some balls. someone said i didn't have any, and I was told that I needed some.
+[2026.01.26-00.50.54:015][462]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.26-00.50.54:015][462]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2026.01.26-00.50.54:022][462]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2026.01.26-00.50.54:023][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-00.50.54:023][462]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_Level1.Level1
+[2026.01.26-00.50.54:026][462]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.26-00.50.54:034][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-00.50.54:071][462]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.26-00.50.54:072][462]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2026.01.26-00.50.54:072][462]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=4
+[2026.01.26-00.50.54:075][462]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=2
+[2026.01.26-00.50.54:098][462]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.01.26-00.50.54:169][463]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2026.01.26-00.51.46:330][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2026.01.26-00.51.47:191][432]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.26-00.51.47:227][432]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluePrints/BP_levelManager] ([2] browsable assets)...
+[2026.01.26-00.51.47:227][432]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/BP_levelManager]
+[2026.01.26-00.51.47:227][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluePrints/BP_levelManager" FILE="C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_levelManager.uasset" SILENT=true
+[2026.01.26-00.51.47:256][432]LogSavePackage: Moving output files for package: /Game/bluePrints/BP_levelManager
+[2026.01.26-00.51.47:256][432]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/BP_levelManager2A5FFA03445B6F9C1B3BCA9304661566.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_levelManager.uasset'
+[2026.01.26-00.51.47:270][432]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.777 ms (total: 5.52 sec)
+[2026.01.26-00.51.47:316][432]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.26-00.51.47:316][432]LogContentValidation: Enabled validators:
+[2026.01.26-00.51.47:316][432]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.26-00.51.47:316][432]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.26-00.51.47:316][432]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.26-00.51.47:316][432]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.26-00.51.47:316][432]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.26-00.51.47:316][432]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.26-00.51.47:316][432]AssetCheck: /Game/bluePrints/BP_levelManager Validating asset
+[2026.01.26-00.51.48:976][507]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.26-00.51.48:988][507]LogContentBundle: [Level1(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.01.26-00.51.48:988][507]LogWorldPartition: Display: GenerateStreaming for 'Level1' started...
+[2026.01.26-00.51.48:991][507]LogWorldPartition: Display: GenerateStreaming for 'Level1' took 2.545 ms (total: 28.253 ms)
+[2026.01.26-00.51.48:991][507]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.26-00.51.48:991][507]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2026.01.26-00.51.49:010][507]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.01.26-00.51.49:013][507]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.611 ms (total: 28.194 ms)
+[2026.01.26-00.51.49:014][507]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022782s)
+[2026.01.26-00.51.49:014][507]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.022819s)
+[2026.01.26-00.51.49:044][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.01.26-00.51.49:060][507]LogChaosDD: Creating Chaos Debug Draw Scene for world Level1
+[2026.01.26-00.51.49:062][507]LogWorldPartition: ULevel::OnLevelLoaded(Level1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.01.26-00.51.49:062][507]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.01.26-00.51.49:062][507]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_Level1.Level1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.01.26-00.51.49:062][507]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.01.26-00.51.49:067][507]LogWorldPartition: Display: WorldPartition initialize took 5.413 ms (total: 2.09 sec)
+[2026.01.26-00.51.49:067][507]LogPlayLevel: PIE: World Init took: (0.007464s)
+[2026.01.26-00.51.49:068][507]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2026.01.26-00.51.49:068][507]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.26-00.51.49:068][507]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.26-00.51.49:068][507]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.26-00.51.49:068][507]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.26-00.51.49:068][507]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.26-00.51.49:068][507]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.26-00.51.49:068][507]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.26-00.51.49:068][507]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.26-00.51.49:068][507]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.26-00.51.49:068][507]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.26-00.51.49:068][507]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.26-00.51.49:070][507]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.26-00.51.49:093][507]LogAudioMixer: Display: Using Audio Hardware Device Speakers (G432 Gaming Headset)
+[2026.01.26-00.51.49:093][507]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.26-00.51.49:093][507]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.26-00.51.49:093][507]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.26-00.51.49:093][507]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2026.01.26-00.51.49:093][507]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2026.01.26-00.51.49:096][507]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2026.01.26-00.51.49:096][507]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2026.01.26-00.51.49:096][507]LogInit: FAudioDevice initialized with ID 12.
+[2026.01.26-00.51.49:096][507]LogAudio: Display: Audio Device (ID: 12) registered with world 'Level1'.
+[2026.01.26-00.51.49:096][507]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2026.01.26-00.51.49:101][507]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.01.26-00.51.49:103][507]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2026.01.25-16.51.49
+[2026.01.26-00.51.49:103][507]LogWorld: Bringing up level for play took: 0.001252
+[2026.01.26-00.51.49:106][507]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2026.01.26-00.51.49:121][507]LogStreaming: Display: FlushAsyncLoading(2316,2315,2314,2313,2312,2311,2310,2309,2302,2303,2304,2305,2306,2307,2308,2301,2287,2288,2289,2290,2291,2292,2293,2294,2295,2296,2297,2298,2299,2300,2286,2281,2282,2283,2284,2285,2258,2259,2260,2261,2262,2263,2264,2265,2266,2267,2268,2269,2270,2271,2272,2273,2274,2275,2276,2277,2278,2279,2280,2244,2245,2246,2247,2248,2249,2250,2251,2252,2253,2254,2255,2256,2257,2241,2242,2243,2224,2225,2226,2227,2228,2229,2230,2231,2232,2233,2234,2235,2236,2237,2238,2239,2240,2209,2210,2211,2212,2213,2214,2215,2216,2217,2218,2219,2220,2221,2222,2223,2186,2187,2188,2189,2190,2191,2192,2193,2194,2195,2196,2197,2198,2199,2200,2201,2202,2203,2204,2205,2206,2207,2208): 131 QueuedPackages, 0 AsyncPackages
+[2026.01.26-00.51.49:577][507]PIE: Server logged in
+[2026.01.26-00.51.49:580][507]PIE: Play in editor total start time 0.592 seconds.
+[2026.01.26-00.51.53:394][716]Set new viewmode: Wireframe
+[2026.01.26-00.51.54:768][788]Set new viewmode: Wireframe
+[2026.01.26-00.51.57:675][950]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.26-00.51.57:675][950]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2026.01.26-00.51.57:682][950]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2026.01.26-00.51.57:683][950]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-00.51.57:683][950]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_Level1.Level1
+[2026.01.26-00.51.57:684][950]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.26-00.51.57:691][950]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-00.51.57:729][950]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.26-00.51.57:729][950]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2026.01.26-00.51.57:729][950]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=4
+[2026.01.26-00.51.57:732][950]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=2
+[2026.01.26-00.51.57:739][950]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.26-00.51.57:750][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.01.26-00.51.57:805][951]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2026.01.26-00.51.59:421][ 42]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.26-00.51.59:433][ 42]LogContentBundle: [Level1(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.01.26-00.51.59:433][ 42]LogWorldPartition: Display: GenerateStreaming for 'Level1' started...
+[2026.01.26-00.51.59:436][ 42]LogWorldPartition: Display: GenerateStreaming for 'Level1' took 3.070 ms (total: 31.323 ms)
+[2026.01.26-00.51.59:436][ 42]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.26-00.51.59:436][ 42]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2026.01.26-00.51.59:452][ 42]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.01.26-00.51.59:455][ 42]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.565 ms (total: 30.759 ms)
+[2026.01.26-00.51.59:455][ 42]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018719s)
+[2026.01.26-00.51.59:455][ 42]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.018757s)
+[2026.01.26-00.51.59:483][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2026.01.26-00.51.59:488][ 42]LogChaosDD: Creating Chaos Debug Draw Scene for world Level1
+[2026.01.26-00.51.59:489][ 42]LogWorldPartition: ULevel::OnLevelLoaded(Level1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.01.26-00.51.59:489][ 42]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.01.26-00.51.59:489][ 42]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_Level1.Level1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.01.26-00.51.59:489][ 42]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.01.26-00.51.59:495][ 42]LogWorldPartition: Display: WorldPartition initialize took 5.738 ms (total: 2.10 sec)
+[2026.01.26-00.51.59:495][ 42]LogPlayLevel: PIE: World Init took: (0.008196s)
+[2026.01.26-00.51.59:496][ 42]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2026.01.26-00.51.59:496][ 42]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.26-00.51.59:496][ 42]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.26-00.51.59:496][ 42]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.26-00.51.59:496][ 42]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.26-00.51.59:496][ 42]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.26-00.51.59:496][ 42]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.26-00.51.59:496][ 42]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.26-00.51.59:496][ 42]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.26-00.51.59:496][ 42]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.26-00.51.59:496][ 42]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.26-00.51.59:496][ 42]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.26-00.51.59:499][ 42]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.26-00.51.59:521][ 42]LogAudioMixer: Display: Using Audio Hardware Device Speakers (G432 Gaming Headset)
+[2026.01.26-00.51.59:521][ 42]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.26-00.51.59:521][ 42]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.26-00.51.59:521][ 42]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.26-00.51.59:521][ 42]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2026.01.26-00.51.59:521][ 42]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2026.01.26-00.51.59:525][ 42]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2026.01.26-00.51.59:525][ 42]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2026.01.26-00.51.59:525][ 42]LogInit: FAudioDevice initialized with ID 13.
+[2026.01.26-00.51.59:525][ 42]LogAudio: Display: Audio Device (ID: 13) registered with world 'Level1'.
+[2026.01.26-00.51.59:525][ 42]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2026.01.26-00.51.59:529][ 42]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.01.26-00.51.59:531][ 42]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2026.01.25-16.51.59
+[2026.01.26-00.51.59:531][ 42]LogWorld: Bringing up level for play took: 0.001089
+[2026.01.26-00.51.59:534][ 42]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2026.01.26-00.51.59:544][ 42]LogStreaming: Display: FlushAsyncLoading(2447,2446,2445,2444,2443,2442,2441,2440,2433,2434,2435,2436,2437,2438,2439,2432,2418,2419,2420,2421,2422,2423,2424,2425,2426,2427,2428,2429,2430,2431,2417,2412,2413,2414,2415,2416,2389,2390,2391,2392,2393,2394,2395,2396,2397,2398,2399,2400,2401,2402,2403,2404,2405,2406,2407,2408,2409,2410,2411,2375,2376,2377,2378,2379,2380,2381,2382,2383,2384,2385,2386,2387,2388,2372,2373,2374,2355,2356,2357,2358,2359,2360,2361,2362,2363,2364,2365,2366,2367,2368,2369,2370,2371,2340,2341,2342,2343,2344,2345,2346,2347,2348,2349,2350,2351,2352,2353,2354,2317,2318,2319,2320,2321,2322,2323,2324,2325,2326,2327,2328,2329,2330,2331,2332,2333,2334,2335,2336,2337,2338,2339): 131 QueuedPackages, 0 AsyncPackages
+[2026.01.26-00.52.00:028][ 42]PIE: Server logged in
+[2026.01.26-00.52.00:031][ 42]PIE: Play in editor total start time 0.598 seconds.
+[2026.01.26-00.52.12:686][726]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] interact attempted
+[2026.01.26-00.52.12:686][726]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2026.01.26-00.52.12:686][726]LogScript: Warning: Script Msg called by: BP_FirstPersonCharacter_C /Game/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.BP_FirstPersonCharacter_C_0
+[2026.01.26-00.52.12:686][726]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] interacted w/ != door
+[2026.01.26-00.52.15:687][896]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] interact attempted
+[2026.01.26-00.52.15:687][896]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] INTERACTED W/ NPC
+[2026.01.26-00.52.15:687][896]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] what do you want, little boy?!
+[2026.01.26-00.52.18:682][ 61]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] you just gonna take that? cuz I, I wouldn't personally.
+[2026.01.26-00.52.21:693][228]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] 0you what? F you, guy, I don't want to talk to you anymore... behhh!
+[2026.01.26-00.52.21:693][228]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] 1i was wondering where i could find some balls. someone said i didn't have any, and I was told that I needed some.
+[2026.01.26-00.53.10:489][931]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] yeah, that's right, tell him!
+[2026.01.26-00.53.10:489][931]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] fine,, leave!
+[2026.01.26-00.53.13:482][ 96]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] yeah, let's get out of here
+[2026.01.26-00.53.16:488][265]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] 0fine,, I will!
+[2026.01.26-00.53.16:488][265]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] 1no... should I?
+[2026.01.26-00.53.20:151][468]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] spit on him! spit on him before we leave!
+[2026.01.26-00.53.20:151][468]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] are you gonna leave, or what?
+[2026.01.26-00.53.23:139][631]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] yeah, seriously, let's get out of here
+[2026.01.26-00.53.26:154][799]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'currentDialogue' of length 3 in '/Game/bluePrints/BP_levelManager.BP_levelManager_C'!
+[2026.01.26-00.53.26:154][799]LogScript: Warning: Script Msg called by: BP_levelManager_C /Memory/UEDPIE_0_Level1_AI12OTEW7KD7PU50PY27SX1KL.Level1:PersistentLevel.BP_levelManager_C_UAID_D4939014B5681AB402_1874504171
+[2026.01.26-00.53.26:154][799]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'currentDialogue' of length 3 in '/Game/bluePrints/BP_levelManager.BP_levelManager_C'!
+[2026.01.26-00.53.26:154][799]LogScript: Warning: Script Msg called by: BP_levelManager_C /Memory/UEDPIE_0_Level1_AI12OTEW7KD7PU50PY27SX1KL.Level1:PersistentLevel.BP_levelManager_C_UAID_D4939014B5681AB402_1874504171
+[2026.01.26-00.54.46:594][171]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.26-00.54.46:594][171]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2026.01.26-00.54.46:602][171]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2026.01.26-00.54.46:602][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-00.54.46:602][171]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_Level1.Level1
+[2026.01.26-00.54.46:604][171]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.26-00.54.46:611][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-00.54.46:650][171]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.26-00.54.46:650][171]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2026.01.26-00.54.46:650][171]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=4
+[2026.01.26-00.54.46:654][171]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=2
+[2026.01.26-00.54.46:672][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2026.01.26-00.54.46:726][172]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2026.01.26-00.56.35:076][720]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19184.548828
+[2026.01.26-00.56.35:234][727]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.26-00.56.35:235][727]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19184.683594, Update Interval: 337.420563
+[2026.01.26-00.57.35:380][313]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.01.26-00.57.36:113][334]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.26-00.57.36:153][334]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluePrints/BP_levelManager] ([2] browsable assets)...
+[2026.01.26-00.57.36:153][334]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/BP_levelManager]
+[2026.01.26-00.57.36:153][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluePrints/BP_levelManager" FILE="C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_levelManager.uasset" SILENT=true
+[2026.01.26-00.57.36:185][334]LogSavePackage: Moving output files for package: /Game/bluePrints/BP_levelManager
+[2026.01.26-00.57.36:186][334]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/BP_levelManager9F9872DE47BB41C6088AF6A9A43CE8D0.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_levelManager.uasset'
+[2026.01.26-00.57.36:200][334]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.357 ms (total: 5.61 sec)
+[2026.01.26-00.57.36:243][334]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.26-00.57.36:243][334]LogContentValidation: Enabled validators:
+[2026.01.26-00.57.36:243][334]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.26-00.57.36:243][334]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.26-00.57.36:243][334]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.26-00.57.36:243][334]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.26-00.57.36:243][334]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.26-00.57.36:243][334]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.26-00.57.36:244][334]AssetCheck: /Game/bluePrints/BP_levelManager Validating asset
+[2026.01.26-00.59.36:946][906]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2026.01.26-00.59.37:914][922]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.26-00.59.37:961][922]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/bluePrints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.01.26-00.59.37:981][922]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/bluePrints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2026.01.26-00.59.37:981][922]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/BP_FirstPersonCharacter]
+[2026.01.26-00.59.37:981][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluePrints/BP_FirstPersonCharacter" FILE="C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_FirstPersonCharacter.uasset" SILENT=true
+[2026.01.26-00.59.38:061][922]LogSavePackage: Moving output files for package: /Game/bluePrints/BP_FirstPersonCharacter
+[2026.01.26-00.59.38:061][922]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/BP_FirstPersonCharacter8D9ADF2047C9654586F532A02ECCB4FF.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_FirstPersonCharacter.uasset'
+[2026.01.26-00.59.38:075][922]LogFileHelpers: InternalPromptForCheckoutAndSave took 160.714 ms (total: 5.77 sec)
+[2026.01.26-00.59.38:119][922]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.26-00.59.38:119][922]LogContentValidation: Enabled validators:
+[2026.01.26-00.59.38:119][922]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.26-00.59.38:119][922]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.26-00.59.38:119][922]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.26-00.59.38:119][922]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.26-00.59.38:119][922]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.26-00.59.38:119][922]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.26-00.59.38:119][922]AssetCheck: /Game/bluePrints/BP_FirstPersonCharacter Validating asset
+[2026.01.26-01.00.16:001][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2026.01.26-01.00.16:025][322]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Level1/3/WV/7HAAQNF2OA0MV4CKXJBJK6_Auto6
+[2026.01.26-01.00.16:025][322]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/7HAAQNF2OA0MV4CKXJBJK6_Auto6EF353A05488D4A612BE9AE93A01F04A6.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/Autosaves/Game/__ExternalActors__/Levels/Level1/3/WV/7HAAQNF2OA0MV4CKXJBJK6_Auto6.uasset'
+[2026.01.26-01.00.16:028][322]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.060
+[2026.01.26-01.00.16:028][322]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.060
+[2026.01.26-01.01.08:404][314]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/bluePrints/externalVariables/dialogue.dialogue
+[2026.01.26-01.01.18:854][838]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.26-01.01.18:887][838]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluePrints/externalVariables/dialogue] ([1] browsable assets)...
+[2026.01.26-01.01.18:887][838]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/externalVariables/dialogue]
+[2026.01.26-01.01.18:887][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluePrints/externalVariables/dialogue" FILE="C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/externalVariables/dialogue.uasset" SILENT=true
+[2026.01.26-01.01.18:898][838]LogSavePackage: Moving output files for package: /Game/bluePrints/externalVariables/dialogue
+[2026.01.26-01.01.18:899][838]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/dialogueF9BC7A5842FAA6EAC7BC29ACC731BD02.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/externalVariables/dialogue.uasset'
+[2026.01.26-01.01.18:911][838]LogFileHelpers: InternalPromptForCheckoutAndSave took 58.062 ms (total: 5.83 sec)
+[2026.01.26-01.01.18:957][838]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.26-01.01.18:958][838]LogContentValidation: Enabled validators:
+[2026.01.26-01.01.18:958][838]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.26-01.01.18:958][838]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.26-01.01.18:958][838]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.26-01.01.18:958][838]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.26-01.01.18:958][838]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.26-01.01.18:958][838]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.26-01.01.18:958][838]AssetCheck: /Game/bluePrints/externalVariables/dialogue Validating asset
+[2026.01.26-01.01.24:116][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2026.01.26-01.01.25:370][101]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.26-01.01.25:417][101]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluePrints/BP_levelManager] ([2] browsable assets)...
+[2026.01.26-01.01.25:417][101]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/BP_levelManager]
+[2026.01.26-01.01.25:417][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluePrints/BP_levelManager" FILE="C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_levelManager.uasset" SILENT=true
+[2026.01.26-01.01.25:447][101]LogSavePackage: Moving output files for package: /Game/bluePrints/BP_levelManager
+[2026.01.26-01.01.25:447][101]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/BP_levelManager6720186246149A9953D78A9F83C41D8A.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_levelManager.uasset'
+[2026.01.26-01.01.25:461][101]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.811 ms (total: 5.92 sec)
+[2026.01.26-01.01.25:500][101]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.26-01.01.25:500][101]LogContentValidation: Enabled validators:
+[2026.01.26-01.01.25:500][101]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.26-01.01.25:500][101]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.26-01.01.25:500][101]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.26-01.01.25:500][101]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.26-01.01.25:500][101]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.26-01.01.25:500][101]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.26-01.01.25:500][101]AssetCheck: /Game/bluePrints/BP_levelManager Validating asset
+[2026.01.26-01.02.57:290][302]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19566.771484
+[2026.01.26-01.02.57:466][308]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.26-01.02.57:466][309]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19566.916016, Update Interval: 308.207031
+[2026.01.26-01.09.01:223][659]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19930.707031
+[2026.01.26-01.09.01:345][664]LogContentBrowser: Deferred new asset file creation: NewInterface
+[2026.01.26-01.09.01:381][664]LogContentBrowser: Creating deferred item: NewInterface
+[2026.01.26-01.09.01:422][665]LogContentBrowser: Renaming the item being created (Deferred Item: NewInterface).
+[2026.01.26-01.09.01:424][665]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.26-01.09.01:424][665]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19930.871094, Update Interval: 307.214569
+[2026.01.26-01.09.09:240][964]LogContentBrowser: Attempting asset rename: NewInterface -> BPI_endInteraction
+[2026.01.26-01.09.09:250][964]LogContentBrowser: End creating deferred item NewInterface
+[2026.01.26-01.09.11:690][ 58]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/bluePrints/BPIs/BPI_endInteraction.BPI_endInteraction
+[2026.01.26-01.09.11:690][ 58]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2026.01.26-01.09.29:791][908]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2026.01.26-01.09.30:440][937]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.26-01.09.30:475][937]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluePrints/BPIs/BPI_endInteraction] ([2] browsable assets)...
+[2026.01.26-01.09.30:475][937]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/BPIs/BPI_endInteraction]
+[2026.01.26-01.09.30:475][937]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluePrints/BPIs/BPI_endInteraction" FILE="C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BPIs/BPI_endInteraction.uasset" SILENT=true
+[2026.01.26-01.09.30:487][937]LogSavePackage: Moving output files for package: /Game/bluePrints/BPIs/BPI_endInteraction
+[2026.01.26-01.09.30:487][937]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/BPI_endInteractionFB1E491E457865100EBC9B997AC20B7B.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BPIs/BPI_endInteraction.uasset'
+[2026.01.26-01.09.30:503][937]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.134 ms (total: 5.98 sec)
+[2026.01.26-01.09.30:536][937]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.26-01.09.30:536][937]LogContentValidation: Enabled validators:
+[2026.01.26-01.09.30:536][937]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.26-01.09.30:536][937]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.26-01.09.30:536][937]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.26-01.09.30:536][937]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.26-01.09.30:536][937]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.26-01.09.30:536][937]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.26-01.09.30:536][937]AssetCheck: /Game/bluePrints/BPIs/BPI_endInteraction Validating asset
+[2026.01.26-01.09.30:569][937]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.26-01.10.52:734][154]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/bluePrints/BPIs/BPI_NPC_interaction.BPI_NPC_interaction
+[2026.01.26-01.10.52:734][154]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2026.01.26-01.11.17:141][320]LogBlueprint: Error: [AssetLog] C:\Users\Then2\Documents\gitHub\DullahanD\Unreal Engine\Content\bluePrints\BP_levelManager.uasset: [Compiler] Message node  endInteraction  must have a valid target or reference to self.
+[2026.01.26-01.11.17:220][320]LogStreaming: Display: FlushAsyncLoading(2448): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.26-01.11.17:325][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.01.26-01.11.17:980][343]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.26-01.11.18:028][343]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluePrints/BPIs/BPI_NPC_interaction] ([2] browsable assets)...
+[2026.01.26-01.11.18:028][343]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/BPIs/BPI_NPC_interaction]
+[2026.01.26-01.11.18:028][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluePrints/BPIs/BPI_NPC_interaction" FILE="C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BPIs/BPI_NPC_interaction.uasset" SILENT=true
+[2026.01.26-01.11.18:039][343]LogSavePackage: Moving output files for package: /Game/bluePrints/BPIs/BPI_NPC_interaction
+[2026.01.26-01.11.18:040][343]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/BPI_NPC_interaction5276453742F966B1C78268A5D489451C.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BPIs/BPI_NPC_interaction.uasset'
+[2026.01.26-01.11.18:051][343]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.233 ms (total: 6.05 sec)
+[2026.01.26-01.11.18:080][343]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.26-01.11.18:080][343]LogContentValidation: Enabled validators:
+[2026.01.26-01.11.18:080][343]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.26-01.11.18:080][343]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.26-01.11.18:080][343]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.26-01.11.18:080][343]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.26-01.11.18:080][343]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.26-01.11.18:080][343]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.26-01.11.18:080][343]AssetCheck: /Game/bluePrints/BPIs/BPI_NPC_interaction Validating asset
+[2026.01.26-01.11.20:960][433]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2026.01.26-01.11.27:610][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2026.01.26-01.11.28:635][688]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.26-01.11.28:675][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/bluePrints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.01.26-01.11.28:691][688]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/bluePrints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2026.01.26-01.11.28:691][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/BP_FirstPersonCharacter]
+[2026.01.26-01.11.28:691][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluePrints/BP_FirstPersonCharacter" FILE="C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_FirstPersonCharacter.uasset" SILENT=true
+[2026.01.26-01.11.28:766][688]LogSavePackage: Moving output files for package: /Game/bluePrints/BP_FirstPersonCharacter
+[2026.01.26-01.11.28:767][688]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/BP_FirstPersonCharacter33D5236F41341F8AB73A1EA898C17A2D.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_FirstPersonCharacter.uasset'
+[2026.01.26-01.11.28:781][688]LogFileHelpers: InternalPromptForCheckoutAndSave took 147.319 ms (total: 6.20 sec)
+[2026.01.26-01.11.28:817][688]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.26-01.11.28:817][688]LogContentValidation: Enabled validators:
+[2026.01.26-01.11.28:817][688]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.26-01.11.28:817][688]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.26-01.11.28:817][688]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.26-01.11.28:817][688]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.26-01.11.28:817][688]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.26-01.11.28:817][688]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.26-01.11.28:817][688]AssetCheck: /Game/bluePrints/BP_FirstPersonCharacter Validating asset
+[2026.01.26-01.11.31:337][773]LogBlueprint: Error: [AssetLog] C:\Users\Then2\Documents\gitHub\DullahanD\Unreal Engine\Content\bluePrints\BP_levelManager.uasset: [Compiler] Message node  endInteraction  must have a valid target or reference to self.
+[2026.01.26-01.11.31:429][773]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2026.01.26-01.12.14:751][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.01.26-01.12.15:661][463]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.26-01.12.15:696][463]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluePrints/BP_levelManager] ([2] browsable assets)...
+[2026.01.26-01.12.15:696][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/BP_levelManager]
+[2026.01.26-01.12.15:696][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluePrints/BP_levelManager" FILE="C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_levelManager.uasset" SILENT=true
+[2026.01.26-01.12.15:730][463]LogSavePackage: Moving output files for package: /Game/bluePrints/BP_levelManager
+[2026.01.26-01.12.15:731][463]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/BP_levelManagerFCC870E14FE5CAF1874F4793DBC617C5.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_levelManager.uasset'
+[2026.01.26-01.12.15:743][463]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.275 ms (total: 6.28 sec)
+[2026.01.26-01.12.15:775][463]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.26-01.12.15:775][463]LogContentValidation: Enabled validators:
+[2026.01.26-01.12.15:775][463]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.26-01.12.15:775][463]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.26-01.12.15:775][463]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.26-01.12.15:775][463]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.26-01.12.15:775][463]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.26-01.12.15:775][463]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.26-01.12.15:775][463]AssetCheck: /Game/bluePrints/BP_levelManager Validating asset
+[2026.01.26-01.13.09:273][488]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.01.26-01.13.09:291][488]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Level1/3/WV/7HAAQNF2OA0MV4CKXJBJK6_Auto7
+[2026.01.26-01.13.09:292][488]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/7HAAQNF2OA0MV4CKXJBJK6_Auto7D2F506C64188B6CB497855A78CF6E826.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/Autosaves/Game/__ExternalActors__/Levels/Level1/3/WV/7HAAQNF2OA0MV4CKXJBJK6_Auto7.uasset'
+[2026.01.26-01.13.09:293][488]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.057
+[2026.01.26-01.13.09:294][488]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.057
+[2026.01.26-01.13.09:294][488]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/bluePrints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.01.26-01.13.09:306][488]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/bluePrints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2026.01.26-01.13.09:306][488]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/BP_FirstPersonCharacter]
+[2026.01.26-01.13.09:383][488]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/bluePrints/BP_FirstPersonCharacter_Auto7
+[2026.01.26-01.13.09:384][488]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/BP_FirstPersonCharacter_Auto71024153B43674C7A3E4487BEA4D8A819.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/Autosaves/Game/bluePrints/BP_FirstPersonCharacter_Auto7.uasset'
+[2026.01.26-01.13.09:386][488]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluePrints/BP_levelManager] ([2] browsable assets)...
+[2026.01.26-01.13.09:386][488]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/BP_levelManager]
+[2026.01.26-01.13.09:415][488]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/bluePrints/BP_levelManager_Auto7
+[2026.01.26-01.13.09:416][488]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/BP_levelManager_Auto7F9731B2E4D95D466CEDD0191EFF87E83.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/Autosaves/Game/bluePrints/BP_levelManager_Auto7.uasset'
+[2026.01.26-01.13.09:417][488]LogFileHelpers: Auto-saving content packages took 0.124
+[2026.01.26-01.13.30:131][237]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2026.01.26-01.13.31:463][264]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.26-01.13.31:506][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/bluePrints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.01.26-01.13.31:518][264]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/bluePrints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2026.01.26-01.13.31:518][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/BP_FirstPersonCharacter]
+[2026.01.26-01.13.31:518][264]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluePrints/BP_FirstPersonCharacter" FILE="C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_FirstPersonCharacter.uasset" SILENT=true
+[2026.01.26-01.13.31:611][264]LogSavePackage: Moving output files for package: /Game/bluePrints/BP_FirstPersonCharacter
+[2026.01.26-01.13.31:612][264]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/BP_FirstPersonCharacterDD1CC268474DE6364F9803835C363B27.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_FirstPersonCharacter.uasset'
+[2026.01.26-01.13.31:629][264]LogFileHelpers: InternalPromptForCheckoutAndSave took 166.046 ms (total: 6.45 sec)
+[2026.01.26-01.13.31:675][264]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.26-01.13.31:675][264]LogContentValidation: Enabled validators:
+[2026.01.26-01.13.31:675][264]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.26-01.13.31:675][264]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.26-01.13.31:675][264]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.26-01.13.31:675][264]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.26-01.13.31:675][264]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.26-01.13.31:676][264]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.26-01.13.31:676][264]AssetCheck: /Game/bluePrints/BP_FirstPersonCharacter Validating asset
+[2026.01.26-01.14.02:718][431]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2026.01.26-01.14.03:769][446]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.26-01.14.03:811][446]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/bluePrints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.01.26-01.14.03:825][446]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/bluePrints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2026.01.26-01.14.03:825][446]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/BP_FirstPersonCharacter]
+[2026.01.26-01.14.03:825][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluePrints/BP_FirstPersonCharacter" FILE="C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_FirstPersonCharacter.uasset" SILENT=true
+[2026.01.26-01.14.03:921][446]LogSavePackage: Moving output files for package: /Game/bluePrints/BP_FirstPersonCharacter
+[2026.01.26-01.14.03:921][446]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/BP_FirstPersonCharacter438BCBE740814DC223C27C94D1822B25.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_FirstPersonCharacter.uasset'
+[2026.01.26-01.14.03:934][446]LogFileHelpers: InternalPromptForCheckoutAndSave took 165.920 ms (total: 6.61 sec)
+[2026.01.26-01.14.03:974][446]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.26-01.14.03:974][446]LogContentValidation: Enabled validators:
+[2026.01.26-01.14.03:974][446]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.26-01.14.03:974][446]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.26-01.14.03:974][446]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.26-01.14.03:974][446]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.26-01.14.03:974][446]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.26-01.14.03:974][446]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.26-01.14.03:975][446]AssetCheck: /Game/bluePrints/BP_FirstPersonCharacter Validating asset
+[2026.01.26-01.14.45:222][ 90]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20274.773438
+[2026.01.26-01.14.45:430][ 96]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.26-01.14.45:430][ 96]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20274.955078, Update Interval: 315.807983
+[2026.01.26-01.14.59:054][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2026.01.26-01.15.00:131][650]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.26-01.15.00:172][650]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/bluePrints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.01.26-01.15.00:183][650]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/bluePrints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2026.01.26-01.15.00:183][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/BP_FirstPersonCharacter]
+[2026.01.26-01.15.00:183][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluePrints/BP_FirstPersonCharacter" FILE="C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_FirstPersonCharacter.uasset" SILENT=true
+[2026.01.26-01.15.00:261][650]LogSavePackage: Moving output files for package: /Game/bluePrints/BP_FirstPersonCharacter
+[2026.01.26-01.15.00:262][650]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/BP_FirstPersonCharacter45E90921498F48F8C682C58B3B96D010.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_FirstPersonCharacter.uasset'
+[2026.01.26-01.15.00:276][650]LogFileHelpers: InternalPromptForCheckoutAndSave took 145.721 ms (total: 6.76 sec)
+[2026.01.26-01.15.00:303][650]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.26-01.15.00:303][650]LogContentValidation: Enabled validators:
+[2026.01.26-01.15.00:303][650]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.26-01.15.00:303][650]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.26-01.15.00:303][650]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.26-01.15.00:303][650]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.26-01.15.00:303][650]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.26-01.15.00:303][650]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.26-01.15.00:304][650]AssetCheck: /Game/bluePrints/BP_FirstPersonCharacter Validating asset
+[2026.01.26-01.15.56:213][723]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2026.01.26-01.16.01:353][893]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.26-01.16.01:394][893]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/bluePrints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.01.26-01.16.01:405][893]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/bluePrints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2026.01.26-01.16.01:406][893]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/BP_FirstPersonCharacter]
+[2026.01.26-01.16.01:406][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluePrints/BP_FirstPersonCharacter" FILE="C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_FirstPersonCharacter.uasset" SILENT=true
+[2026.01.26-01.16.01:489][893]LogSavePackage: Moving output files for package: /Game/bluePrints/BP_FirstPersonCharacter
+[2026.01.26-01.16.01:490][893]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/BP_FirstPersonCharacter6DAD0B8443650D1408CAE594800B7746.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_FirstPersonCharacter.uasset'
+[2026.01.26-01.16.01:502][893]LogFileHelpers: InternalPromptForCheckoutAndSave took 148.837 ms (total: 6.91 sec)
+[2026.01.26-01.16.01:548][893]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.26-01.16.01:548][893]LogContentValidation: Enabled validators:
+[2026.01.26-01.16.01:548][893]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.26-01.16.01:548][893]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.26-01.16.01:548][893]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.26-01.16.01:548][893]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.26-01.16.01:548][893]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.26-01.16.01:548][893]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.26-01.16.01:548][893]AssetCheck: /Game/bluePrints/BP_FirstPersonCharacter Validating asset
+[2026.01.26-01.16.05:096][ 48]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.26-01.16.05:106][ 48]LogContentBundle: [Level1(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.01.26-01.16.05:106][ 48]LogWorldPartition: Display: GenerateStreaming for 'Level1' started...
+[2026.01.26-01.16.05:109][ 48]LogWorldPartition: Display: GenerateStreaming for 'Level1' took 2.990 ms (total: 34.314 ms)
+[2026.01.26-01.16.05:110][ 48]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.26-01.16.05:110][ 48]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2026.01.26-01.16.05:127][ 48]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.01.26-01.16.05:129][ 48]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.756 ms (total: 33.516 ms)
+[2026.01.26-01.16.05:130][ 48]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019345s)
+[2026.01.26-01.16.05:130][ 48]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.019387s)
+[2026.01.26-01.16.05:166][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2026.01.26-01.16.05:179][ 48]LogChaosDD: Creating Chaos Debug Draw Scene for world Level1
+[2026.01.26-01.16.05:181][ 48]LogWorldPartition: ULevel::OnLevelLoaded(Level1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.01.26-01.16.05:181][ 48]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.01.26-01.16.05:181][ 48]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_Level1.Level1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.01.26-01.16.05:181][ 48]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.01.26-01.16.05:186][ 48]LogWorldPartition: Display: WorldPartition initialize took 5.657 ms (total: 2.10 sec)
+[2026.01.26-01.16.05:187][ 48]LogPlayLevel: PIE: World Init took: (0.008046s)
+[2026.01.26-01.16.05:188][ 48]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2026.01.26-01.16.05:188][ 48]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.26-01.16.05:188][ 48]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.26-01.16.05:188][ 48]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.26-01.16.05:188][ 48]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.26-01.16.05:188][ 48]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.26-01.16.05:188][ 48]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.26-01.16.05:188][ 48]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.26-01.16.05:188][ 48]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.26-01.16.05:188][ 48]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.26-01.16.05:188][ 48]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.26-01.16.05:188][ 48]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.26-01.16.05:192][ 48]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.26-01.16.05:220][ 48]LogAudioMixer: Display: Using Audio Hardware Device Speakers (G432 Gaming Headset)
+[2026.01.26-01.16.05:220][ 48]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.26-01.16.05:220][ 48]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.26-01.16.05:220][ 48]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.26-01.16.05:220][ 48]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2026.01.26-01.16.05:220][ 48]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2026.01.26-01.16.05:223][ 48]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2026.01.26-01.16.05:223][ 48]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2026.01.26-01.16.05:223][ 48]LogInit: FAudioDevice initialized with ID 14.
+[2026.01.26-01.16.05:223][ 48]LogAudio: Display: Audio Device (ID: 14) registered with world 'Level1'.
+[2026.01.26-01.16.05:223][ 48]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2026.01.26-01.16.05:228][ 48]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.01.26-01.16.05:229][ 48]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2026.01.25-17.16.05
+[2026.01.26-01.16.05:229][ 48]LogWorld: Bringing up level for play took: 0.001210
+[2026.01.26-01.16.05:233][ 48]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2026.01.26-01.16.05:244][ 48]LogStreaming: Display: FlushAsyncLoading(2579,2578,2577,2576,2575,2574,2573,2572,2565,2566,2567,2568,2569,2570,2571,2564,2550,2551,2552,2553,2554,2555,2556,2557,2558,2559,2560,2561,2562,2563,2549,2544,2545,2546,2547,2548,2521,2522,2523,2524,2525,2526,2527,2528,2529,2530,2531,2532,2533,2534,2535,2536,2537,2538,2539,2540,2541,2542,2543,2507,2508,2509,2510,2511,2512,2513,2514,2515,2516,2517,2518,2519,2520,2504,2505,2506,2487,2488,2489,2490,2491,2492,2493,2494,2495,2496,2497,2498,2499,2500,2501,2502,2503,2472,2473,2474,2475,2476,2477,2478,2479,2480,2481,2482,2483,2484,2485,2486,2449,2450,2451,2452,2453,2454,2455,2456,2457,2458,2459,2460,2461,2462,2463,2464,2465,2466,2467,2468,2469,2470,2471): 131 QueuedPackages, 0 AsyncPackages
+[2026.01.26-01.16.05:711][ 48]PIE: Server logged in
+[2026.01.26-01.16.05:713][ 48]PIE: Play in editor total start time 0.607 seconds.
+[2026.01.26-01.16.06:813][101]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] interact attempted
+[2026.01.26-01.16.09:679][260]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] interact attempted
+[2026.01.26-01.16.09:679][260]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] INTERACTED W/ NPC
+[2026.01.26-01.16.09:679][260]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] NPC: what do you want, little boy?!
+[2026.01.26-01.16.12:671][424]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] Skull reaction to NPC: you just gonna take that? cuz I, I wouldn't personally.
+[2026.01.26-01.16.15:675][587]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] Option 0: say what? F you, guy, I don't want to talk to you anymore... behhh!
+[2026.01.26-01.16.15:675][587]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] Option 1: i was wondering where i could find some balls. someone said i didn't have any, and I was told that I needed some.
+[2026.01.26-01.16.17:321][679]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player chose option 2
+[2026.01.26-01.16.17:321][679]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] Skull reaction to player: oh my... you are so f'ing stupid...
+[2026.01.26-01.16.17:321][679]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] NPC: um... have you checked your pants?
+[2026.01.26-01.16.20:315][842]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] Skull reaction to NPC: ... have you?
+[2026.01.26-01.16.23:317][  6]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] Option 0: fine,, I will!
+[2026.01.26-01.16.23:317][  6]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] Option 1: no... should I?
+[2026.01.26-01.16.26:242][171]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player chose option 2
+[2026.01.26-01.16.26:242][171]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] Skull reaction to player: yeah
+[2026.01.26-01.16.26:242][171]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] NPC: yeah. i can help you if you want
+[2026.01.26-01.16.29:235][340]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] Skull reaction to NPC: yeah lol, ask him to help. then tell him as a reward, you can help him look too... in his pants (hehe)
+[2026.01.26-01.17.44:509][345]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.26-01.17.44:509][345]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2026.01.26-01.17.44:516][345]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2026.01.26-01.17.44:516][345]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-01.17.44:516][345]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_Level1.Level1
+[2026.01.26-01.17.44:518][345]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.26-01.17.44:529][345]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-01.17.44:569][345]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.26-01.17.44:569][345]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2026.01.26-01.17.44:569][345]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=4
+[2026.01.26-01.17.44:573][345]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=2
+[2026.01.26-01.17.44:577][345]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.26-01.17.44:592][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2026.01.26-01.17.44:646][346]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2026.01.26-01.18.12:317][495]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2026.01.26-01.18.13:103][516]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.26-01.18.13:145][516]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluePrints/BP_levelManager] ([2] browsable assets)...
+[2026.01.26-01.18.13:145][516]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/BP_levelManager]
+[2026.01.26-01.18.13:145][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluePrints/BP_levelManager" FILE="C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_levelManager.uasset" SILENT=true
+[2026.01.26-01.18.13:180][516]LogSavePackage: Moving output files for package: /Game/bluePrints/BP_levelManager
+[2026.01.26-01.18.13:180][516]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/BP_levelManager462EA7AC4259B6E695BA84A14C58F8BC.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_levelManager.uasset'
+[2026.01.26-01.18.13:195][516]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.602 ms (total: 7.00 sec)
+[2026.01.26-01.18.13:229][516]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.26-01.18.13:229][516]LogContentValidation: Enabled validators:
+[2026.01.26-01.18.13:229][516]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.26-01.18.13:229][516]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.26-01.18.13:230][516]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.26-01.18.13:230][516]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.26-01.18.13:230][516]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.26-01.18.13:230][516]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.26-01.18.13:230][516]AssetCheck: /Game/bluePrints/BP_levelManager Validating asset
+[2026.01.26-01.19.03:462][574]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.26-01.19.03:507][574]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluePrints/BP_levelManager] ([2] browsable assets)...
+[2026.01.26-01.19.03:507][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/BP_levelManager]
+[2026.01.26-01.19.03:507][574]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluePrints/BP_levelManager" FILE="C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_levelManager.uasset" SILENT=true
+[2026.01.26-01.19.03:541][574]LogSavePackage: Moving output files for package: /Game/bluePrints/BP_levelManager
+[2026.01.26-01.19.03:542][574]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/BP_levelManager936ACA2842ED5B28EC7953A5318BDB01.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_levelManager.uasset'
+[2026.01.26-01.19.03:560][574]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.945 ms (total: 7.10 sec)
+[2026.01.26-01.19.03:600][574]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.26-01.19.03:600][574]LogContentValidation: Enabled validators:
+[2026.01.26-01.19.03:600][574]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.26-01.19.03:600][574]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.26-01.19.03:600][574]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.26-01.19.03:600][574]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.26-01.19.03:601][574]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.26-01.19.03:601][574]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.26-01.19.03:601][574]AssetCheck: /Game/bluePrints/BP_levelManager Validating asset
+[2026.01.26-01.19.06:530][685]LogSlate: Window 'BPI_NPC_interaction' being destroyed
+[2026.01.26-01.19.06:535][685]LogSlate: Window 'BPI_NPC_interaction' being destroyed
+[2026.01.26-01.19.06:545][685]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.01.26-01.19.06:546][685]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.01.26-01.19.06:546][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-01.19.06:831][685]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.01.26-01.19.06:831][685]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.01.26-01.19.06:831][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-01.19.07:044][685]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.01.26-01.19.07:045][685]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.01.26-01.19.07:045][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-01.19.07:263][685]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.01.26-01.19.07:263][685]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.01.26-01.19.07:264][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-01.19.07:449][685]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2026.01.26-01.19.07:449][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-01.19.07:528][685]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2026.01.26-01.19.07:528][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-01.19.07:572][685]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2026.01.26-01.19.07:572][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-01.19.07:679][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2026.01.26-01.19.07:772][686]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.01.26-01.19.09:055][686]LogSlate: Window 'Save Content' being destroyed
+[2026.01.26-01.19.09:090][686]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.26-01.19.09:144][686]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Level1/3/WV/7HAAQNF2OA0MV4CKXJBJK6
+[2026.01.26-01.19.09:144][686]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/7HAAQNF2OA0MV4CKXJBJK6CD5704AB41A2F35040A875AC4EF24954.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/__ExternalActors__/Levels/Level1/3/WV/7HAAQNF2OA0MV4CKXJBJK6.uasset'
+[2026.01.26-01.19.09:161][686]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.090 ms (total: 7.17 sec)
+[2026.01.26-01.19.09:201][686]LogContentValidation: Display: Starting to validate 3 assets
+[2026.01.26-01.19.09:201][686]LogContentValidation: Enabled validators:
+[2026.01.26-01.19.09:201][686]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.26-01.19.09:201][686]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.26-01.19.09:201][686]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.26-01.19.09:201][686]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.26-01.19.09:201][686]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.26-01.19.09:201][686]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.26-01.19.09:201][686]AssetCheck: /Game/Levels/Level1 Validating asset
