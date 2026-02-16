@@ -21,3 +21,8 @@ for gauntlet:
 
 create custom events for each switch of interactionState
 	NPC-> BPI_
+
+
+1.) account for commands ('<')
+2.) allow player to end interaction by hitting esc
+3.) allow player to hit button to complete line
