@@ -2357,3 +2357,132 @@ To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under 
 [2026.02.22-19.49.35:861][489]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.02.22-19.49.35:861][489]AssetCheck: /Game/Levels/Level1 Validating asset
 [2026.02.22-19.49.35:885][489]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.22-19.55.35:704][516]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5086.685059
+[2026.02.22-19.55.35:887][527]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.22-19.55.35:887][527]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5086.852051, Update Interval: 327.444672
+[2026.02.22-19.57.02:622][709]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.22-19.57.02:633][709]LogContentBundle: [Level1(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.22-19.57.02:633][709]LogWorldPartition: Display: GenerateStreaming for 'Level1' started...
+[2026.02.22-19.57.02:636][709]LogWorldPartition: Display: GenerateStreaming for 'Level1' took 3.439 ms (total: 50.023 ms)
+[2026.02.22-19.57.02:636][709]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.22-19.57.02:637][709]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2026.02.22-19.57.02:655][709]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.22-19.57.02:658][709]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.621 ms (total: 41.973 ms)
+[2026.02.22-19.57.02:659][709]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022829s)
+[2026.02.22-19.57.02:659][709]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.022885s)
+[2026.02.22-19.57.02:692][709]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2026.02.22-19.57.02:695][709]LogChaosDD: Creating Chaos Debug Draw Scene for world Level1
+[2026.02.22-19.57.02:697][709]LogWorldPartition: ULevel::OnLevelLoaded(Level1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.22-19.57.02:697][709]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.22-19.57.02:697][709]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_Level1.Level1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.22-19.57.02:697][709]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.22-19.57.02:702][709]LogWorldPartition: Display: WorldPartition initialize took 5.544 ms (total: 978.805 ms)
+[2026.02.22-19.57.02:702][709]LogPlayLevel: PIE: World Init took: (0.007665s)
+[2026.02.22-19.57.02:703][709]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2026.02.22-19.57.02:703][709]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.22-19.57.02:703][709]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.22-19.57.02:703][709]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.22-19.57.02:703][709]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.22-19.57.02:703][709]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.22-19.57.02:703][709]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.22-19.57.02:703][709]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.22-19.57.02:703][709]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.22-19.57.02:703][709]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.22-19.57.02:703][709]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.22-19.57.02:703][709]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.22-19.57.02:706][709]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.22-19.57.02:731][709]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.22-19.57.02:731][709]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.22-19.57.02:731][709]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.22-19.57.02:731][709]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.22-19.57.02:731][709]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2026.02.22-19.57.02:731][709]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2026.02.22-19.57.02:736][709]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2026.02.22-19.57.02:736][709]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2026.02.22-19.57.02:736][709]LogInit: FAudioDevice initialized with ID 9.
+[2026.02.22-19.57.02:736][709]LogAudio: Display: Audio Device (ID: 9) registered with world 'Level1'.
+[2026.02.22-19.57.02:736][709]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2026.02.22-19.57.02:736][709]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2026.02.22-19.57.02:736][709]LogUIActionRouter: Error: Using CommonUI without a CommonGameViewportClient derived game viewport client. CommonUI Input routing will not function correctly.
+To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under [SystemSettings] in your project's DefaultEngine.ini.
+[2026.02.22-19.57.02:741][709]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.22-19.57.02:743][709]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2026.02.22-11.57.02
+[2026.02.22-19.57.02:743][709]LogWorld: Bringing up level for play took: 0.001511
+[2026.02.22-19.57.02:746][709]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2026.02.22-19.57.02:803][709]LogStreaming: Display: FlushAsyncLoading(1876,1875,1874,1873,1872,1865,1866,1867,1868,1869,1870,1871,1864,1851,1852,1853,1854,1855,1856,1857,1858,1859,1860,1861,1862,1863,1849,1850,1844,1845,1846,1847,1848,1821,1822,1823,1824,1825,1826,1827,1828,1829,1830,1831,1832,1833,1834,1835,1836,1837,1838,1839,1840,1841,1842,1843,1807,1808,1809,1810,1811,1812,1813,1814,1815,1816,1817,1818,1819,1820,1804,1805,1806,1787,1788,1789,1790,1791,1792,1793,1794,1795,1796,1797,1798,1799,1800,1801,1802,1803,1772,1773,1774,1775,1776,1777,1778,1779,1780,1781,1782,1783,1784,1785,1786,1755,1756,1757,1758,1759,1760,1761,1762,1763,1764,1765,1766,1767,1768,1769,1770,1771,1754): 123 QueuedPackages, 0 AsyncPackages
+[2026.02.22-19.57.03:113][709]PIE: Server logged in
+[2026.02.22-19.57.03:115][709]PIE: Play in editor total start time 0.483 seconds.
+[2026.02.22-19.57.03:167][710]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.082188 > MaxSimulationTimeStep (0.050) for 'BP_FirstPersonCharacter_C_0', movement 'Walking'
+[2026.02.22-19.57.05:533][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.22-19.57.05:533][850]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2026.02.22-19.57.05:539][850]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2026.02.22-19.57.05:540][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-19.57.05:540][850]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_Level1.Level1
+[2026.02.22-19.57.05:542][850]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.22-19.57.05:549][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-19.57.05:579][850]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.22-19.57.05:581][850]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2026.02.22-19.57.05:581][850]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=4
+[2026.02.22-19.57.05:584][850]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=2
+[2026.02.22-19.57.05:591][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.22-19.57.05:603][850]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.02.22-19.57.05:677][851]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2026.02.22-19.58.14:963][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.02.22-19.58.14:982][930]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalObjects__/Levels/Level1/2/AV/OU6JMQBLOJGTL03IEUJNPN_Auto6
+[2026.02.22-19.58.14:982][930]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/OU6JMQBLOJGTL03IEUJNPN_Auto601088196400618E30CD0F388B0445825.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/Autosaves/Game/__ExternalObjects__/Levels/Level1/2/AV/OU6JMQBLOJGTL03IEUJNPN_Auto6.uasset'
+[2026.02.22-19.58.14:994][930]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Level1/C/S5/8208291RT2MTCPDUU4WVK5_Auto6
+[2026.02.22-19.58.14:994][930]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/8208291RT2MTCPDUU4WVK5_Auto6525658BF43FD8F9F4CA2C5B9027AB2CA.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/Autosaves/Game/__ExternalActors__/Levels/Level1/C/S5/8208291RT2MTCPDUU4WVK5_Auto6.uasset'
+[2026.02.22-19.58.15:005][930]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalObjects__/Levels/Level1/C/U0/7N0KJQWVE8BN1N915FVRCV_Auto6
+[2026.02.22-19.58.15:005][930]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/7N0KJQWVE8BN1N915FVRCV_Auto6CEF287C44E0BD2B341883189DA433D79.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/Autosaves/Game/__ExternalObjects__/Levels/Level1/C/U0/7N0KJQWVE8BN1N915FVRCV_Auto6.uasset'
+[2026.02.22-19.58.15:006][930]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.070
+[2026.02.22-19.58.15:006][930]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.070
+[2026.02.22-20.01.58:644][346]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5469.620117
+[2026.02.22-20.01.58:793][355]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.22-20.01.58:793][355]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5469.751953, Update Interval: 311.094696
+[2026.02.22-20.07.20:994][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.02.22-20.07.24:341][704]LogSlate: Window 'Save Content' being destroyed
+[2026.02.22-20.07.24:374][704]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.22-20.07.24:483][704]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Level1/C/S5/8208291RT2MTCPDUU4WVK5
+[2026.02.22-20.07.24:483][704]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/8208291RT2MTCPDUU4WVK59F9301784AF5C642FBF240A8DA304C00.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/__ExternalActors__/Levels/Level1/C/S5/8208291RT2MTCPDUU4WVK5.uasset'
+[2026.02.22-20.07.25:984][704]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Level1/6/VZ/RQYNM41LWP74HM1M1T15SM
+[2026.02.22-20.07.25:985][704]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/RQYNM41LWP74HM1M1T15SM4D96A36040A9DA5B67CB77B2B4EE377A.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/__ExternalActors__/Levels/Level1/6/VZ/RQYNM41LWP74HM1M1T15SM.uasset'
+[2026.02.22-20.07.26:016][704]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Level1/C/6E/LUKUFYP3RVIUAE6U2FFYTG
+[2026.02.22-20.07.26:017][704]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/LUKUFYP3RVIUAE6U2FFYTG8CB52B65492543D4A5945BA0BD5127CD.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/__ExternalActors__/Levels/Level1/C/6E/LUKUFYP3RVIUAE6U2FFYTG.uasset'
+[2026.02.22-20.07.26:046][704]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Level1/4/KR/FAA1WGCV02BZINFKAAI19R
+[2026.02.22-20.07.26:046][704]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/FAA1WGCV02BZINFKAAI19R9B7ED6EC45BB665121F56B84B663DFD9.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/__ExternalActors__/Levels/Level1/4/KR/FAA1WGCV02BZINFKAAI19R.uasset'
+[2026.02.22-20.07.26:077][704]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Level1/4/XX/O19SX3BNRQOW49N9GUNE8P
+[2026.02.22-20.07.26:078][704]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/O19SX3BNRQOW49N9GUNE8P18A9EEC7473F5E4656C64BAB5F1C3215.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/__ExternalActors__/Levels/Level1/4/XX/O19SX3BNRQOW49N9GUNE8P.uasset'
+[2026.02.22-20.07.26:108][704]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Level1/C/M1/C0ZP97YWZCKK0MM957LDDS
+[2026.02.22-20.07.26:109][704]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/C0ZP97YWZCKK0MM957LDDSB17BAFEA4ADFD8E6B9C15393AEC213B7.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/__ExternalActors__/Levels/Level1/C/M1/C0ZP97YWZCKK0MM957LDDS.uasset'
+[2026.02.22-20.07.26:138][704]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Level1/1/MY/2XHF2XFEBHATJU0IPZYT65
+[2026.02.22-20.07.26:138][704]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/2XHF2XFEBHATJU0IPZYT659154EC2F47863BE4CCB586886D622C8E.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/__ExternalActors__/Levels/Level1/1/MY/2XHF2XFEBHATJU0IPZYT65.uasset'
+[2026.02.22-20.07.26:166][704]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Level1/9/MW/K531DCIFHYOMA8J8WDHZX5
+[2026.02.22-20.07.26:167][704]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/K531DCIFHYOMA8J8WDHZX5BA97C56C46FAAF13691740A26262CDBC.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/__ExternalActors__/Levels/Level1/9/MW/K531DCIFHYOMA8J8WDHZX5.uasset'
+[2026.02.22-20.07.26:199][704]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Level1/B/AQ/12SOHVK1YGSE2XWCCS48CH
+[2026.02.22-20.07.26:199][704]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/12SOHVK1YGSE2XWCCS48CH142DA55E4D971AE690BE07B5935F1645.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/__ExternalActors__/Levels/Level1/B/AQ/12SOHVK1YGSE2XWCCS48CH.uasset'
+[2026.02.22-20.07.26:223][704]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Level1/2/9F/CP59IJVMKB460WZEZ49I09
+[2026.02.22-20.07.26:223][704]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/CP59IJVMKB460WZEZ49I0962245BB5490D24823ABBD4B51EFDB6FD.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/__ExternalActors__/Levels/Level1/2/9F/CP59IJVMKB460WZEZ49I09.uasset'
+[2026.02.22-20.07.26:248][704]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Level1/6/E4/45ZA8C7QDG70ZZVK6L5G36
+[2026.02.22-20.07.26:248][704]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/45ZA8C7QDG70ZZVK6L5G368D9C7E0146D9E9C0B44558B238A2C0D8.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/__ExternalActors__/Levels/Level1/6/E4/45ZA8C7QDG70ZZVK6L5G36.uasset'
+[2026.02.22-20.07.26:275][704]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Level1/B/P0/NDIRES7AMC6F3MIZ0SCGKC
+[2026.02.22-20.07.26:276][704]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/NDIRES7AMC6F3MIZ0SCGKC6321AE974B5312F0273B48A6C5BC488E.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/__ExternalActors__/Levels/Level1/B/P0/NDIRES7AMC6F3MIZ0SCGKC.uasset'
+[2026.02.22-20.07.26:303][704]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Level1/3/QO/1XTC9F92M8XB1B4UCXBJTJ
+[2026.02.22-20.07.26:304][704]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/1XTC9F92M8XB1B4UCXBJTJ668F07134432D229AAD49C90F6F97E79.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/__ExternalActors__/Levels/Level1/3/QO/1XTC9F92M8XB1B4UCXBJTJ.uasset'
+[2026.02.22-20.07.26:316][704]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Levels/Level1/C/U0/7N0KJQWVE8BN1N915FVRCV
+[2026.02.22-20.07.26:317][704]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/7N0KJQWVE8BN1N915FVRCV9E45DB57474DB1203AAEA785A2F2AF13.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/__ExternalObjects__/Levels/Level1/C/U0/7N0KJQWVE8BN1N915FVRCV.uasset'
+[2026.02.22-20.07.26:327][704]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Levels/Level1/2/AV/OU6JMQBLOJGTL03IEUJNPN
+[2026.02.22-20.07.26:328][704]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/OU6JMQBLOJGTL03IEUJNPN301541AE4124A3A0805A29B5954B75B1.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/__ExternalObjects__/Levels/Level1/2/AV/OU6JMQBLOJGTL03IEUJNPN.uasset'
+[2026.02.22-20.07.26:343][704]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.96 sec (total: 4.11 sec)
+[2026.02.22-20.07.26:439][704]LogContentValidation: Display: Starting to validate 15 assets
+[2026.02.22-20.07.26:439][704]LogContentValidation: Enabled validators:
+[2026.02.22-20.07.26:439][704]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.22-20.07.26:439][704]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.22-20.07.26:439][704]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.22-20.07.26:439][704]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.22-20.07.26:439][704]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.22-20.07.26:439][704]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.22-20.07.26:439][704]AssetCheck: /Game/Levels/Level1 Validating asset
+[2026.02.22-20.07.26:465][704]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.22-20.07.53:866][875]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5824.836426
+[2026.02.22-20.07.54:866][878]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.22-20.07.54:866][878]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5825.502930, Update Interval: 342.210754
