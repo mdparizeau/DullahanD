@@ -2824,3 +2824,63 @@ To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under 
 [2026.02.23-22.23.14:600][ 72]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15426.574219
 [2026.02.23-22.23.15:600][ 75]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.02.23-22.23.15:600][ 75]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15427.242188, Update Interval: 349.333771
+[2026.02.23-22.25.43:299][551]LogDerivedDataCache: C:/Users/Then2/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.23-22.30.00:391][322]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15832.290039
+[2026.02.23-22.30.01:390][325]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.23-22.30.01:391][325]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15832.957031, Update Interval: 346.991791
+[2026.02.23-22.36.22:454][468]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16214.253906
+[2026.02.23-22.36.23:453][471]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.23-22.36.23:453][471]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16214.921875, Update Interval: 305.337677
+[2026.02.23-22.42.19:529][539]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16571.550781
+[2026.02.23-22.42.20:529][542]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.23-22.42.20:530][542]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16572.218750, Update Interval: 305.273590
+[2026.02.23-22.48.02:928][569]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16915.478516
+[2026.02.23-22.48.03:928][572]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.23-22.48.03:928][572]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16916.146484, Update Interval: 317.201447
+[2026.02.23-22.53.51:334][614]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17264.294922
+[2026.02.23-22.53.52:334][617]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.23-22.53.52:334][617]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17264.962891, Update Interval: 350.719940
+[2026.02.23-23.00.35:061][825]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17668.406250
+[2026.02.23-23.00.36:060][828]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.23-23.00.36:060][828]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17669.074219, Update Interval: 351.111786
+[2026.02.23-23.02.16:597][744]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.02.23-23.02.16:608][744]LogContentBrowser: Creating deferred item: NewFolder
+[2026.02.23-23.02.16:628][745]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.02.23-23.02.24:074][192]LogContentBrowser: Attempting asset rename: NewFolder -> text_Images
+[2026.02.23-23.02.24:076][192]LogContentBrowser: End creating deferred item NewFolder
+[2026.02.23-23.02.28:834][438]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.23-23.02.28:835][438]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluePrints/UI/DT_images] ([1] browsable assets)...
+[2026.02.23-23.02.28:835][438]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/UI/DT_images]
+[2026.02.23-23.02.28:835][438]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bluePrints/UI/DT_images" FILE="C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/UI/DT_images.uasset" SILENT=true
+[2026.02.23-23.02.28:844][438]LogSavePackage: Moving output files for package: /Game/bluePrints/UI/DT_images
+[2026.02.23-23.02.28:846][438]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/DT_imagesF751D3F24492400D98AC41927F466906.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/UI/DT_images.uasset'
+[2026.02.23-23.02.28:847][438]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/bluePrints/artAssets/text_Images/key_alt] ([1] browsable assets)...
+[2026.02.23-23.02.28:849][438]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/bluePrints/artAssets/text_Images/key_alt.key_alt]
+[2026.02.23-23.02.28:850][438]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/artAssets/text_Images/key_alt]
+[2026.02.23-23.02.28:861][438]LogSavePackage: Moving output files for package: /Game/bluePrints/artAssets/text_Images/key_alt
+[2026.02.23-23.02.28:861][438]LogSavePackage: Moving 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/key_alt0DDB9E7A46DA005211E4928EB629623F.tmp' to 'C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/artAssets/text_Images/key_alt.uasset'
+[2026.02.23-23.02.28:864][438]LogFileHelpers: InternalPromptForCheckoutAndSave took 29.578 ms (total: 2.57 sec)
+[2026.02.23-23.02.28:947][438]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2026.02.23-23.02.28:985][438]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.02.23-23.02.29:015][438]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.02.23-23.02.29:075][438]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.02.23-23.02.29:075][438]LogContentValidation: Display: Starting to validate 2 assets
+[2026.02.23-23.02.29:075][438]LogContentValidation: Enabled validators:
+[2026.02.23-23.02.29:075][438]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.23-23.02.29:075][438]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.23-23.02.29:075][438]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.23-23.02.29:075][438]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.23-23.02.29:075][438]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.23-23.02.29:075][438]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.23-23.02.29:075][438]AssetCheck: /Game/bluePrints/UI/DT_images Validating asset
+[2026.02.23-23.02.29:076][438]AssetCheck: /Game/bluePrints/artAssets/text_Images/key_alt Validating asset
+[2026.02.23-23.02.29:102][438]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.23-23.07.16:551][ 89]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18069.851562
+[2026.02.23-23.07.17:552][ 92]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.23-23.07.17:552][ 93]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18070.517578, Update Interval: 310.594818
+[2026.02.23-23.13.23:620][190]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18437.076172
+[2026.02.23-23.13.24:621][193]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.23-23.13.24:621][193]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18437.742188, Update Interval: 336.404297
+[2026.02.23-23.19.37:678][312]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18811.310547
+[2026.02.23-23.19.38:679][315]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.23-23.19.38:679][315]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18811.976562, Update Interval: 303.900269
