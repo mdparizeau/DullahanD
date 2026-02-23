@@ -24,5 +24,10 @@ create custom events for each switch of interactionState
 
 
 **1.) account for commands ('<')
-*2.) allow player to end interaction by hitting alt
+**2.) allow player to end interaction by hitting alt
+	**a.) alt triggers end
+	**b.) end stops the loop
+	**c.) end resets variables
+	**d.) end hides dialogue overlay
 3.) allow player to hit button to complete line
+4.) lock player movement while engaging in dialogue
