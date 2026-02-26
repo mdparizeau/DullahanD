@@ -30,5 +30,5 @@ create custom events for each switch of interactionState
 	**c.) end resets variables
 	**d.) end hides dialogue overlay
 	**e.) add visual indicator for alt = end dialogue
-3.) allow player to hit button to complete line
-4.) lock player movement while engaging in dialogue
+**3.) allow player to hit button to complete line
+**4.) lock player movement while engaging in dialogue

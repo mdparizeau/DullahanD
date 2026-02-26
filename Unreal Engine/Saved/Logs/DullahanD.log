@@ -4383,3 +4383,456 @@ To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under 
 [2026.02.25-23.26.22:482][978]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8079.322266
 [2026.02.25-23.26.23:483][981]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.02.25-23.26.23:483][981]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8079.989746, Update Interval: 341.139557
+[2026.02.25-23.28.20:384][776]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.25-23.28.20:394][776]LogContentBundle: [Level1(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.25-23.28.20:394][776]LogWorldPartition: Display: GenerateStreaming for 'Level1' started...
+[2026.02.25-23.28.20:397][776]LogWorldPartition: Display: GenerateStreaming for 'Level1' took 2.850 ms (total: 39.451 ms)
+[2026.02.25-23.28.20:397][776]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.25-23.28.20:432][776]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2026.02.25-23.28.20:446][776]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.25-23.28.20:448][776]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.559 ms (total: 42.760 ms)
+[2026.02.25-23.28.20:448][776]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016954s)
+[2026.02.25-23.28.20:448][776]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.017006s)
+[2026.02.25-23.28.20:481][776]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2026.02.25-23.28.20:484][776]LogChaosDD: Creating Chaos Debug Draw Scene for world Level1
+[2026.02.25-23.28.20:486][776]LogWorldPartition: ULevel::OnLevelLoaded(Level1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.25-23.28.20:486][776]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.25-23.28.20:486][776]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_Level1.Level1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.25-23.28.20:486][776]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.25-23.28.20:492][776]LogWorldPartition: Display: WorldPartition initialize took 5.230 ms (total: 2.26 sec)
+[2026.02.25-23.28.20:492][776]LogPlayLevel: PIE: World Init took: (0.007429s)
+[2026.02.25-23.28.20:493][776]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2026.02.25-23.28.20:493][776]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.25-23.28.20:493][776]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.25-23.28.20:493][776]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.25-23.28.20:493][776]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.25-23.28.20:493][776]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.25-23.28.20:493][776]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.25-23.28.20:493][776]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.25-23.28.20:493][776]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.25-23.28.20:493][776]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.25-23.28.20:493][776]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.25-23.28.20:493][776]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.25-23.28.20:495][776]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.25-23.28.20:519][776]LogAudioMixer: Display: Using Audio Hardware Device Speakers (G432 Gaming Headset)
+[2026.02.25-23.28.20:519][776]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.25-23.28.20:519][776]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.25-23.28.20:519][776]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.25-23.28.20:521][776]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2026.02.25-23.28.20:521][776]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2026.02.25-23.28.20:524][776]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2026.02.25-23.28.20:524][776]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2026.02.25-23.28.20:524][776]LogInit: FAudioDevice initialized with ID 17.
+[2026.02.25-23.28.20:524][776]LogAudio: Display: Audio Device (ID: 17) registered with world 'Level1'.
+[2026.02.25-23.28.20:524][776]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2026.02.25-23.28.20:524][776]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2026.02.25-23.28.20:524][776]LogUIActionRouter: Error: Using CommonUI without a CommonGameViewportClient derived game viewport client. CommonUI Input routing will not function correctly.
+To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under [SystemSettings] in your project's DefaultEngine.ini.
+[2026.02.25-23.28.20:529][776]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.25-23.28.20:529][776]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2026.02.25-15.28.20
+[2026.02.25-23.28.20:531][776]LogWorld: Bringing up level for play took: 0.001181
+[2026.02.25-23.28.20:533][776]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2026.02.25-23.28.20:542][776]LogStreaming: Display: FlushAsyncLoading(3079,3078,3077,3076,3075,3068,3069,3070,3071,3072,3073,3074,3067,3054,3055,3056,3057,3058,3059,3060,3061,3062,3063,3064,3065,3066,3052,3053,3047,3048,3049,3050,3051,3024,3025,3026,3027,3028,3029,3030,3031,3032,3033,3034,3035,3036,3037,3038,3039,3040,3041,3042,3043,3044,3045,3046,3010,3011,3012,3013,3014,3015,3016,3017,3018,3019,3020,3021,3022,3023,3007,3008,3009,2990,2991,2992,2993,2994,2995,2996,2997,2998,2999,3000,3001,3002,3003,3004,3005,3006,2968,2969,2970,2971,2972,2973,2974,2975,2976,2977,2978,2979,2980,2981,2982,2983,2984,2985,2986,2987,2988,2989,2953,2954,2955,2956,2957,2958,2959,2960,2961,2962,2963,2964,2965,2966,2967,2936,2937,2938,2939,2940,2941,2942,2943,2944,2945,2946,2947,2948,2949,2950,2951,2952,2935): 145 QueuedPackages, 0 AsyncPackages
+[2026.02.25-23.28.20:903][776]PIE: Server logged in
+[2026.02.25-23.28.20:906][776]PIE: Play in editor total start time 0.512 seconds.
+[2026.02.25-23.28.20:949][777]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.082188 > MaxSimulationTimeStep (0.050) for 'BP_FirstPersonCharacter_C_0', movement 'Walking'
+[2026.02.25-23.28.22:479][868]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] interact attempted
+[2026.02.25-23.28.22:479][868]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] INTERACTED W/ NPC
+[2026.02.25-23.28.22:479][868]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] <speaker>NPC: </>what do you want, little boy?!
+[2026.02.25-23.28.22:479][868]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] <speaker>Skull reaction to NPC: </>you just gonna take that? cuz I, I wouldn't personally.
+[2026.02.25-23.28.22:479][868]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] <speaker>Option </>1<speaker>: </>say what? F you, guy, I don't want to talk to you anymore... behhh!
+
+[2026.02.25-23.28.22:479][868]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] <speaker>Option </>2<speaker>: </>i was wondering where i could find some balls. someone said i didn't have any, and I was told that I needed some.
+
+[2026.02.25-23.28.30:899][372]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player chose option 2
+[2026.02.25-23.28.30:899][372]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] <speaker>Skull reaction to player:</> oh my... you are so f'ing stupid...
+[2026.02.25-23.28.30:901][372]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] <speaker>NPC: </>um... have you checked your pants?
+[2026.02.25-23.28.30:901][372]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] <speaker>Skull reaction to NPC: </>... have you?
+[2026.02.25-23.28.30:901][372]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] <speaker>Option </>1<speaker>: </>fine, I will!
+
+[2026.02.25-23.28.30:901][372]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] <speaker>Option </>2<speaker>: </>no... should I?
+
+[2026.02.25-23.28.33:488][527]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'inputText' of length 0 in '/Game/bluePrints/UI/WBP_HUD.WBP_HUD_C'!
+[2026.02.25-23.28.33:488][527]LogScript: Warning: Script Msg called by: WBP_HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_15.WBP_HUD_C_0
+[2026.02.25-23.28.33:488][527]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array inputText [0/0]!
+[2026.02.25-23.28.33:488][527]LogScript: Warning: Script Msg called by: WBP_HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_15.WBP_HUD_C_0
+[2026.02.25-23.28.42:152][ 47]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] interact attempted
+[2026.02.25-23.28.42:152][ 47]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] Castle
+[2026.02.25-23.28.58:542][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.25-23.28.58:542][ 28]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2026.02.25-23.28.58:548][ 28]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2026.02.25-23.28.58:549][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.25-23.28.58:549][ 28]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_Level1.Level1
+[2026.02.25-23.28.58:551][ 28]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.25-23.28.58:557][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.25-23.28.58:588][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.25-23.28.58:589][ 28]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2026.02.25-23.28.58:589][ 28]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=4
+[2026.02.25-23.28.58:591][ 28]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=2
+[2026.02.25-23.28.58:607][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2026.02.25-23.28.58:702][ 29]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2026.02.25-23.32.45:916][658]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8462.787109
+[2026.02.25-23.32.46:115][670]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.25-23.32.46:115][670]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8462.968750, Update Interval: 340.740387
+[2026.02.25-23.39.16:758][107]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8853.595703
+[2026.02.25-23.39.16:924][117]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.25-23.39.16:924][117]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8853.745117, Update Interval: 332.723785
+[2026.02.25-23.45.46:386][392]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9243.131836
+[2026.02.25-23.45.46:536][401]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.25-23.45.46:536][401]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9243.265625, Update Interval: 303.431488
+[2026.02.25-23.50.23:833][733]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.25-23.50.23:843][733]LogContentBundle: [Level1(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.25-23.50.23:843][733]LogWorldPartition: Display: GenerateStreaming for 'Level1' started...
+[2026.02.25-23.50.23:846][733]LogWorldPartition: Display: GenerateStreaming for 'Level1' took 2.684 ms (total: 42.136 ms)
+[2026.02.25-23.50.23:846][733]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.25-23.50.23:847][733]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2026.02.25-23.50.23:862][733]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.25-23.50.23:865][733]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.971 ms (total: 45.732 ms)
+[2026.02.25-23.50.23:865][733]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018481s)
+[2026.02.25-23.50.23:865][733]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.018521s)
+[2026.02.25-23.50.23:898][733]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2026.02.25-23.50.23:901][733]LogChaosDD: Creating Chaos Debug Draw Scene for world Level1
+[2026.02.25-23.50.23:904][733]LogWorldPartition: ULevel::OnLevelLoaded(Level1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.25-23.50.23:904][733]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.25-23.50.23:904][733]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_Level1.Level1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.25-23.50.23:904][733]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.25-23.50.23:909][733]LogWorldPartition: Display: WorldPartition initialize took 5.491 ms (total: 2.26 sec)
+[2026.02.25-23.50.23:910][733]LogPlayLevel: PIE: World Init took: (0.007908s)
+[2026.02.25-23.50.23:911][733]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2026.02.25-23.50.23:911][733]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.25-23.50.23:911][733]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.25-23.50.23:911][733]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.25-23.50.23:911][733]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.25-23.50.23:911][733]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.25-23.50.23:911][733]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.25-23.50.23:911][733]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.25-23.50.23:911][733]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.25-23.50.23:911][733]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.25-23.50.23:911][733]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.25-23.50.23:911][733]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.25-23.50.23:913][733]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.25-23.50.23:938][733]LogAudioMixer: Display: Using Audio Hardware Device Speakers (G432 Gaming Headset)
+[2026.02.25-23.50.23:938][733]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.25-23.50.23:938][733]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.25-23.50.23:938][733]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.25-23.50.23:938][733]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2026.02.25-23.50.23:938][733]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2026.02.25-23.50.23:941][733]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2026.02.25-23.50.23:941][733]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2026.02.25-23.50.23:941][733]LogInit: FAudioDevice initialized with ID 18.
+[2026.02.25-23.50.23:941][733]LogAudio: Display: Audio Device (ID: 18) registered with world 'Level1'.
+[2026.02.25-23.50.23:941][733]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2026.02.25-23.50.23:942][733]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2026.02.25-23.50.23:942][733]LogUIActionRouter: Error: Using CommonUI without a CommonGameViewportClient derived game viewport client. CommonUI Input routing will not function correctly.
+To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under [SystemSettings] in your project's DefaultEngine.ini.
+[2026.02.25-23.50.23:947][733]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.25-23.50.23:949][733]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2026.02.25-15.50.23
+[2026.02.25-23.50.23:949][733]LogWorld: Bringing up level for play took: 0.001276
+[2026.02.25-23.50.23:951][733]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2026.02.25-23.50.23:961][733]LogStreaming: Display: FlushAsyncLoading(3224,3223,3222,3221,3220,3213,3214,3215,3216,3217,3218,3219,3212,3199,3200,3201,3202,3203,3204,3205,3206,3207,3208,3209,3210,3211,3197,3198,3192,3193,3194,3195,3196,3169,3170,3171,3172,3173,3174,3175,3176,3177,3178,3179,3180,3181,3182,3183,3184,3185,3186,3187,3188,3189,3190,3191,3155,3156,3157,3158,3159,3160,3161,3162,3163,3164,3165,3166,3167,3168,3152,3153,3154,3135,3136,3137,3138,3139,3140,3141,3142,3143,3144,3145,3146,3147,3148,3149,3150,3151,3113,3114,3115,3116,3117,3118,3119,3120,3121,3122,3123,3124,3125,3126,3127,3128,3129,3130,3131,3132,3133,3134,3098,3099,3100,3101,3102,3103,3104,3105,3106,3107,3108,3109,3110,3111,3112,3081,3082,3083,3084,3085,3086,3087,3088,3089,3090,3091,3092,3093,3094,3095,3096,3097,3080): 145 QueuedPackages, 0 AsyncPackages
+[2026.02.25-23.50.24:351][733]PIE: Server logged in
+[2026.02.25-23.50.24:355][733]PIE: Play in editor total start time 0.511 seconds.
+[2026.02.25-23.50.24:401][734]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.082188 > MaxSimulationTimeStep (0.050) for 'BP_FirstPersonCharacter_C_0', movement 'Walking'
+[2026.02.25-23.50.41:545][762]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] interact attempted
+[2026.02.25-23.50.41:545][762]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] INTERACTED W/ NPC
+[2026.02.25-23.50.41:545][762]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] <speaker>NPC: </>what do you want, little boy?!
+[2026.02.25-23.50.41:545][762]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] <speaker>Skull reaction to NPC: </>you just gonna take that? cuz I, I wouldn't personally.
+[2026.02.25-23.50.41:545][762]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] <speaker>Option </>1<speaker>: </>say what? F you, guy, I don't want to talk to you anymore... behhh!
+
+[2026.02.25-23.50.41:545][762]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] <speaker>Option </>2<speaker>: </>i was wondering where i could find some balls. someone said i didn't have any, and I was told that I needed some.
+
+[2026.02.25-23.51.01:984][987]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player chose option 2
+[2026.02.25-23.51.01:984][987]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] <speaker>Skull reaction to player:</> oh my... you are so f'ing stupid...
+[2026.02.25-23.51.01:984][987]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] <speaker>NPC: </>um... have you checked your pants?
+[2026.02.25-23.51.01:984][987]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] <speaker>Skull reaction to NPC: </>... have you?
+[2026.02.25-23.51.01:984][987]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] <speaker>Option </>1<speaker>: </>fine, I will!
+
+[2026.02.25-23.51.01:984][987]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] <speaker>Option </>2<speaker>: </>no... should I?
+
+[2026.02.25-23.51.23:035][250]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] interact attempted
+[2026.02.25-23.51.23:035][250]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] INTERACTED W/ NPC
+[2026.02.25-23.51.23:035][250]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] <speaker>NPC: </>what do you want, little boy?!
+[2026.02.25-23.51.23:035][250]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] <speaker>Skull reaction to NPC: </>you just gonna take that? cuz I, I wouldn't personally.
+[2026.02.25-23.51.23:035][250]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] <speaker>Option </>1<speaker>: </>say what? F you, guy, I don't want to talk to you anymore... behhh!
+
+[2026.02.25-23.51.23:035][250]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] <speaker>Option </>2<speaker>: </>i was wondering where i could find some balls. someone said i didn't have any, and I was told that I needed some.
+
+[2026.02.25-23.51.33:103][854]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'inputText' of length 0 in '/Game/bluePrints/UI/WBP_HUD.WBP_HUD_C'!
+[2026.02.25-23.51.33:103][854]LogScript: Warning: Script Msg called by: WBP_HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_16.WBP_HUD_C_0
+[2026.02.25-23.51.33:103][854]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array inputText [0/0]!
+[2026.02.25-23.51.33:103][854]LogScript: Warning: Script Msg called by: WBP_HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_16.WBP_HUD_C_0
+[2026.02.25-23.51.49:811][856]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9606.432617
+[2026.02.25-23.51.49:960][865]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.25-23.51.49:960][865]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9606.565430, Update Interval: 343.763550
+[2026.02.25-23.53.10:365][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.25-23.53.10:365][685]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2026.02.25-23.53.10:371][685]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2026.02.25-23.53.10:371][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.25-23.53.10:371][685]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_Level1.Level1
+[2026.02.25-23.53.10:374][685]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.25-23.53.10:381][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.25-23.53.10:414][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.25-23.53.10:414][685]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2026.02.25-23.53.10:414][685]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=4
+[2026.02.25-23.53.10:416][685]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=2
+[2026.02.25-23.53.10:436][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2026.02.25-23.53.10:537][686]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2026.02.25-23.58.17:836][756]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9994.440430
+[2026.02.25-23.58.18:011][764]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.25-23.58.18:011][764]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9994.593750, Update Interval: 331.403534
+[2026.02.26-00.04.03:161][ 61]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.26-00.04.03:172][ 61]LogContentBundle: [Level1(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.26-00.04.03:172][ 61]LogWorldPartition: Display: GenerateStreaming for 'Level1' started...
+[2026.02.26-00.04.03:174][ 61]LogWorldPartition: Display: GenerateStreaming for 'Level1' took 2.685 ms (total: 44.821 ms)
+[2026.02.26-00.04.03:175][ 61]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.26-00.04.03:175][ 61]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2026.02.26-00.04.03:191][ 61]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.26-00.04.03:193][ 61]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.574 ms (total: 48.307 ms)
+[2026.02.26-00.04.03:194][ 61]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017849s)
+[2026.02.26-00.04.03:194][ 61]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.017893s)
+[2026.02.26-00.04.03:224][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2026.02.26-00.04.03:228][ 61]LogChaosDD: Creating Chaos Debug Draw Scene for world Level1
+[2026.02.26-00.04.03:230][ 61]LogWorldPartition: ULevel::OnLevelLoaded(Level1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.26-00.04.03:230][ 61]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.26-00.04.03:230][ 61]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_Level1.Level1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.26-00.04.03:230][ 61]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.26-00.04.03:236][ 61]LogWorldPartition: Display: WorldPartition initialize took 5.610 ms (total: 2.27 sec)
+[2026.02.26-00.04.03:236][ 61]LogPlayLevel: PIE: World Init took: (0.007838s)
+[2026.02.26-00.04.03:237][ 61]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2026.02.26-00.04.03:237][ 61]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.26-00.04.03:237][ 61]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.26-00.04.03:237][ 61]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.26-00.04.03:237][ 61]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.26-00.04.03:237][ 61]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.26-00.04.03:237][ 61]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.26-00.04.03:237][ 61]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.26-00.04.03:237][ 61]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.26-00.04.03:237][ 61]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.26-00.04.03:237][ 61]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.26-00.04.03:237][ 61]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.26-00.04.03:240][ 61]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.26-00.04.03:264][ 61]LogAudioMixer: Display: Using Audio Hardware Device Speakers (G432 Gaming Headset)
+[2026.02.26-00.04.03:265][ 61]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.26-00.04.03:265][ 61]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.26-00.04.03:265][ 61]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.26-00.04.03:265][ 61]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2026.02.26-00.04.03:265][ 61]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2026.02.26-00.04.03:268][ 61]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2026.02.26-00.04.03:268][ 61]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2026.02.26-00.04.03:268][ 61]LogInit: FAudioDevice initialized with ID 19.
+[2026.02.26-00.04.03:268][ 61]LogAudio: Display: Audio Device (ID: 19) registered with world 'Level1'.
+[2026.02.26-00.04.03:268][ 61]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2026.02.26-00.04.03:268][ 61]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2026.02.26-00.04.03:268][ 61]LogUIActionRouter: Error: Using CommonUI without a CommonGameViewportClient derived game viewport client. CommonUI Input routing will not function correctly.
+To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under [SystemSettings] in your project's DefaultEngine.ini.
+[2026.02.26-00.04.03:273][ 61]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.26-00.04.03:275][ 61]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2026.02.25-16.04.03
+[2026.02.26-00.04.03:275][ 61]LogWorld: Bringing up level for play took: 0.001250
+[2026.02.26-00.04.03:278][ 61]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2026.02.26-00.04.03:287][ 61]LogStreaming: Display: FlushAsyncLoading(3369,3368,3367,3366,3365,3358,3359,3360,3361,3362,3363,3364,3357,3344,3345,3346,3347,3348,3349,3350,3351,3352,3353,3354,3355,3356,3342,3343,3337,3338,3339,3340,3341,3314,3315,3316,3317,3318,3319,3320,3321,3322,3323,3324,3325,3326,3327,3328,3329,3330,3331,3332,3333,3334,3335,3336,3300,3301,3302,3303,3304,3305,3306,3307,3308,3309,3310,3311,3312,3313,3297,3298,3299,3280,3281,3282,3283,3284,3285,3286,3287,3288,3289,3290,3291,3292,3293,3294,3295,3296,3258,3259,3260,3261,3262,3263,3264,3265,3266,3267,3268,3269,3270,3271,3272,3273,3274,3275,3276,3277,3278,3279,3243,3244,3245,3246,3247,3248,3249,3250,3251,3252,3253,3254,3255,3256,3257,3226,3227,3228,3229,3230,3231,3232,3233,3234,3235,3236,3237,3238,3239,3240,3241,3242,3225): 145 QueuedPackages, 0 AsyncPackages
+[2026.02.26-00.04.03:639][ 61]PIE: Server logged in
+[2026.02.26-00.04.03:642][ 61]PIE: Play in editor total start time 0.47 seconds.
+[2026.02.26-00.04.03:687][ 62]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.082188 > MaxSimulationTimeStep (0.050) for 'BP_FirstPersonCharacter_C_0', movement 'Walking'
+[2026.02.26-00.04.23:334][417]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] interact attempted
+[2026.02.26-00.04.23:334][417]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] INTERACTED W/ NPC
+[2026.02.26-00.04.23:334][417]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] <speaker>NPC: </>what do you want, little boy?!
+[2026.02.26-00.04.23:334][417]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] <speaker>Skull reaction to NPC: </>you just gonna take that? cuz I, I wouldn't personally.
+[2026.02.26-00.04.23:334][417]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] <speaker>Option </>1<speaker>: </>say what? F you, guy, I don't want to talk to you anymore... behhh!
+
+[2026.02.26-00.04.23:334][417]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] <speaker>Option </>2<speaker>: </>i was wondering where i could find some balls. someone said i didn't have any, and I was told that I needed some.
+
+[2026.02.26-00.04.33:206][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.26-00.04.33:206][  7]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2026.02.26-00.04.33:212][  7]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2026.02.26-00.04.33:212][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.26-00.04.33:212][  7]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_Level1.Level1
+[2026.02.26-00.04.33:215][  7]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.26-00.04.33:222][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.26-00.04.33:258][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.26-00.04.33:258][  7]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2026.02.26-00.04.33:259][  7]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=4
+[2026.02.26-00.04.33:261][  7]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=2
+[2026.02.26-00.04.33:276][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2026.02.26-00.04.33:371][  8]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2026.02.26-00.04.35:994][ 67]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10372.569336
+[2026.02.26-00.04.36:995][ 70]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.26-00.04.36:995][ 70]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10373.236328, Update Interval: 302.689911
+[2026.02.26-00.05.09:647][586]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.26-00.05.09:657][586]LogContentBundle: [Level1(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.26-00.05.09:657][586]LogWorldPartition: Display: GenerateStreaming for 'Level1' started...
+[2026.02.26-00.05.09:659][586]LogWorldPartition: Display: GenerateStreaming for 'Level1' took 2.410 ms (total: 47.232 ms)
+[2026.02.26-00.05.09:659][586]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.26-00.05.09:660][586]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2026.02.26-00.05.09:674][586]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.26-00.05.09:677][586]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.502 ms (total: 50.810 ms)
+[2026.02.26-00.05.09:677][586]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017121s)
+[2026.02.26-00.05.09:677][586]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.017154s)
+[2026.02.26-00.05.09:705][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2026.02.26-00.05.09:708][586]LogChaosDD: Creating Chaos Debug Draw Scene for world Level1
+[2026.02.26-00.05.09:710][586]LogWorldPartition: ULevel::OnLevelLoaded(Level1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.26-00.05.09:710][586]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.26-00.05.09:710][586]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_Level1.Level1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.26-00.05.09:710][586]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.26-00.05.09:715][586]LogWorldPartition: Display: WorldPartition initialize took 5.216 ms (total: 2.27 sec)
+[2026.02.26-00.05.09:715][586]LogPlayLevel: PIE: World Init took: (0.007176s)
+[2026.02.26-00.05.09:716][586]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2026.02.26-00.05.09:716][586]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.26-00.05.09:716][586]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.26-00.05.09:716][586]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.26-00.05.09:716][586]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.26-00.05.09:716][586]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.26-00.05.09:716][586]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.26-00.05.09:716][586]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.26-00.05.09:716][586]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.26-00.05.09:716][586]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.26-00.05.09:716][586]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.26-00.05.09:716][586]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.26-00.05.09:718][586]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.26-00.05.09:741][586]LogAudioMixer: Display: Using Audio Hardware Device Speakers (G432 Gaming Headset)
+[2026.02.26-00.05.09:741][586]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.26-00.05.09:741][586]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.26-00.05.09:741][586]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.26-00.05.09:741][586]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2026.02.26-00.05.09:741][586]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2026.02.26-00.05.09:744][586]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2026.02.26-00.05.09:745][586]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2026.02.26-00.05.09:745][586]LogInit: FAudioDevice initialized with ID 20.
+[2026.02.26-00.05.09:745][586]LogAudio: Display: Audio Device (ID: 20) registered with world 'Level1'.
+[2026.02.26-00.05.09:745][586]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2026.02.26-00.05.09:745][586]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2026.02.26-00.05.09:745][586]LogUIActionRouter: Error: Using CommonUI without a CommonGameViewportClient derived game viewport client. CommonUI Input routing will not function correctly.
+To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under [SystemSettings] in your project's DefaultEngine.ini.
+[2026.02.26-00.05.09:749][586]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.26-00.05.09:751][586]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2026.02.25-16.05.09
+[2026.02.26-00.05.09:751][586]LogWorld: Bringing up level for play took: 0.001168
+[2026.02.26-00.05.09:753][586]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2026.02.26-00.05.09:762][586]LogStreaming: Display: FlushAsyncLoading(3514,3513,3512,3511,3510,3503,3504,3505,3506,3507,3508,3509,3502,3489,3490,3491,3492,3493,3494,3495,3496,3497,3498,3499,3500,3501,3487,3488,3482,3483,3484,3485,3486,3459,3460,3461,3462,3463,3464,3465,3466,3467,3468,3469,3470,3471,3472,3473,3474,3475,3476,3477,3478,3479,3480,3481,3445,3446,3447,3448,3449,3450,3451,3452,3453,3454,3455,3456,3457,3458,3442,3443,3444,3425,3426,3427,3428,3429,3430,3431,3432,3433,3434,3435,3436,3437,3438,3439,3440,3441,3403,3404,3405,3406,3407,3408,3409,3410,3411,3412,3413,3414,3415,3416,3417,3418,3419,3420,3421,3422,3423,3424,3388,3389,3390,3391,3392,3393,3394,3395,3396,3397,3398,3399,3400,3401,3402,3371,3372,3373,3374,3375,3376,3377,3378,3379,3380,3381,3382,3383,3384,3385,3386,3387,3370): 145 QueuedPackages, 0 AsyncPackages
+[2026.02.26-00.05.10:112][586]PIE: Server logged in
+[2026.02.26-00.05.10:114][586]PIE: Play in editor total start time 0.457 seconds.
+[2026.02.26-00.05.10:158][587]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.082188 > MaxSimulationTimeStep (0.050) for 'BP_FirstPersonCharacter_C_0', movement 'Walking'
+[2026.02.26-00.05.23:454][825]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] interact attempted
+[2026.02.26-00.05.23:454][825]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] INTERACTED W/ NPC
+[2026.02.26-00.05.23:455][825]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] <speaker>NPC: </>what do you want, little boy?!
+[2026.02.26-00.05.23:455][825]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] <speaker>Skull reaction to NPC: </>you just gonna take that? cuz I, I wouldn't personally.
+[2026.02.26-00.05.23:455][825]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] <speaker>Option </>1<speaker>: </>say what? F you, guy, I don't want to talk to you anymore... behhh!
+
+[2026.02.26-00.05.23:455][825]LogBlueprintUserMessages: [BP_levelManager_C_UAID_D4939014B5681AB402_1874504171] <speaker>Option </>2<speaker>: </>i was wondering where i could find some balls. someone said i didn't have any, and I was told that I needed some.
+
+[2026.02.26-00.05.29:986][214]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.26-00.05.29:986][214]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2026.02.26-00.05.29:992][214]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2026.02.26-00.05.29:992][214]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.26-00.05.29:992][214]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_Level1.Level1
+[2026.02.26-00.05.29:994][214]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.26-00.05.30:001][214]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.26-00.05.30:036][214]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.26-00.05.30:036][214]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2026.02.26-00.05.30:036][214]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=4
+[2026.02.26-00.05.30:038][214]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=2
+[2026.02.26-00.05.30:055][214]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2026.02.26-00.05.30:141][215]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2026.02.26-00.09.53:823][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.02.26-00.09.53:909][159]LogStall: Shutdown...
+[2026.02.26-00.09.53:909][159]LogStall: Shutdown complete.
+[2026.02.26-00.09.53:999][159]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.02.26-00.09.53:999][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.26-00.09.54:219][159]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.02.26-00.09.54:219][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.26-00.09.54:229][159]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.02.26-00.09.54:229][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.26-00.09.54:390][159]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.02.26-00.09.54:390][159]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2026.02.26-00.09.54:390][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.26-00.09.54:577][159]LogSlate: Window 'BPI_NPC_interaction' being destroyed
+[2026.02.26-00.09.54:593][159]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2026.02.26-00.09.54:593][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.26-00.09.54:657][159]LogSlate: Window 'DullahanD - Unreal Editor' being destroyed
+[2026.02.26-00.09.54:659][159]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2026.02.26-00.09.55:302][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2026.02.26-00.09.55:335][159]Cmd: QUIT_EDITOR
+[2026.02.26-00.09.55:335][160]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.02.26-00.09.55:345][160]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.02.26-00.09.55:345][160]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.02.26-00.09.55:345][160]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.02.26-00.09.55:355][160]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2026.02.26-00.09.55:355][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.26-00.09.55:355][160]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/Level1.Level1
+[2026.02.26-00.09.55:375][160]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.02.26-00.09.55:376][160]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.02.26-00.09.55:378][160]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.02.26-00.09.55:402][160]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.02.26-00.09.55:402][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.26-00.09.55:405][160]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2026.02.26-00.09.55:405][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.26-00.09.55:409][160]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.02.26-00.09.55:409][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.26-00.09.55:412][160]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.02.26-00.09.55:413][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.26-00.09.55:417][160]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.02.26-00.09.55:417][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.26-00.09.55:420][160]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.02.26-00.09.55:420][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.26-00.09.55:423][160]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.02.26-00.09.55:423][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.26-00.09.55:428][160]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2026.02.26-00.09.55:428][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.26-00.09.55:432][160]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.02.26-00.09.55:432][160]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.02.26-00.09.55:441][160]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.02.26-00.09.55:838][160]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.02.26-00.09.55:838][160]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.02.26-00.09.55:838][160]LogAudio: Display: Audio Device unregistered from world 'Level1'.
+[2026.02.26-00.09.55:838][160]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.02.26-00.09.55:838][160]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.02.26-00.09.55:843][160]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.02.26-00.09.55:857][160]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.02.26-00.09.55:857][160]LogAudio: Display: Audio Device Manager Shutdown
+[2026.02.26-00.09.55:865][160]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.02.26-00.09.55:865][160]LogExit: Preparing to exit.
+[2026.02.26-00.09.55:934][160]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2026.02.26-00.09.55:946][160]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.26-00.09.55:946][160]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.26-00.09.55:947][160]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.26-00.09.55:947][160]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.26-00.09.55:947][160]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.26-00.09.55:947][160]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.26-00.09.55:947][160]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.26-00.09.55:947][160]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.26-00.09.55:947][160]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.26-00.09.55:947][160]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.26-00.09.55:947][160]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.26-00.09.55:947][160]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.26-00.09.55:947][160]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.26-00.09.55:947][160]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.26-00.09.55:947][160]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.26-00.09.55:947][160]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.26-00.09.55:947][160]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.26-00.09.55:947][160]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.26-00.09.55:947][160]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.26-00.09.55:947][160]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.26-00.09.55:947][160]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.26-00.09.56:390][160]LogEditorDataStorage: Deinitializing
+[2026.02.26-00.09.56:547][160]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.02.26-00.09.56:576][160]LogExit: Editor shut down
+[2026.02.26-00.09.56:583][160]LogExit: Transaction tracking system shut down
+[2026.02.26-00.09.56:943][160]LogExit: Object subsystem successfully closed.
+[2026.02.26-00.09.57:060][160]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.02.26-00.09.57:167][160]LogMemoryProfiler: Shutdown
+[2026.02.26-00.09.57:167][160]LogNetworkingProfiler: Shutdown
+[2026.02.26-00.09.57:167][160]LoadingProfiler: Shutdown
+[2026.02.26-00.09.57:168][160]LogTimingProfiler: Shutdown
+[2026.02.26-00.09.57:170][160]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.02.26-00.09.57:170][160]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.02.26-00.09.57:569][160]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.02.26-00.09.57:590][160]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.02.26-00.09.57:590][160]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9059E590-4288-5B1D-8E38-37B8702B3E4C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=a67975b3416ca9ff7690b0b9813169e1%7C244beab2db2c465a8189ea7e74b0fdc5%7Ccfdc77b2-bc02-4220-a4ef-cb2077fcedbc&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.02.26-00.09.58:139][160]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.02.26-00.09.58:146][160]RenderDocPlugin: plugin has been unloaded.
+[2026.02.26-00.09.58:147][160]LogNFORDenoise: NFORDenoise function shutting down
+[2026.02.26-00.09.58:148][160]LogXGEController: Cleaning working directory: C:/Users/Then2/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2026.02.26-00.09.58:152][160]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.02.26-00.09.58:152][160]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.02.26-00.09.58:152][160]LogPakFile: Destroying PakPlatformFile
+[2026.02.26-00.09.58:407][160]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.02.26-00.09.58:436][160]LogExit: Exiting.
+[2026.02.26-00.09.58:463][160]Log file closed, 02/25/26 16:09:58
