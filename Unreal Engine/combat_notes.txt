@@ -4,8 +4,8 @@
 		I.) static baseline dmg + height function
 			1a.) store player z location when started
 			2a.) when dmging, compare ^ w/ current z location; calculate and apply additional dmg
-1.) fix projectile speed and arc
-2.) projectile can bounce once then self-destruct
+*1.) fix projectile speed and arc
+*2.) projectile can bounce once then self-destruct
 2.5) 
 3.) hitting an enemy sets their stun to true
 	a.) mark appears above them
