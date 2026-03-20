@@ -1,11 +1,15 @@
-0.) wall jump
-00.) player can slam down while isFalling
+**0.) wall jump
+**00.) player can slam down while isFalling
 	a.) slam dmg is function of height dropped (lash)
+		I.) static baseline dmg + height function
+			1a.) store player z location when started
+			2a.) when dmging, compare ^ w/ current z location; calculate and apply additional dmg
 1.) fix projectile speed and arc
 2.) projectile can bounce once then self-destruct
+2.5) 
 3.) hitting an enemy sets their stun to true
 	a.) mark appears above them
 	b.) sends bpi to player w/ location of enemy
 	c.) after timer, reset stun, and send bpi to player to close window
-4.) player has window during stun to launch (lash pull) toward enemy
+4.) player has window (while stun is active) to launch (lash pull) toward enemy
 5.) if player maxes slingshot while isFalling, pause them in the air
