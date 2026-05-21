@@ -5052,3 +5052,190 @@ To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under 
 [2026.05.21-06.16.27:245][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2026.05.21-06.16.27:256][145]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
 [2026.05.21-06.16.27:363][146]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2026.05.21-06.20.38:208][206]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2026.05.21-06.20.38:213][206]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.045
+[2026.05.21-06.20.38:214][206]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/bluePrints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.05.21-06.20.38:240][206]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/bluePrints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2026.05.21-06.20.38:240][206]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/BP_FirstPersonCharacter]
+[2026.05.21-06.20.38:362][206]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/bluePrints/BP_FirstPersonCharacter_Auto6
+[2026.05.21-06.20.38:363][206]LogSavePackage: Moving '../../../../../../Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/BP_FirstPersonCharacter_Auto6A4321DB742D10D1D1F42CC886BC6CA22.tmp' to '../../../../../../Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/Autosaves/Game/bluePrints/BP_FirstPersonCharacter_Auto6.uasset'
+[2026.05.21-06.20.38:364][206]LogFileHelpers: Auto-saving content packages took 0.152
+[2026.05.21-06.21.10:136][954]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5045.409180
+[2026.05.21-06.21.11:139][957]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.21-06.21.11:139][957]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5046.078125, Update Interval: 303.153168
+[2026.05.21-06.22.26:844][496]LogEditorTransaction: Undo Create Pin Link
+[2026.05.21-06.23.16:453][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2026.05.21-06.23.16:621][257]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.21-06.23.16:684][257]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/bluePrints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.05.21-06.23.16:691][257]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/bluePrints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2026.05.21-06.23.16:691][257]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/BP_FirstPersonCharacter]
+[2026.05.21-06.23.16:792][257]LogSavePackage: Moving output files for package: /Game/bluePrints/BP_FirstPersonCharacter
+[2026.05.21-06.23.16:792][257]LogSavePackage: Moving '../../../../../../Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/BP_FirstPersonCharacterF33F603448E5F93F69350F829A1958FA.tmp' to '../../../../../../Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_FirstPersonCharacter.uasset'
+[2026.05.21-06.23.16:805][257]LogFileHelpers: InternalPromptForCheckoutAndSave took 183.705 ms (total: 7.87 sec)
+[2026.05.21-06.23.16:871][257]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.21-06.23.16:871][257]LogContentValidation: Enabled validators:
+[2026.05.21-06.23.16:871][257]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.21-06.23.16:871][257]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.21-06.23.16:871][257]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.21-06.23.16:871][257]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.21-06.23.16:871][257]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.21-06.23.16:871][257]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.21-06.23.16:871][257]AssetCheck: /Game/bluePrints/BP_FirstPersonCharacter Validating asset
+[2026.05.21-06.23.17:882][270]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.21-06.23.17:939][270]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluePrints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.05.21-06.23.17:939][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/BP_FirstPersonCharacter]
+[2026.05.21-06.23.18:035][270]LogSavePackage: Moving output files for package: /Game/bluePrints/BP_FirstPersonCharacter
+[2026.05.21-06.23.18:035][270]LogSavePackage: Moving '../../../../../../Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/BP_FirstPersonCharacter4EAE531448E9919F40BA81A0C5CD748B.tmp' to '../../../../../../Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_FirstPersonCharacter.uasset'
+[2026.05.21-06.23.18:046][270]LogFileHelpers: InternalPromptForCheckoutAndSave took 165.166 ms (total: 8.03 sec)
+[2026.05.21-06.23.18:108][270]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.21-06.23.18:108][270]LogContentValidation: Enabled validators:
+[2026.05.21-06.23.18:108][270]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.21-06.23.18:108][270]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.21-06.23.18:108][270]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.21-06.23.18:108][270]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.21-06.23.18:108][270]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.21-06.23.18:108][270]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.21-06.23.18:108][270]AssetCheck: /Game/bluePrints/BP_FirstPersonCharacter Validating asset
+[2026.05.21-06.23.20:258][374]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.21-06.23.20:269][374]LogContentBundle: [Level1(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.05.21-06.23.20:269][374]LogWorldPartition: Display: GenerateStreaming for 'Level1' started...
+[2026.05.21-06.23.20:271][374]LogWorldPartition: Display: GenerateStreaming for 'Level1' took 2.501 ms (total: 69.651 ms)
+[2026.05.21-06.23.20:271][374]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.21-06.23.20:295][374]LogPlayLevel: Display: Creating online subsystem for client :Context_34
+[2026.05.21-06.23.20:299][374]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2026.05.21-06.23.20:327][375]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2026.05.21-06.23.20:345][375]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.05.21-06.23.20:349][375]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.774 ms (total: 71.448 ms)
+[2026.05.21-06.23.20:350][375]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023460s)
+[2026.05.21-06.23.20:350][375]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.023508s)
+[2026.05.21-06.23.20:381][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2026.05.21-06.23.20:389][375]LogChaosDD: Creating Chaos Debug Draw Scene for world Level1
+[2026.05.21-06.23.20:392][375]LogWorldPartition: ULevel::OnLevelLoaded(Level1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.21-06.23.20:392][375]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.21-06.23.20:392][375]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_Level1.Level1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.21-06.23.20:392][375]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.21-06.23.20:397][375]LogWorldPartition: Display: WorldPartition initialize took 5.541 ms (total: 1.54 sec)
+[2026.05.21-06.23.20:397][375]LogPlayLevel: PIE: World Init took: (0.007851s)
+[2026.05.21-06.23.20:398][375]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2026.05.21-06.23.20:398][375]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.21-06.23.20:398][375]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.21-06.23.20:398][375]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.21-06.23.20:398][375]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.21-06.23.20:398][375]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.21-06.23.20:398][375]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.21-06.23.20:398][375]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.21-06.23.20:398][375]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.21-06.23.20:398][375]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.21-06.23.20:398][375]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.21-06.23.20:398][375]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.21-06.23.20:400][375]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.21-06.23.20:414][375]LogAudioMixer: Display: Using Audio Hardware Device Speakers (G432 Gaming Headset)
+[2026.05.21-06.23.20:414][375]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.21-06.23.20:414][375]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.21-06.23.20:414][375]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.21-06.23.20:414][375]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2026.05.21-06.23.20:414][375]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2026.05.21-06.23.20:418][375]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2026.05.21-06.23.20:418][375]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2026.05.21-06.23.20:418][375]LogInit: FAudioDevice initialized with ID 27.
+[2026.05.21-06.23.20:418][375]LogAudio: Display: Audio Device (ID: 27) registered with world 'Level1'.
+[2026.05.21-06.23.20:418][375]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2026.05.21-06.23.20:419][375]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2026.05.21-06.23.20:419][375]LogUIActionRouter: Error: Using CommonUI without a CommonGameViewportClient derived game viewport client. CommonUI Input routing will not function correctly.
+To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under [SystemSettings] in your project's DefaultEngine.ini.
+[2026.05.21-06.23.20:422][375]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.05.21-06.23.20:423][375]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2026.05.20-23.23.20
+[2026.05.21-06.23.20:423][375]LogWorld: Bringing up level for play took: 0.001036
+[2026.05.21-06.23.20:474][375]LogStreaming: Display: FlushAsyncLoading(3893,3892,3891,3890,3889,3882,3883,3884,3885,3886,3887,3888,3881,3868,3869,3870,3871,3872,3873,3874,3875,3876,3877,3878,3879,3880,3866,3867,3861,3862,3863,3864,3865,3838,3839,3840,3841,3842,3843,3844,3845,3846,3847,3848,3849,3850,3851,3852,3853,3854,3855,3856,3857,3858,3859,3860,3824,3825,3826,3827,3828,3829,3830,3831,3832,3833,3834,3835,3836,3837,3821,3822,3823,3804,3805,3806,3807,3808,3809,3810,3811,3812,3813,3814,3815,3816,3817,3818,3819,3820,3790,3791,3792,3793,3794,3795,3796,3797,3798,3799,3800,3801,3802,3803,3773,3774,3775,3776,3777,3778,3779,3780,3781,3782,3783,3784,3785,3786,3787,3788,3789,3772): 122 QueuedPackages, 0 AsyncPackages
+[2026.05.21-06.23.20:813][375]PIE: Server logged in
+[2026.05.21-06.23.20:816][375]PIE: Play in editor total start time 0.547 seconds.
+[2026.05.21-06.23.22:024][445]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 600.0
+[2026.05.21-06.23.23:460][531]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 1.666672
+[2026.05.21-06.23.23:641][542]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 600.0
+[2026.05.21-06.23.30:360][945]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 600.0
+[2026.05.21-06.23.30:680][964]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 0.600018
+[2026.05.21-06.23.30:860][975]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 600.0
+[2026.05.21-06.23.32:310][ 62]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 600.0
+[2026.05.21-06.23.33:560][137]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 600.0
+[2026.05.21-06.23.33:962][161]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 0.816669
+[2026.05.21-06.23.34:244][178]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 600.0
+[2026.05.21-06.23.34:626][201]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 600.0
+[2026.05.21-06.23.34:893][217]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 600.0
+[2026.05.21-06.23.35:144][232]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 600.0
+[2026.05.21-06.23.35:360][245]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 600.0
+[2026.05.21-06.23.35:610][260]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 600.0
+[2026.05.21-06.23.35:828][273]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 600.0
+[2026.05.21-06.23.36:111][290]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 600.0
+[2026.05.21-06.23.36:410][308]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 600.0
+[2026.05.21-06.23.38:501][432]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 600.0
+[2026.05.21-06.23.38:653][441]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 0.466668
+[2026.05.21-06.23.38:934][458]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 600.0
+[2026.05.21-06.23.39:218][475]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 600.0
+[2026.05.21-06.23.39:452][489]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 600.0
+[2026.05.21-06.23.39:702][504]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 600.0
+[2026.05.21-06.23.39:985][521]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 600.0
+[2026.05.21-06.23.40:318][541]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 600.0
+[2026.05.21-06.23.40:853][573]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 0.800343
+[2026.05.21-06.23.41:085][587]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 600.0
+[2026.05.21-06.23.41:453][609]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 600.0
+[2026.05.21-06.23.41:969][640]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 600.0
+[2026.05.21-06.23.42:218][655]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 600.0
+[2026.05.21-06.23.42:618][679]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 600.0
+[2026.05.21-06.23.42:818][691]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 600.0
+[2026.05.21-06.23.43:151][711]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 600.0
+[2026.05.21-06.23.43:468][730]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 600.0
+[2026.05.21-06.23.43:670][742]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 0.433335
+[2026.05.21-06.23.43:851][753]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 600.0
+[2026.05.21-06.23.44:134][770]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 600.0
+[2026.05.21-06.23.44:384][785]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 600.0
+[2026.05.21-06.23.44:670][802]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 600.0
+[2026.05.21-06.23.46:268][898]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 600.0
+[2026.05.21-06.23.46:321][901]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 0.166667
+[2026.05.21-06.23.46:451][909]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 600.0
+[2026.05.21-06.23.47:119][949]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 600.0
+[2026.05.21-06.23.49:153][ 71]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 600.0
+[2026.05.21-06.23.50:036][124]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 1.083338
+[2026.05.21-06.23.50:201][134]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 600.0
+[2026.05.21-06.23.52:468][270]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 600.0
+[2026.05.21-06.23.52:685][283]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 600.0
+[2026.05.21-06.23.52:952][299]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 600.0
+[2026.05.21-06.23.53:003][302]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 0.250001
+[2026.05.21-06.23.53:302][320]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 600.0
+[2026.05.21-06.23.55:869][474]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 600.0
+[2026.05.21-06.23.56:588][517]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 1.066671
+[2026.05.21-06.23.56:769][528]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 600.0
+[2026.05.21-06.23.58:921][657]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 600.0
+[2026.05.21-06.23.59:120][669]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 600.0
+[2026.05.21-06.23.59:436][688]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 600.0
+[2026.05.21-06.23.59:686][703]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 600.0
+[2026.05.21-06.23.59:788][709]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 0.283334
+[2026.05.21-06.23.59:969][720]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 600.0
+[2026.05.21-06.24.01:657][819]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.21-06.24.01:657][819]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2026.05.21-06.24.01:662][819]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2026.05.21-06.24.01:663][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.21-06.24.01:663][819]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_Level1.Level1
+[2026.05.21-06.24.01:665][819]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.21-06.24.01:671][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.21-06.24.01:706][819]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.21-06.24.01:706][819]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2026.05.21-06.24.01:707][819]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27, StreamState=4
+[2026.05.21-06.24.01:709][819]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27, StreamState=2
+[2026.05.21-06.24.01:714][819]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.21-06.24.01:725][819]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2026.05.21-06.24.01:845][820]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2026.05.21-06.24.05:647][959]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.21-06.24.05:707][959]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bluePrints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.05.21-06.24.05:707][959]OBJ SavePackage: Finished generating thumbnails for package [/Game/bluePrints/BP_FirstPersonCharacter]
+[2026.05.21-06.24.05:803][959]LogSavePackage: Moving output files for package: /Game/bluePrints/BP_FirstPersonCharacter
+[2026.05.21-06.24.05:803][959]LogSavePackage: Moving '../../../../../../Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Saved/BP_FirstPersonCharacter72AA2FCA4E03D0F37F9549B90139633E.tmp' to '../../../../../../Users/Then2/Documents/gitHub/DullahanD/Unreal Engine/Content/bluePrints/BP_FirstPersonCharacter.uasset'
+[2026.05.21-06.24.05:815][959]LogFileHelpers: InternalPromptForCheckoutAndSave took 167.238 ms (total: 8.20 sec)
+[2026.05.21-06.24.05:870][959]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.21-06.24.05:870][959]LogContentValidation: Enabled validators:
+[2026.05.21-06.24.05:870][959]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.21-06.24.05:870][959]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.21-06.24.05:870][959]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.21-06.24.05:870][959]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.21-06.24.05:870][959]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.21-06.24.05:870][959]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.21-06.24.05:870][959]AssetCheck: /Game/bluePrints/BP_FirstPersonCharacter Validating asset
