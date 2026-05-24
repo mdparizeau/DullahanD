@@ -22841,3 +22841,30 @@ To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under 
 [2026.05.24-02.32.19:017][493]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.05.24-02.32.19:017][493]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.05.24-02.32.19:019][493]AssetCheck: /Game/Levels/Level1 Validating asset
+[2026.05.24-02.34.15:650][931]Cmd: DELETE
+[2026.05.24-02.34.15:650][931]Cmd: ACTOR DELETE
+[2026.05.24-02.34.15:656][931]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2026.05.24-02.34.15:670][931]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2026.05.24-02.34.15:680][931]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2026.05.24-02.34.15:688][931]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2026.05.24-02.34.15:693][931]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2026.05.24-02.34.15:699][931]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2026.05.24-02.34.15:704][931]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2026.05.24-02.34.15:707][931]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2026.05.24-02.34.15:713][931]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2026.05.24-02.34.15:717][931]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2026.05.24-02.34.15:721][931]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2026.05.24-02.34.15:761][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2026.05.24-02.34.15:766][931]LogEditorActor: Deleted 11 Actors (0.116 secs)
+[2026.05.24-02.34.18:210][ 67]Cmd: DELETE
+[2026.05.24-02.34.18:210][ 67]Cmd: ACTOR DELETE
+[2026.05.24-02.34.18:216][ 67]LogEditorActor: Deleted Actor: Landscape
+[2026.05.24-02.34.18:259][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2026.05.24-02.34.18:268][ 67]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2026.05.24-02.34.21:008][228]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.05.24-02.34.21:801][228]LogSlate: Window 'Save Content' being destroyed
+[2026.05.24-02.34.21:861][228]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.24-02.34.22:028][228]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.05.24-02.34.22:066][228]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.05.24-02.34.22:099][228]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.05.24-02.34.22:151][228]LogFileHelpers: InternalPromptForCheckoutAndSave took 289.738 ms (total: 13.6 sec)
