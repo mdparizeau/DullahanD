@@ -2154,3 +2154,194 @@ To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under 
 [2026.05.24-03.17.50:932][728]AssetCheck: /Game/bluePrints/artAssets/Dullahan_Map_wip Validating asset
 [2026.05.24-03.17.50:932][728]AssetCheck: /Game/bluePrints/artAssets/FbxScene_Dullahan_Map_wip Validating asset
 [2026.05.24-03.17.50:964][728]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/maxja/Documents/GitHub/DullahanD/Unreal Engine/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.24-03.18.30:768][989]LogContentBundle: [Level1(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.05.24-03.18.30:768][989]LogWorldPartition: Display: GenerateStreaming for 'Level1' started...
+[2026.05.24-03.18.30:770][989]LogWorldPartition: Display: GenerateStreaming for 'Level1' took 2.146 ms (total: 11.773 ms)
+[2026.05.24-03.18.30:770][989]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.24-03.18.30:796][989]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2026.05.24-03.18.30:814][989]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.05.24-03.18.30:818][989]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 3.868 ms (total: 18.109 ms)
+[2026.05.24-03.18.30:819][989]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022086s)
+[2026.05.24-03.18.30:819][989]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.022125s)
+[2026.05.24-03.18.30:845][989]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2026.05.24-03.18.30:847][989]LogChaosDD: Creating Chaos Debug Draw Scene for world Level1
+[2026.05.24-03.18.30:849][989]LogWorldPartition: ULevel::OnLevelLoaded(Level1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.24-03.18.30:849][989]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.24-03.18.30:849][989]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_Level1.Level1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.24-03.18.30:849][989]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.24-03.18.30:856][989]LogWorldPartition: Display: WorldPartition initialize took 7.046 ms (total: 216.532 ms)
+[2026.05.24-03.18.30:856][989]LogPlayLevel: PIE: World Init took: (0.008934s)
+[2026.05.24-03.18.30:857][989]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2026.05.24-03.18.30:857][989]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.24-03.18.30:857][989]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.24-03.18.30:857][989]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.24-03.18.30:857][989]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.24-03.18.30:857][989]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.24-03.18.30:857][989]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.24-03.18.30:857][989]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.24-03.18.30:857][989]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.24-03.18.30:857][989]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.24-03.18.30:857][989]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.24-03.18.30:857][989]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.24-03.18.30:859][989]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.24-03.18.30:881][989]LogAudioMixer: Display: Using Audio Hardware Device gamerphones 2 (2- High Definition Audio Device)
+[2026.05.24-03.18.30:881][989]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.24-03.18.30:881][989]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.24-03.18.30:881][989]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.24-03.18.30:881][989]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2026.05.24-03.18.30:881][989]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2026.05.24-03.18.30:884][989]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2026.05.24-03.18.30:884][989]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2026.05.24-03.18.30:884][989]LogInit: FAudioDevice initialized with ID 6.
+[2026.05.24-03.18.30:884][989]LogAudio: Display: Audio Device (ID: 6) registered with world 'Level1'.
+[2026.05.24-03.18.30:884][989]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2026.05.24-03.18.30:884][989]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2026.05.24-03.18.30:884][989]LogUIActionRouter: Error: Using CommonUI without a CommonGameViewportClient derived game viewport client. CommonUI Input routing will not function correctly.
+To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under [SystemSettings] in your project's DefaultEngine.ini.
+[2026.05.24-03.18.30:888][989]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.05.24-03.18.30:889][989]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2026.05.23-20.18.30
+[2026.05.24-03.18.30:890][989]LogWorld: Bringing up level for play took: 0.000841
+[2026.05.24-03.18.30:892][989]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2026.05.24-03.18.30:900][989]LogStreaming: Display: FlushAsyncLoading(1386,1380,1381,1382,1383,1384,1385,1358,1359,1360,1361,1362,1363,1364,1365,1366,1367,1368,1369,1370,1371,1372,1373,1374,1375,1376,1377,1378,1379,1353,1354,1355,1356,1357,1351,1352,1334,1335,1336,1337,1338,1339,1340,1341,1342,1343,1344,1345,1346,1347,1348,1349,1350,1320,1321,1322,1323,1324,1325,1326,1327,1328,1329,1330,1331,1332,1333,1319,1298,1299,1300,1301,1302,1303,1304,1305,1306,1307,1308,1309,1310,1311,1312,1313,1314,1315,1316,1317,1318,1284,1285,1286,1287,1288,1289,1290,1291,1292,1293,1294,1295,1296,1297,1272,1273,1274,1275,1276,1277,1278,1279,1280,1281,1282,1283,1255,1256,1257,1258,1259,1260,1261,1262,1263,1264,1265,1266,1267,1268,1269,1270,1271,1254): 133 QueuedPackages, 0 AsyncPackages
+[2026.05.24-03.18.30:956][989]PIE: Warning: AttachTo: '/Memory/UEDPIE_0_Level1_8PVJIWPB17YBFN3N93FFPCRMK.Level1:PersistentLevel.FbxScene_Dullahan_Map_wip_C_UAID_D8BBC101159BE3DD02_1826706824.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Dullahan_Map_wip"), cannot attach '/Memory/UEDPIE_0_Level1_8PVJIWPB17YBFN3N93FFPCRMK.Level1:PersistentLevel.FbxScene_Dullahan_Map_wip_C_UAID_D8BBC101159BE3DD02_1826706824.Map' which is static to it. Aborting.
+[2026.05.24-03.18.31:117][989]PIE: Server logged in
+[2026.05.24-03.18.31:119][989]PIE: Play in editor total start time 0.352 seconds.
+[2026.05.24-03.22.38:581][371]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 986.094849
+[2026.05.24-03.22.39:581][374]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.24-03.22.39:581][374]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 986.761536, Update Interval: 356.852325
+[2026.05.24-03.28.34:335][675]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Shot is ON COOLDOWN
+[2026.05.24-03.28.34:504][691]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Shot is ON COOLDOWN
+[2026.05.24-03.28.35:245][767]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Shot is ON COOLDOWN
+[2026.05.24-03.28.35:387][782]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Shot is ON COOLDOWN
+[2026.05.24-03.28.35:513][795]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Shot is ON COOLDOWN
+[2026.05.24-03.28.35:637][808]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Shot is ON COOLDOWN
+[2026.05.24-03.28.36:157][861]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Shot is ON COOLDOWN
+[2026.05.24-03.28.36:378][882]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Shot is ON COOLDOWN
+[2026.05.24-03.28.36:575][903]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Shot is ON COOLDOWN
+[2026.05.24-03.28.36:919][938]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Shot is ON COOLDOWN
+[2026.05.24-03.28.37:146][962]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Shot is ON COOLDOWN
+[2026.05.24-03.28.37:334][982]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Shot is ON COOLDOWN
+[2026.05.24-03.28.37:753][ 24]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Shot is ON COOLDOWN
+[2026.05.24-03.28.38:569][109]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Shot is ON COOLDOWN
+[2026.05.24-03.28.40:254][283]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Shot is ON COOLDOWN
+[2026.05.24-03.28.41:071][361]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Shot is ON COOLDOWN
+[2026.05.24-03.28.42:059][448]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Shot is ON COOLDOWN
+[2026.05.24-03.28.42:308][473]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Shot is ON COOLDOWN
+[2026.05.24-03.28.43:315][572]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Shot is ON COOLDOWN
+[2026.05.24-03.28.44:296][665]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Shot is ON COOLDOWN
+[2026.05.24-03.28.44:474][682]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Shot is ON COOLDOWN
+[2026.05.24-03.28.45:092][742]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Shot is ON COOLDOWN
+[2026.05.24-03.28.45:320][764]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Shot is ON COOLDOWN
+[2026.05.24-03.28.45:920][825]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Shot is ON COOLDOWN
+[2026.05.24-03.28.46:535][888]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Shot is ON COOLDOWN
+[2026.05.24-03.28.47:505][988]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Shot is ON COOLDOWN
+[2026.05.24-03.28.49:234][163]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1356.747681
+[2026.05.24-03.28.49:388][179]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.24-03.28.49:388][179]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1356.893188, Update Interval: 354.486511
+[2026.05.24-03.28.49:457][187]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Shot is ON COOLDOWN
+[2026.05.24-03.28.49:584][200]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Shot is ON COOLDOWN
+[2026.05.24-03.28.49:772][218]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Shot is ON COOLDOWN
+[2026.05.24-03.28.49:950][236]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Shot is ON COOLDOWN
+[2026.05.24-03.28.50:241][266]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Shot is ON COOLDOWN
+[2026.05.24-03.28.59:737][152]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Shot is ON COOLDOWN
+[2026.05.24-03.29.00:125][189]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Shot is ON COOLDOWN
+[2026.05.24-03.29.13:506][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.24-03.29.13:506][601]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2026.05.24-03.29.13:510][601]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2026.05.24-03.29.13:511][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.24-03.29.13:511][601]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_Level1.Level1
+[2026.05.24-03.29.13:512][601]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.24-03.29.13:519][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.24-03.29.13:547][601]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.24-03.29.13:547][601]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2026.05.24-03.29.13:547][601]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2026.05.24-03.29.13:549][601]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2026.05.24-03.29.13:553][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.24-03.29.13:563][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2026.05.24-03.29.13:712][602]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2026.05.24-03.32.26:123][317]LogSlate: Window 'Message Log' being destroyed
+[2026.05.24-03.32.26:135][317]LogSlate: Window 'Message Log' being destroyed
+[2026.05.24-03.34.36:440][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2026.05.24-03.34.36:556][941]LogStall: Shutdown...
+[2026.05.24-03.34.36:556][941]LogStall: Shutdown complete.
+[2026.05.24-03.34.36:629][941]LogSlate: Window 'DullahanD - Unreal Editor' being destroyed
+[2026.05.24-03.34.36:759][941]Cmd: QUIT_EDITOR
+[2026.05.24-03.34.36:759][942]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.05.24-03.34.36:771][942]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.05.24-03.34.36:772][942]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.05.24-03.34.36:772][942]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.05.24-03.34.36:775][942]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2026.05.24-03.34.36:775][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.24-03.34.36:775][942]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/Level1.Level1
+[2026.05.24-03.34.36:799][942]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.05.24-03.34.36:800][942]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.05.24-03.34.36:800][942]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.05.24-03.34.36:805][942]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.05.24-03.34.36:805][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.24-03.34.36:811][942]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.05.24-03.34.36:811][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.24-03.34.36:816][942]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.05.24-03.34.36:816][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.24-03.34.36:821][942]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.05.24-03.34.36:821][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.24-03.34.36:825][942]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.05.24-03.34.36:825][942]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.05.24-03.34.36:830][942]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.05.24-03.34.36:964][942]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.05.24-03.34.36:964][942]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.05.24-03.34.36:964][942]LogAudio: Display: Audio Device unregistered from world 'Level1'.
+[2026.05.24-03.34.36:964][942]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.05.24-03.34.36:964][942]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.05.24-03.34.36:967][942]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.05.24-03.34.36:974][942]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.05.24-03.34.36:974][942]LogAudio: Display: Audio Device Manager Shutdown
+[2026.05.24-03.34.36:976][942]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2026.05.24-03.34.36:980][942]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.05.24-03.34.36:981][942]LogExit: Preparing to exit.
+[2026.05.24-03.34.37:063][942]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2026.05.24-03.34.37:077][942]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.24-03.34.37:077][942]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.24-03.34.37:077][942]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.24-03.34.37:077][942]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.24-03.34.37:077][942]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.24-03.34.37:077][942]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.24-03.34.37:077][942]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.24-03.34.37:077][942]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.24-03.34.37:077][942]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.24-03.34.37:077][942]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.24-03.34.37:077][942]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.24-03.34.37:077][942]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.24-03.34.37:077][942]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.24-03.34.37:077][942]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.24-03.34.37:077][942]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.24-03.34.37:077][942]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.24-03.34.37:077][942]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.24-03.34.37:077][942]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.24-03.34.37:077][942]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.24-03.34.37:077][942]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.24-03.34.37:077][942]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.24-03.34.37:480][942]LogEditorDataStorage: Deinitializing
+[2026.05.24-03.34.37:660][942]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.05.24-03.34.37:676][942]LogExit: Editor shut down
+[2026.05.24-03.34.37:679][942]LogExit: Transaction tracking system shut down
+[2026.05.24-03.34.37:888][942]LogExit: Object subsystem successfully closed.
+[2026.05.24-03.34.37:958][942]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.05.24-03.34.38:145][942]LogMemoryProfiler: Shutdown
+[2026.05.24-03.34.38:145][942]LogNetworkingProfiler: Shutdown
+[2026.05.24-03.34.38:145][942]LoadingProfiler: Shutdown
+[2026.05.24-03.34.38:145][942]LogTimingProfiler: Shutdown
+[2026.05.24-03.34.38:145][942]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.05.24-03.34.38:145][942]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.05.24-03.34.38:453][942]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.05.24-03.34.38:482][942]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.05.24-03.34.38:482][942]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B14DA89AD-4D63-2906-BFC2-C8B2F58E19F5%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=83a1a28f484294ab2aa5fdb80fdd5ae7%7C3966c4b6446c43c3badde7debc406e16%7Cf027af44-ce40-44f8-82b1-4c1e4961fbd0&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.05.24-03.34.39:045][942]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.05.24-03.34.39:045][942]RenderDocPlugin: plugin has been unloaded.
+[2026.05.24-03.34.39:053][942]LogNFORDenoise: NFORDenoise function shutting down
+[2026.05.24-03.34.39:054][942]LogXGEController: Cleaning working directory: C:/Users/maxja/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2026.05.24-03.34.39:059][942]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.05.24-03.34.39:059][942]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.05.24-03.34.39:059][942]LogPakFile: Destroying PakPlatformFile
+[2026.05.24-03.34.39:257][942]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.05.24-03.34.39:279][942]LogExit: Exiting.
+[2026.05.24-03.34.39:303][942]Log file closed, 05/23/26 20:34:39
